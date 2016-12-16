@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Thu Dec 15 18:50:30 +0000 2016",
+		"id": 809470707931484200,
+		"id_str": "809470707931484160",
+		"text": "RT @zbitter: As always... a solid read put out by Mario Fraioli https://t.co/BTFSQchbCs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zbitter",
+					"name": "Zach Bitter",
+					"id": 100595958,
+					"id_str": "100595958",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BTFSQchbCs",
+					"expanded_url": "http://fb.me/7YCf1kMLE",
+					"display_url": "fb.me/7YCf1kMLE",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471,
+			"friends_count": 268,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 627,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 15 15:53:25 +0000 2016",
+			"id": 809426142692159500,
+			"id_str": "809426142692159488",
+			"text": "As always... a solid read put out by Mario Fraioli https://t.co/BTFSQchbCs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BTFSQchbCs",
+						"expanded_url": "http://fb.me/7YCf1kMLE",
+						"display_url": "fb.me/7YCf1kMLE",
+						"indices": [
+							51,
+							74
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 100595958,
+				"id_str": "100595958",
+				"name": "Zach Bitter",
+				"screen_name": "zbitter",
+				"location": "Carmichael, CA",
+				"description": "Ultramarathon Runner, @AltraRunning Endurance Racing Team, Coach and Strategist at Zach Bitter Running  http://t.co/hoDHMFC91l",
+				"url": "http://t.co/hoDHMFC91l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/hoDHMFC91l",
+								"expanded_url": "http://zachbitter.com",
+								"display_url": "zachbitter.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/hoDHMFC91l",
+								"expanded_url": "http://zachbitter.com",
+								"display_url": "zachbitter.com",
+								"indices": [
+									104,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3559,
+				"friends_count": 686,
+				"listed_count": 112,
+				"created_at": "Wed Dec 30 21:07:21 +0000 2009",
+				"favourites_count": 1536,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3355,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/572937069408690176/eC03q_p6.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/572937069408690176/eC03q_p6.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/620808921561763840/tr7A3PbV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/620808921561763840/tr7A3PbV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/100595958/1436847313",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 15 11:05:35 +0000 2016",
+		"id": 809353705954934800,
+		"id_str": "809353705954934785",
+		"text": "RT @madamevecartoon: #Guptas give #DonaldTrump a call... toon in this week's earlier edition of the @mailandguardian https://t.co/875xVPfXxF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Guptas",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "DonaldTrump",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "madamevecartoon",
+					"name": "Madam & Eve",
+					"id": 250056239,
+					"id_str": "250056239",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "mailandguardian",
+					"name": "Mail & Guardian",
+					"id": 16735210,
+					"id_str": "16735210",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 809292454545522700,
+					"id_str": "809292454545522689",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CzsvMxiXAAEnyCs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzsvMxiXAAEnyCs.jpg",
+					"url": "https://t.co/875xVPfXxF",
+					"display_url": "pic.twitter.com/875xVPfXxF",
+					"expanded_url": "https://twitter.com/madamevecartoon/status/809292475445690368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 809292475445690400,
+					"source_status_id_str": "809292475445690368",
+					"source_user_id": 250056239,
+					"source_user_id_str": "250056239"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 809292454545522700,
+					"id_str": "809292454545522689",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CzsvMxiXAAEnyCs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzsvMxiXAAEnyCs.jpg",
+					"url": "https://t.co/875xVPfXxF",
+					"display_url": "pic.twitter.com/875xVPfXxF",
+					"expanded_url": "https://twitter.com/madamevecartoon/status/809292475445690368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 809292475445690400,
+					"source_status_id_str": "809292475445690368",
+					"source_user_id": 250056239,
+					"source_user_id_str": "250056239"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471,
+			"friends_count": 268,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 627,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 15 07:02:16 +0000 2016",
+			"id": 809292475445690400,
+			"id_str": "809292475445690368",
+			"text": "#Guptas give #DonaldTrump a call... toon in this week's earlier edition of the @mailandguardian https://t.co/875xVPfXxF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Guptas",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "DonaldTrump",
+						"indices": [
+							13,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mailandguardian",
+						"name": "Mail & Guardian",
+						"id": 16735210,
+						"id_str": "16735210",
+						"indices": [
+							79,
+							95
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 809292454545522700,
+						"id_str": "809292454545522689",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/CzsvMxiXAAEnyCs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzsvMxiXAAEnyCs.jpg",
+						"url": "https://t.co/875xVPfXxF",
+						"display_url": "pic.twitter.com/875xVPfXxF",
+						"expanded_url": "https://twitter.com/madamevecartoon/status/809292475445690368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 667,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 667,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 809292454545522700,
+						"id_str": "809292454545522689",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/CzsvMxiXAAEnyCs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzsvMxiXAAEnyCs.jpg",
+						"url": "https://t.co/875xVPfXxF",
+						"display_url": "pic.twitter.com/875xVPfXxF",
+						"expanded_url": "https://twitter.com/madamevecartoon/status/809292475445690368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 667,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 667,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 250056239,
+				"id_str": "250056239",
+				"name": "Madam & Eve",
+				"screen_name": "madamevecartoon",
+				"location": "South Africa",
+				"description": "Written by Stephen Francis and drawn by Rico Schacherl, the hilarious Madam & Eve cartoon strip has been tickling South Africa's national funny bone since 1992.",
+				"url": "http://t.co/saVfDur0xz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/saVfDur0xz",
+								"expanded_url": "http://www.madamandeve.co.za",
+								"display_url": "madamandeve.co.za",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5455,
+				"friends_count": 289,
+				"listed_count": 80,
+				"created_at": "Thu Feb 10 09:58:37 +0000 2011",
+				"favourites_count": 176,
+				"utc_offset": 7200,
+				"time_zone": "Pretoria",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2130,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657123764694614016/gPG-oAii.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657123764694614016/gPG-oAii.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794416373711720448/ilId8Oms_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794416373711720448/ilId8Oms_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/250056239/1478238548",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 14 11:12:26 +0000 2016",
 		"id": 808993044427116500,
 		"id_str": "808993044427116544",
