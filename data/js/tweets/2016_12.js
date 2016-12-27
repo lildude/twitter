@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Mon Dec 26 21:16:16 +0000 2016",
+		"id": 813493656418185200,
+		"id_str": "813493656418185218",
+		"text": "RT @elmer_dudd: Your boyfriend has spent the day resisting the leftovers buffets because he's had serious shit to do on MS Paint https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elmer_dudd",
+					"name": "Messy Elliott",
+					"id": 53713812,
+					"id_str": "53713812",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470,
+			"friends_count": 268,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 630,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4865,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 26 16:47:30 +0000 2016",
+			"id": 813426020015542300,
+			"id_str": "813426020015542272",
+			"text": "Your boyfriend has spent the day resisting the leftovers buffets because he's had serious shit to do on MS Paint https://t.co/r2g3tfMerR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 813425992115122200,
+						"id_str": "813425992115122176",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C0neoU8XcAA7MNg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0neoU8XcAA7MNg.jpg",
+						"url": "https://t.co/r2g3tfMerR",
+						"display_url": "pic.twitter.com/r2g3tfMerR",
+						"expanded_url": "https://twitter.com/elmer_dudd/status/813426020015542272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 622,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 878,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 878,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 813425992115122200,
+						"id_str": "813425992115122176",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C0neoU8XcAA7MNg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0neoU8XcAA7MNg.jpg",
+						"url": "https://t.co/r2g3tfMerR",
+						"display_url": "pic.twitter.com/r2g3tfMerR",
+						"expanded_url": "https://twitter.com/elmer_dudd/status/813426020015542272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 622,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 878,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 878,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53713812,
+				"id_str": "53713812",
+				"name": "Messy Elliott",
+				"screen_name": "elmer_dudd",
+				"location": "Liverpool",
+				"description": "You might remember me from that one tweet",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1332,
+				"friends_count": 185,
+				"listed_count": 20,
+				"created_at": "Sat Jul 04 17:13:53 +0000 2009",
+				"favourites_count": 10904,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61211,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/328593291/HEADKERMIT.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/328593291/HEADKERMIT.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/480404126501576705/0QXr0eSR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/480404126501576705/0QXr0eSR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53713812/1382741043",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "282652abfa70c570",
+				"url": "https://api.twitter.com/1.1/geo/id/282652abfa70c570.json",
+				"place_type": "city",
+				"name": "Bury",
+				"full_name": "Bury, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.364483,
+								53.535082
+							],
+							[
+								-2.2450333,
+								53.535082
+							],
+							[
+								-2.2450333,
+								53.6263139
+							],
+							[
+								-2.364483,
+								53.6263139
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 24 10:31:12 +0000 2016",
 		"id": 812606545443913700,
 		"id_str": "812606545443913728",
