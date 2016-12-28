@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 27 20:13:41 +0000 2016",
+		"id": 813840294684852200,
+		"id_str": "813840294684852224",
+		"text": "RT @hourlyterrier: It now becomes clear what position Nigel Farage has been vying for https://t.co/1yqkoJXGug",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hourlyterrier",
+					"name": "John Shafthauer",
+					"id": 3248133616,
+					"id_str": "3248133616",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1yqkoJXGug",
+					"expanded_url": "https://twitter.com/khanoisseur/status/799394420311236608",
+					"display_url": "twitter.com/khanoisseur/st…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470,
+			"friends_count": 268,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 630,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4866,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 25 23:53:29 +0000 2016",
+			"id": 813170832663052300,
+			"id_str": "813170832663052288",
+			"text": "It now becomes clear what position Nigel Farage has been vying for https://t.co/1yqkoJXGug",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1yqkoJXGug",
+						"expanded_url": "https://twitter.com/khanoisseur/status/799394420311236608",
+						"display_url": "twitter.com/khanoisseur/st…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3248133616,
+				"id_str": "3248133616",
+				"name": "John Shafthauer",
+				"screen_name": "hourlyterrier",
+				"location": "Preston - UK - Earth",
+				"description": "Satirist/writer at The Canary (@TheCanarySays). Animator at @NotGoodCartoons . Former sandwich artist/cleaner/postman. Opinions not of my employer unless stated",
+				"url": "https://t.co/TgbkVlZF56",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TgbkVlZF56",
+								"expanded_url": "http://www.thehourlyterrier.co.uk",
+								"display_url": "thehourlyterrier.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7967,
+				"friends_count": 8737,
+				"listed_count": 32,
+				"created_at": "Tue May 12 15:48:10 +0000 2015",
+				"favourites_count": 11060,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763786945889759232/7kIWlF3S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763786945889759232/7kIWlF3S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3248133616/1470936016",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 799394420311236600,
+			"quoted_status_id_str": "799394420311236608",
+			"quoted_status": {
+				"created_at": "Thu Nov 17 23:30:56 +0000 2016",
+				"id": 799394420311236600,
+				"id_str": "799394420311236608",
+				"text": "Trump is first US president in 125 years without a pet https://t.co/z7Sy8JkLf1",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 799394411180195800,
+							"id_str": "799394411180195841",
+							"indices": [
+								55,
+								78
+							],
+							"media_url": "http://pbs.twimg.com/media/CxgE-0nUAAEVxuV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxgE-0nUAAEVxuV.jpg",
+							"url": "https://t.co/z7Sy8JkLf1",
+							"display_url": "pic.twitter.com/z7Sy8JkLf1",
+							"expanded_url": "https://twitter.com/Khanoisseur/status/799394420311236608/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1160,
+									"h": 629,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 369,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1160,
+									"h": 629,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 799394411180195800,
+							"id_str": "799394411180195841",
+							"indices": [
+								55,
+								78
+							],
+							"media_url": "http://pbs.twimg.com/media/CxgE-0nUAAEVxuV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxgE-0nUAAEVxuV.jpg",
+							"url": "https://t.co/z7Sy8JkLf1",
+							"display_url": "pic.twitter.com/z7Sy8JkLf1",
+							"expanded_url": "https://twitter.com/Khanoisseur/status/799394420311236608/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1160,
+									"h": 629,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 369,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1160,
+									"h": 629,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						},
+						{
+							"id": 799394411180269600,
+							"id_str": "799394411180269568",
+							"indices": [
+								55,
+								78
+							],
+							"media_url": "http://pbs.twimg.com/media/CxgE-0nVIAAMzdH.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxgE-0nVIAAMzdH.jpg",
+							"url": "https://t.co/z7Sy8JkLf1",
+							"display_url": "pic.twitter.com/z7Sy8JkLf1",
+							"expanded_url": "https://twitter.com/Khanoisseur/status/799394420311236608/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 804,
+									"h": 1000,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 804,
+									"h": 1000,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 547,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 799394411205406700,
+							"id_str": "799394411205406720",
+							"indices": [
+								55,
+								78
+							],
+							"media_url": "http://pbs.twimg.com/media/CxgE-0tUsAAJDYw.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxgE-0tUsAAJDYw.jpg",
+							"url": "https://t.co/z7Sy8JkLf1",
+							"display_url": "pic.twitter.com/z7Sy8JkLf1",
+							"expanded_url": "https://twitter.com/Khanoisseur/status/799394420311236608/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 454,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 501,
+									"h": 750,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 501,
+									"h": 750,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 799394411201208300,
+							"id_str": "799394411201208321",
+							"indices": [
+								55,
+								78
+							],
+							"media_url": "http://pbs.twimg.com/media/CxgE-0sUoAEfh6z.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxgE-0sUoAEfh6z.jpg",
+							"url": "https://t.co/z7Sy8JkLf1",
+							"display_url": "pic.twitter.com/z7Sy8JkLf1",
+							"expanded_url": "https://twitter.com/Khanoisseur/status/799394420311236608/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 150,
+									"h": 275,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 150,
+									"h": 275,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 150,
+									"h": 275,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": 799348020886147100,
+				"in_reply_to_status_id_str": "799348020886147072",
+				"in_reply_to_user_id": 373564351,
+				"in_reply_to_user_id_str": "373564351",
+				"in_reply_to_screen_name": "Khanoisseur",
+				"user": {
+					"id": 373564351,
+					"id_str": "373564351",
+					"name": "Adam Khan",
+					"screen_name": "Khanoisseur",
+					"location": "NYC SF DC",
+					"description": "Majordomo. Author @HACKtheBIRD. Owned by @SFBullWrinkles Startups, Investments ~ Stuff @Twitter @Google @TeslaMotors @SpaceX @Chanel @Loreal @Uber @Apple @USDS",
+					"url": "https://t.co/yrdgquRq5S",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/yrdgquRq5S",
+									"expanded_url": "https://www.gofundme.com/adamkhan/",
+									"display_url": "gofundme.com/adamkhan/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 58319,
+					"friends_count": 8982,
+					"listed_count": 1507,
+					"created_at": "Wed Sep 14 20:14:50 +0000 2011",
+					"favourites_count": 810788,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 14156,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "DBE9ED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/682849199/38bbb6faebf3f845471f2d1c153d474f.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/682849199/38bbb6faebf3f845471f2d1c153d474f.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/767965928445227008/SQYnBzP0_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/767965928445227008/SQYnBzP0_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/373564351/1445384407",
+					"profile_link_color": "DD2E44",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E6F6F9",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "5a110d312052166f",
+					"url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+					"place_type": "city",
+					"name": "San Francisco",
+					"full_name": "San Francisco, CA",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-122.514926,
+									37.708075
+								],
+								[
+									-122.357031,
+									37.708075
+								],
+								[
+									-122.357031,
+									37.833238
+								],
+								[
+									-122.514926,
+									37.833238
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 967,
+				"favorite_count": 1171,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 159,
+			"favorite_count": 216,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 799394420311236600,
+		"quoted_status_id_str": "799394420311236608",
+		"retweet_count": 159,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 26 21:16:16 +0000 2016",
 		"id": 813493656418185200,
 		"id_str": "813493656418185218",
