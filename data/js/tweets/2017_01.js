@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 09 08:23:33 +0000 2017",
+		"id": 818372625558868000,
+		"id_str": "818372625558867969",
+		"text": "RT @DatesInMovies: Jan 8th 2016 - Roy Batty was incepted #BladeRunner (Happy 1st birthday Roy!) https://t.co/YAgUgjtEUE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BladeRunner",
+					"indices": [
+						57,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DatesInMovies",
+					"name": "Dates in Movies",
+					"id": 1146429722,
+					"id_str": "1146429722",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 818170129141928000,
+					"id_str": "818170129141927937",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/C1q5ZclXEAEXI-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1q5ZclXEAEXI-w.jpg",
+					"url": "https://t.co/YAgUgjtEUE",
+					"display_url": "pic.twitter.com/YAgUgjtEUE",
+					"expanded_url": "https://twitter.com/DatesInMovies/status/818170155318575108/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 297,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818170155318575100,
+					"source_status_id_str": "818170155318575108",
+					"source_user_id": 1146429722,
+					"source_user_id_str": "1146429722"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 818170129141928000,
+					"id_str": "818170129141927937",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/C1q5ZclXEAEXI-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1q5ZclXEAEXI-w.jpg",
+					"url": "https://t.co/YAgUgjtEUE",
+					"display_url": "pic.twitter.com/YAgUgjtEUE",
+					"expanded_url": "https://twitter.com/DatesInMovies/status/818170155318575108/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 297,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818170155318575100,
+					"source_status_id_str": "818170155318575108",
+					"source_user_id": 1146429722,
+					"source_user_id_str": "1146429722"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 269,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 635,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 08 18:59:00 +0000 2017",
+			"id": 818170155318575100,
+			"id_str": "818170155318575108",
+			"text": "Jan 8th 2016 - Roy Batty was incepted #BladeRunner (Happy 1st birthday Roy!) https://t.co/YAgUgjtEUE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BladeRunner",
+						"indices": [
+							38,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 818170129141928000,
+						"id_str": "818170129141927937",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/C1q5ZclXEAEXI-w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1q5ZclXEAEXI-w.jpg",
+						"url": "https://t.co/YAgUgjtEUE",
+						"display_url": "pic.twitter.com/YAgUgjtEUE",
+						"expanded_url": "https://twitter.com/DatesInMovies/status/818170155318575108/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 297,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 297,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 818170129141928000,
+						"id_str": "818170129141927937",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/C1q5ZclXEAEXI-w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1q5ZclXEAEXI-w.jpg",
+						"url": "https://t.co/YAgUgjtEUE",
+						"display_url": "pic.twitter.com/YAgUgjtEUE",
+						"expanded_url": "https://twitter.com/DatesInMovies/status/818170155318575108/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 297,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 297,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1146429722,
+				"id_str": "1146429722",
+				"name": "Dates in Movies",
+				"screen_name": "DatesInMovies",
+				"location": "",
+				"description": "Tweeting the dates of major events in movie history. There will be spoilers!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7209,
+				"friends_count": 20,
+				"listed_count": 55,
+				"created_at": "Sun Feb 03 22:41:50 +0000 2013",
+				"favourites_count": 892,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1625,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3453127041/8ca660c8a212756adbe1d4a0410bbc02_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3453127041/8ca660c8a212756adbe1d4a0410bbc02_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146429722/1364674596",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 07 20:00:52 +0000 2017",
 		"id": 817823337103691800,
 		"id_str": "817823337103691776",
