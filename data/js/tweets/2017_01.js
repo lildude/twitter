@@ -1,6 +1,719 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Tue Jan 10 16:22:43 +0000 2017",
+		"id": 818855599043674100,
+		"id_str": "818855599043674113",
+		"text": "RT @WetherspoonsUK: When @nytimes actually quoted my tweet thinking it was the real Wetherspoon. 😂😂🎣 https://t.co/gF8PmZ5J9D",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WetherspoonsUK",
+					"name": "JD WETHERSP00N",
+					"id": 2814773068,
+					"id_str": "2814773068",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 818733337313443800,
+					"id_str": "818733337313443841",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/C1y5oehWgAERMF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1y5oehWgAERMF_.jpg",
+					"url": "https://t.co/gF8PmZ5J9D",
+					"display_url": "pic.twitter.com/gF8PmZ5J9D",
+					"expanded_url": "https://twitter.com/WetherspoonsUK/status/818733344527683584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 735,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 742,
+							"h": 1211,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 818733344527683600,
+					"source_status_id_str": "818733344527683584",
+					"source_user_id": 2814773068,
+					"source_user_id_str": "2814773068"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 818733337313443800,
+					"id_str": "818733337313443841",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/C1y5oehWgAERMF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1y5oehWgAERMF_.jpg",
+					"url": "https://t.co/gF8PmZ5J9D",
+					"display_url": "pic.twitter.com/gF8PmZ5J9D",
+					"expanded_url": "https://twitter.com/WetherspoonsUK/status/818733344527683584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 735,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 742,
+							"h": 1211,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 818733344527683600,
+					"source_status_id_str": "818733344527683584",
+					"source_user_id": 2814773068,
+					"source_user_id_str": "2814773068"
+				},
+				{
+					"id": 818733337317666800,
+					"id_str": "818733337317666816",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/C1y5oeiW8AAbmDu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1y5oeiW8AAbmDu.jpg",
+					"url": "https://t.co/gF8PmZ5J9D",
+					"display_url": "pic.twitter.com/gF8PmZ5J9D",
+					"expanded_url": "https://twitter.com/WetherspoonsUK/status/818733344527683584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 744,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 745,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818733344527683600,
+					"source_status_id_str": "818733344527683584",
+					"source_user_id": 2814773068,
+					"source_user_id_str": "2814773068"
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 270,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 635,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4891,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 10 08:16:55 +0000 2017",
+			"id": 818733344527683600,
+			"id_str": "818733344527683584",
+			"text": "When @nytimes actually quoted my tweet thinking it was the real Wetherspoon. 😂😂🎣 https://t.co/gF8PmZ5J9D",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							5,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 818733337313443800,
+						"id_str": "818733337313443841",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/C1y5oehWgAERMF_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1y5oehWgAERMF_.jpg",
+						"url": "https://t.co/gF8PmZ5J9D",
+						"display_url": "pic.twitter.com/gF8PmZ5J9D",
+						"expanded_url": "https://twitter.com/WetherspoonsUK/status/818733344527683584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 735,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 742,
+								"h": 1211,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 417,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 818733337313443800,
+						"id_str": "818733337313443841",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/C1y5oehWgAERMF_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1y5oehWgAERMF_.jpg",
+						"url": "https://t.co/gF8PmZ5J9D",
+						"display_url": "pic.twitter.com/gF8PmZ5J9D",
+						"expanded_url": "https://twitter.com/WetherspoonsUK/status/818733344527683584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 735,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 742,
+								"h": 1211,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 417,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 818733337317666800,
+						"id_str": "818733337317666816",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/C1y5oeiW8AAbmDu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1y5oeiW8AAbmDu.jpg",
+						"url": "https://t.co/gF8PmZ5J9D",
+						"display_url": "pic.twitter.com/gF8PmZ5J9D",
+						"expanded_url": "https://twitter.com/WetherspoonsUK/status/818733344527683584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 744,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 745,
+								"h": 1201,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 422,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 818540425489289200,
+			"in_reply_to_status_id_str": "818540425489289216",
+			"in_reply_to_user_id": 807095,
+			"in_reply_to_user_id_str": "807095",
+			"in_reply_to_screen_name": "nytimes",
+			"user": {
+				"id": 2814773068,
+				"id_str": "2814773068",
+				"name": "JD WETHERSP00N",
+				"screen_name": "WetherspoonsUK",
+				"location": "Your nearest Spoons",
+				"description": "The high streets favorite pub for drink, food & despair! PARODY! NOT JD Wetherspoon! Run by @SpoonsTom Home of #SpoonsCustomerService",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10710,
+				"friends_count": 270,
+				"listed_count": 30,
+				"created_at": "Tue Oct 07 17:49:03 +0000 2014",
+				"favourites_count": 3913,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2396,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761323122607947777/mhdPzdrl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761323122607947777/mhdPzdrl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2814773068/1470349060",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 213,
+			"favorite_count": 340,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 10 09:10:35 +0000 2017",
+		"id": 818746851797110800,
+		"id_str": "818746851797110784",
+		"text": "😂 Funny but incredibly sad too. https://t.co/AAln1eBltk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAln1eBltk",
+					"expanded_url": "https://twitter.com/helenkennedy/status/818522209283178498",
+					"display_url": "twitter.com/helenkennedy/s…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 270,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 635,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4891,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 818522209283178500,
+		"quoted_status_id_str": "818522209283178498",
+		"quoted_status": {
+			"created_at": "Mon Jan 09 18:17:56 +0000 2017",
+			"id": 818522209283178500,
+			"id_str": "818522209283178498",
+			"text": "Facebook nitwit celebrating Obamacare repeal finds out Obamacare is another name for the ACA he depends on. https://t.co/ehStqChXqq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 818522202064580600,
+						"id_str": "818522202064580608",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C1v5mybUcAAu2_W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1v5mybUcAAu2_W.jpg",
+						"url": "https://t.co/ehStqChXqq",
+						"display_url": "pic.twitter.com/ehStqChXqq",
+						"expanded_url": "https://twitter.com/HelenKennedy/status/818522209283178498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 514,
+								"h": 1838,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 336,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 190,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 818522202064580600,
+						"id_str": "818522202064580608",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C1v5mybUcAAu2_W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1v5mybUcAAu2_W.jpg",
+						"url": "https://t.co/ehStqChXqq",
+						"display_url": "pic.twitter.com/ehStqChXqq",
+						"expanded_url": "https://twitter.com/HelenKennedy/status/818522209283178498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 514,
+								"h": 1838,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 336,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 190,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2199541,
+				"id_str": "2199541",
+				"name": "Helen Kennedy",
+				"screen_name": "HelenKennedy",
+				"location": "NYC and the North Fork",
+				"description": "Newspaperman (ex NY Daily News & Boston Herald), political junkie. I had a Trump joke here but it suddenly stopped being funny. (helenkennedy@gmail)",
+				"url": "https://t.co/yY9ppNwM4o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yY9ppNwM4o",
+								"expanded_url": "http://helenkennedy.com",
+								"display_url": "helenkennedy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2970,
+				"friends_count": 676,
+				"listed_count": 108,
+				"created_at": "Sun Mar 25 19:14:46 +0000 2007",
+				"favourites_count": 15984,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 29727,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796980797488119808/vkOGMDGC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796980797488119808/vkOGMDGC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2199541/1445229062",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21077,
+			"favorite_count": 32457,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 09 08:23:33 +0000 2017",
 		"id": 818372625558868000,
 		"id_str": "818372625558867969",
