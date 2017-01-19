@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 18 11:07:03 +0000 2017",
+		"id": 821675263033573400,
+		"id_str": "821675263033573378",
+		"text": "RT @colliderfrosty: might be the best selfie of the year and it's only Jan 16th. Via reddit. https://t.co/61H2VqBjv7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colliderfrosty",
+					"name": "Steven Weintraub",
+					"id": 17771425,
+					"id_str": "17771425",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 821070912376033300,
+					"id_str": "821070912376033280",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/C2UHpQOUUAAfkTr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2UHpQOUUAAfkTr.jpg",
+					"url": "https://t.co/61H2VqBjv7",
+					"display_url": "pic.twitter.com/61H2VqBjv7",
+					"expanded_url": "https://twitter.com/colliderfrosty/status/821070925432963075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 831,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 831,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821070925432963100,
+					"source_status_id_str": "821070925432963075",
+					"source_user_id": 17771425,
+					"source_user_id_str": "17771425"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 821070912376033300,
+					"id_str": "821070912376033280",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/C2UHpQOUUAAfkTr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2UHpQOUUAAfkTr.jpg",
+					"url": "https://t.co/61H2VqBjv7",
+					"display_url": "pic.twitter.com/61H2VqBjv7",
+					"expanded_url": "https://twitter.com/colliderfrosty/status/821070925432963075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 831,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 831,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821070925432963100,
+					"source_status_id_str": "821070925432963075",
+					"source_user_id": 17771425,
+					"source_user_id_str": "17771425"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 637,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 16 19:05:38 +0000 2017",
+			"id": 821070925432963100,
+			"id_str": "821070925432963075",
+			"text": "might be the best selfie of the year and it's only Jan 16th. Via reddit. https://t.co/61H2VqBjv7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 821070912376033300,
+						"id_str": "821070912376033280",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/C2UHpQOUUAAfkTr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2UHpQOUUAAfkTr.jpg",
+						"url": "https://t.co/61H2VqBjv7",
+						"display_url": "pic.twitter.com/61H2VqBjv7",
+						"expanded_url": "https://twitter.com/colliderfrosty/status/821070925432963075/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 831,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 831,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 523,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821070912376033300,
+						"id_str": "821070912376033280",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/C2UHpQOUUAAfkTr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2UHpQOUUAAfkTr.jpg",
+						"url": "https://t.co/61H2VqBjv7",
+						"display_url": "pic.twitter.com/61H2VqBjv7",
+						"expanded_url": "https://twitter.com/colliderfrosty/status/821070925432963075/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 831,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 831,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 523,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17771425,
+				"id_str": "17771425",
+				"name": "Steven Weintraub",
+				"screen_name": "colliderfrosty",
+				"location": "Los Angeles",
+				"description": "Editor-in-chief, https://t.co/pPdMy4wwB6  Instagram https://t.co/t43piJXnEY",
+				"url": "http://t.co/OPWPU76qai",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OPWPU76qai",
+								"expanded_url": "http://collider.com",
+								"display_url": "collider.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pPdMy4wwB6",
+								"expanded_url": "http://Collider.com",
+								"display_url": "Collider.com",
+								"indices": [
+									17,
+									40
+								]
+							},
+							{
+								"url": "https://t.co/t43piJXnEY",
+								"expanded_url": "https://www.instagram.com/colliderfrosty/",
+								"display_url": "instagram.com/colliderfrosty/",
+								"indices": [
+									52,
+									75
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 45372,
+				"friends_count": 575,
+				"listed_count": 1424,
+				"created_at": "Mon Dec 01 04:33:37 +0000 2008",
+				"favourites_count": 2839,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 36859,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C5A25",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3588135/6b.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3588135/6b.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/125486961/Untitled-1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/125486961/Untitled-1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17771425/1401424524",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "40682C",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23400,
+			"favorite_count": 33847,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23400,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 18 11:06:27 +0000 2017",
+		"id": 821675110629314600,
+		"id_str": "821675110629314564",
+		"text": "RT @Al_Humphreys: Night of Adventure: George Mahood cycled length of UK, starting in his pants without a bike &amp; blagging everything. … http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Al_Humphreys",
+					"name": "Alastair Humphreys",
+					"id": 14186089,
+					"id_str": "14186089",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 637,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 18 09:34:17 +0000 2017",
+			"id": 821651920205049900,
+			"id_str": "821651920205049862",
+			"text": "Night of Adventure: George Mahood cycled length of UK, starting in his pants without a bike &amp; blagging everything. … https://t.co/GXrhVThuGt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 821651917755609100,
+						"id_str": "821651917755609088",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/C2cYEN7XcAAJbb6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2cYEN7XcAAJbb6.jpg",
+						"url": "https://t.co/GXrhVThuGt",
+						"display_url": "pic.twitter.com/GXrhVThuGt",
+						"expanded_url": "https://twitter.com/Al_Humphreys/status/821651920205049862/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 870,
+								"h": 650,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 870,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821651917755609100,
+						"id_str": "821651917755609088",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/C2cYEN7XcAAJbb6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2cYEN7XcAAJbb6.jpg",
+						"url": "https://t.co/GXrhVThuGt",
+						"display_url": "pic.twitter.com/GXrhVThuGt",
+						"expanded_url": "https://twitter.com/Al_Humphreys/status/821651920205049862/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 870,
+								"h": 650,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 870,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14186089,
+				"id_str": "14186089",
+				"name": "Alastair Humphreys",
+				"screen_name": "Al_Humphreys",
+				"location": "England",
+				"description": "Adventurer, Microadventurer, Terrible Violinist, a National Geographic Adventurer of the Year.",
+				"url": "https://t.co/WqrM2MPvjj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WqrM2MPvjj",
+								"expanded_url": "http://www.alastairhumphreys.com/more/subscribe/",
+								"display_url": "alastairhumphreys.com/more/subscribe/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38336,
+				"friends_count": 847,
+				"listed_count": 1036,
+				"created_at": "Thu Mar 20 18:49:36 +0000 2008",
+				"favourites_count": 1146,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26204,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459104163830325248/stQUXDLH.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459104163830325248/stQUXDLH.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/729704846102700033/g_uDGwmI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/729704846102700033/g_uDGwmI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14186089/1469037450",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 17 15:20:42 +0000 2017",
 		"id": 821376708695785500,
 		"id_str": "821376708695785473",
