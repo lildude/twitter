@@ -1,6 +1,1126 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 12 15:07:08 +0000 2017",
+		"id": 830795378345787400,
+		"id_str": "830795378345787392",
+		"text": "RT @Unnamedinsider: This is London in 1993 after an IRA truck bomb. We didn't ban Irish people or Catholics, we understood it was just a sm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Unnamedinsider",
+					"name": "Unnamed Insider 👤",
+					"id": 211119735,
+					"id_str": "211119735",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 270,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 639,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 12 00:34:36 +0000 2017",
+			"id": 830575797933060100,
+			"id_str": "830575797933060096",
+			"text": "This is London in 1993 after an IRA truck bomb. We didn't ban Irish people or Catholics, we understood it was just… https://t.co/AR7aL989k7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AR7aL989k7",
+						"expanded_url": "https://twitter.com/i/web/status/830575797933060096",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 211119735,
+				"id_str": "211119735",
+				"name": "Unnamed Insider 👤",
+				"screen_name": "Unnamedinsider",
+				"location": "UK",
+				"description": "Disimpacting the anus of popular culture with the long finger of satire!",
+				"url": "https://t.co/KiSdPFYWxc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KiSdPFYWxc",
+								"expanded_url": "http://favstar.fm/users/Unnamedinsider",
+								"display_url": "favstar.fm/users/Unnamedi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48299,
+				"friends_count": 4126,
+				"listed_count": 402,
+				"created_at": "Tue Nov 02 11:23:05 +0000 2010",
+				"favourites_count": 12031,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9367,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/777369476/eee5c71e0fdc04d99dcb2602f5a13317.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/777369476/eee5c71e0fdc04d99dcb2602f5a13317.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/686965792152260608/1Ja_qwv3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/686965792152260608/1Ja_qwv3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/211119735/1396916314",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24181,
+			"favorite_count": 42824,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24181,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 12 14:57:24 +0000 2017",
+		"id": 830792929249722400,
+		"id_str": "830792929249722368",
+		"text": "RT @Alifaith55: I CANNOT RETWEET THIS ENOUGH ❤❤ https://t.co/KpCTQjN8zz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alifaith55",
+					"name": "The Hummingbird",
+					"id": 810619093749559300,
+					"id_str": "810619093749559296",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 830594782305067000,
+					"id_str": "830594782305067008",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/C4bdjceWIAAgerw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4bdjceWIAAgerw.jpg",
+					"url": "https://t.co/KpCTQjN8zz",
+					"display_url": "pic.twitter.com/KpCTQjN8zz",
+					"expanded_url": "https://twitter.com/Alifaith55/status/830594784863645699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 573,
+							"h": 515,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 573,
+							"h": 515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 573,
+							"h": 515,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 830594784863645700,
+					"source_status_id_str": "830594784863645699",
+					"source_user_id": 810619093749559300,
+					"source_user_id_str": "810619093749559296"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 830594782305067000,
+					"id_str": "830594782305067008",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/C4bdjceWIAAgerw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4bdjceWIAAgerw.jpg",
+					"url": "https://t.co/KpCTQjN8zz",
+					"display_url": "pic.twitter.com/KpCTQjN8zz",
+					"expanded_url": "https://twitter.com/Alifaith55/status/830594784863645699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 573,
+							"h": 515,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 573,
+							"h": 515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 573,
+							"h": 515,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 830594784863645700,
+					"source_status_id_str": "830594784863645699",
+					"source_user_id": 810619093749559300,
+					"source_user_id_str": "810619093749559296"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 270,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 639,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 12 01:50:03 +0000 2017",
+			"id": 830594784863645700,
+			"id_str": "830594784863645699",
+			"text": "I CANNOT RETWEET THIS ENOUGH ❤❤ https://t.co/KpCTQjN8zz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 830594782305067000,
+						"id_str": "830594782305067008",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C4bdjceWIAAgerw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4bdjceWIAAgerw.jpg",
+						"url": "https://t.co/KpCTQjN8zz",
+						"display_url": "pic.twitter.com/KpCTQjN8zz",
+						"expanded_url": "https://twitter.com/Alifaith55/status/830594784863645699/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 573,
+								"h": 515,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 573,
+								"h": 515,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 573,
+								"h": 515,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 830594782305067000,
+						"id_str": "830594782305067008",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C4bdjceWIAAgerw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4bdjceWIAAgerw.jpg",
+						"url": "https://t.co/KpCTQjN8zz",
+						"display_url": "pic.twitter.com/KpCTQjN8zz",
+						"expanded_url": "https://twitter.com/Alifaith55/status/830594784863645699/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 573,
+								"h": 515,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 573,
+								"h": 515,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 573,
+								"h": 515,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.crowdfireapp.com\" rel=\"nofollow\">Crowdfire - Go Big</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 810619093749559300,
+				"id_str": "810619093749559296",
+				"name": "The Hummingbird",
+				"screen_name": "Alifaith55",
+				"location": "Business: alifaith55@gmail.com",
+				"description": "I NEVER liked involvement in politics but with TRUMP in power, it's NOT A CHOICE. Follow me if you want to UNITE to fight HATE & RACISM!  #TheResistance",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21707,
+				"friends_count": 17752,
+				"listed_count": 180,
+				"created_at": "Sun Dec 18 22:53:47 +0000 2016",
+				"favourites_count": 2477,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1455,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821119637815459840/MTKHkrGN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821119637815459840/MTKHkrGN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/810619093749559296/1482101827",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11535,
+			"favorite_count": 16208,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11535,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 12 14:04:55 +0000 2017",
+		"id": 830779720992223200,
+		"id_str": "830779720992223232",
+		"text": "RT @SteveKopack: PM Shinzo Abe after Trump handshake: 😵 https://t.co/h0ayPS9pB9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveKopack",
+					"name": "Steve Kopack",
+					"id": 15065434,
+					"id_str": "15065434",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 830106857654075400,
+					"id_str": "830106857654075393",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4UhyfgWQAE2Apd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4UhyfgWQAE2Apd.jpg",
+					"url": "https://t.co/h0ayPS9pB9",
+					"display_url": "pic.twitter.com/h0ayPS9pB9",
+					"expanded_url": "https://twitter.com/SteveKopack/status/830107279777230848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 574,
+							"h": 324,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 574,
+							"h": 324,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 192,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 830107279777230800,
+					"source_status_id_str": "830107279777230848",
+					"source_user_id": 15065434,
+					"source_user_id_str": "15065434"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 830106857654075400,
+					"id_str": "830106857654075393",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4UhyfgWQAE2Apd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4UhyfgWQAE2Apd.jpg",
+					"url": "https://t.co/h0ayPS9pB9",
+					"display_url": "pic.twitter.com/h0ayPS9pB9",
+					"expanded_url": "https://twitter.com/SteveKopack/status/830107279777230848/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 574,
+							"h": 324,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 574,
+							"h": 324,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 192,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 830107279777230800,
+					"source_status_id_str": "830107279777230848",
+					"source_user_id": 15065434,
+					"source_user_id_str": "15065434",
+					"video_info": {
+						"aspect_ratio": [
+							287,
+							162
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C4UhyfgWQAE2Apd.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 270,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 639,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 10 17:32:52 +0000 2017",
+			"id": 830107279777230800,
+			"id_str": "830107279777230848",
+			"text": "PM Shinzo Abe after Trump handshake: 😵 https://t.co/h0ayPS9pB9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 830106857654075400,
+						"id_str": "830106857654075393",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4UhyfgWQAE2Apd.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4UhyfgWQAE2Apd.jpg",
+						"url": "https://t.co/h0ayPS9pB9",
+						"display_url": "pic.twitter.com/h0ayPS9pB9",
+						"expanded_url": "https://twitter.com/SteveKopack/status/830107279777230848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 574,
+								"h": 324,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 574,
+								"h": 324,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 830106857654075400,
+						"id_str": "830106857654075393",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4UhyfgWQAE2Apd.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4UhyfgWQAE2Apd.jpg",
+						"url": "https://t.co/h0ayPS9pB9",
+						"display_url": "pic.twitter.com/h0ayPS9pB9",
+						"expanded_url": "https://twitter.com/SteveKopack/status/830107279777230848/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 574,
+								"h": 324,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 574,
+								"h": 324,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								287,
+								162
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C4UhyfgWQAE2Apd.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 830104420121706500,
+			"in_reply_to_status_id_str": "830104420121706496",
+			"in_reply_to_user_id": 15065434,
+			"in_reply_to_user_id_str": "15065434",
+			"in_reply_to_screen_name": "SteveKopack",
+			"user": {
+				"id": 15065434,
+				"id_str": "15065434",
+				"name": "Steve Kopack",
+				"screen_name": "SteveKopack",
+				"location": "New York & New Jersey",
+				"description": "Social lead for @CNBC's breaking news desk • ✉️ Steve@CNBC.com • Usually found in front of some type of screen; consumer of too much junk food",
+				"url": "https://t.co/vZMUFvVxwy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vZMUFvVxwy",
+								"expanded_url": "http://cnbc.com/steve-kopack",
+								"display_url": "cnbc.com/steve-kopack",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15257,
+				"friends_count": 6457,
+				"listed_count": 479,
+				"created_at": "Mon Jun 09 20:47:28 +0000 2008",
+				"favourites_count": 6200,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27324,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000019634999/01a5e00bd536325430d69cf8b058d420.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000019634999/01a5e00bd536325430d69cf8b058d420.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751988056052404225/sA0i050o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751988056052404225/sA0i050o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15065434/1484621564",
+				"profile_link_color": "004EC4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "A3C8FF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11583,
+			"favorite_count": 18974,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11583,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 12 14:02:51 +0000 2017",
+		"id": 830779202936926200,
+		"id_str": "830779202936926208",
+		"text": "@lildude Official results in and my new PB is officially 1:17:31. Great start to my first Comrades year. High mileage is paying off already",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lildude",
+					"name": "lildude",
+					"id": 8812362,
+					"id_str": "8812362",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 830751350615064600,
+		"in_reply_to_status_id_str": "830751350615064576",
+		"in_reply_to_user_id": 8812362,
+		"in_reply_to_user_id_str": "8812362",
+		"in_reply_to_screen_name": "lildude",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 270,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 639,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 12 12:12:11 +0000 2017",
+		"id": 830751350615064600,
+		"id_str": "830751350615064576",
+		"text": "Great freezing cold morning out at the Wokingham half. Smashed my prev PB by nearly 2min. PB is now 1:17:32 by my ⌚️ Super chuffed!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 270,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 639,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 11 09:11:19 +0000 2017",
 		"id": 830343449111040000,
 		"id_str": "830343449111040000",
