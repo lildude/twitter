@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 18 19:50:47 +0000 2017",
+		"id": 833041090827710500,
+		"id_str": "833041090827710464",
+		"text": "RT @Oatmeal: Happy Saturday. https://t.co/uNwpFAmPmt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Oatmeal",
+					"name": "Matthew Inman",
+					"id": 4519121,
+					"id_str": "4519121",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 833007662224666600,
+					"id_str": "833007662224666624",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/C49wDioUcAAYdur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C49wDioUcAAYdur.jpg",
+					"url": "https://t.co/uNwpFAmPmt",
+					"display_url": "pic.twitter.com/uNwpFAmPmt",
+					"expanded_url": "https://twitter.com/Oatmeal/status/833007729207701504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833007729207701500,
+					"source_status_id_str": "833007729207701504",
+					"source_user_id": 4519121,
+					"source_user_id_str": "4519121"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 833007662224666600,
+					"id_str": "833007662224666624",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/C49wDioUcAAYdur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C49wDioUcAAYdur.jpg",
+					"url": "https://t.co/uNwpFAmPmt",
+					"display_url": "pic.twitter.com/uNwpFAmPmt",
+					"expanded_url": "https://twitter.com/Oatmeal/status/833007729207701504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833007729207701500,
+					"source_status_id_str": "833007729207701504",
+					"source_user_id": 4519121,
+					"source_user_id_str": "4519121"
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 476,
+			"friends_count": 273,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 639,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4920,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 18 17:38:13 +0000 2017",
+			"id": 833007729207701500,
+			"id_str": "833007729207701504",
+			"text": "Happy Saturday. https://t.co/uNwpFAmPmt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 833007662224666600,
+						"id_str": "833007662224666624",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/C49wDioUcAAYdur.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C49wDioUcAAYdur.jpg",
+						"url": "https://t.co/uNwpFAmPmt",
+						"display_url": "pic.twitter.com/uNwpFAmPmt",
+						"expanded_url": "https://twitter.com/Oatmeal/status/833007729207701504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833007662224666600,
+						"id_str": "833007662224666624",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/C49wDioUcAAYdur.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C49wDioUcAAYdur.jpg",
+						"url": "https://t.co/uNwpFAmPmt",
+						"display_url": "pic.twitter.com/uNwpFAmPmt",
+						"expanded_url": "https://twitter.com/Oatmeal/status/833007729207701504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4519121,
+				"id_str": "4519121",
+				"name": "Matthew Inman",
+				"screen_name": "Oatmeal",
+				"location": "Seattle, Washington",
+				"description": "I make comics",
+				"url": "https://t.co/hzHuiYtO6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hzHuiYtO6x",
+								"expanded_url": "http://theoatmeal.com",
+								"display_url": "theoatmeal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 552853,
+				"friends_count": 471,
+				"listed_count": 17245,
+				"created_at": "Fri Apr 13 16:59:37 +0000 2007",
+				"favourites_count": 2317,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6717,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF3366",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/702577753938272256/mjHXYRxP.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/702577753938272256/mjHXYRxP.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793613884053532674/teYItBjT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793613884053532674/teYItBjT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4519121/1456343092",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "F5EDF0",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 808,
+			"favorite_count": 2031,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 808,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 12 15:07:08 +0000 2017",
 		"id": 830795378345787400,
 		"id_str": "830795378345787392",
