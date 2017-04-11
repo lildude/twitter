@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 07:33:47 +0000 2017",
+		"id": 851337399619784700,
+		"id_str": "851337399619784704",
+		"text": "RT @ediggs: I completely agree with this career advice from @Google https://t.co/LfRtakgpFt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ediggs",
+					"name": "Eze Vidra",
+					"id": 7458572,
+					"id_str": "7458572",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "Google",
+					"name": "Google",
+					"id": 20536157,
+					"id_str": "20536157",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 850793150910263300,
+					"id_str": "850793150910263300",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/C86f3PFXcAQ7I7p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C86f3PFXcAQ7I7p.jpg",
+					"url": "https://t.co/LfRtakgpFt",
+					"display_url": "pic.twitter.com/LfRtakgpFt",
+					"expanded_url": "https://twitter.com/ediggs/status/850793159747620865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 749,
+							"h": 1058,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 850793159747620900,
+					"source_status_id_str": "850793159747620865",
+					"source_user_id": 7458572,
+					"source_user_id_str": "7458572"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 850793150910263300,
+					"id_str": "850793150910263300",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/C86f3PFXcAQ7I7p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C86f3PFXcAQ7I7p.jpg",
+					"url": "https://t.co/LfRtakgpFt",
+					"display_url": "pic.twitter.com/LfRtakgpFt",
+					"expanded_url": "https://twitter.com/ediggs/status/850793159747620865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 749,
+							"h": 1058,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 850793159747620900,
+					"source_status_id_str": "850793159747620865",
+					"source_user_id": 7458572,
+					"source_user_id_str": "7458572"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 480,
+			"friends_count": 273,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 648,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 08 19:31:10 +0000 2017",
+			"id": 850793159747620900,
+			"id_str": "850793159747620865",
+			"text": "I completely agree with this career advice from @Google https://t.co/LfRtakgpFt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Google",
+						"name": "Google",
+						"id": 20536157,
+						"id_str": "20536157",
+						"indices": [
+							48,
+							55
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 850793150910263300,
+						"id_str": "850793150910263300",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/C86f3PFXcAQ7I7p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C86f3PFXcAQ7I7p.jpg",
+						"url": "https://t.co/LfRtakgpFt",
+						"display_url": "pic.twitter.com/LfRtakgpFt",
+						"expanded_url": "https://twitter.com/ediggs/status/850793159747620865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 749,
+								"h": 1058,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 749,
+								"h": 1058,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 850793150910263300,
+						"id_str": "850793150910263300",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/C86f3PFXcAQ7I7p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C86f3PFXcAQ7I7p.jpg",
+						"url": "https://t.co/LfRtakgpFt",
+						"display_url": "pic.twitter.com/LfRtakgpFt",
+						"expanded_url": "https://twitter.com/ediggs/status/850793159747620865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 749,
+								"h": 1058,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 749,
+								"h": 1058,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7458572,
+				"id_str": "7458572",
+				"name": "Eze Vidra",
+				"screen_name": "ediggs",
+				"location": "London, United Kingdom",
+				"description": "Chief Innovation Officer at Antidote, disrupting clinical trials with technology. Founded @Techbikers and @campuslondon, blog at https://t.co/CXCBxcEbTi",
+				"url": "https://t.co/zzJLWl2HuA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zzJLWl2HuA",
+								"expanded_url": "http://www.antidote.me",
+								"display_url": "antidote.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CXCBxcEbTi",
+								"expanded_url": "http://vccafe.com",
+								"display_url": "vccafe.com",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17992,
+				"friends_count": 895,
+				"listed_count": 933,
+				"created_at": "Fri Jul 13 19:19:48 +0000 2007",
+				"favourites_count": 8547,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13417,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/850395100/c1802ee7d504c27a27fd4d4cd2a020be.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/850395100/c1802ee7d504c27a27fd4d4cd2a020be.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000710606882/de55d12c6cd766584bdaf468f680f384_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000710606882/de55d12c6cd766584bdaf468f680f384_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7458572/1466979575",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 369,
+			"favorite_count": 757,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 369,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 09 14:39:58 +0000 2017",
 		"id": 851082261361553400,
 		"id_str": "851082261361553408",
