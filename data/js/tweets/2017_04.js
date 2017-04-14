@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 07:35:14 +0000 2017",
+		"id": 852424927324012500,
+		"id_str": "852424927324012545",
+		"text": "RT @OldBaconDave: Honestly, Australian politics are next level #auspol #trolling https://t.co/h6DTL9DQKX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspol",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "trolling",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OldBaconDave",
+					"name": "👉A Solid 6👉",
+					"id": 2373315139,
+					"id_str": "2373315139",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 852073359995093000,
+					"id_str": "852073359995092992",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C9MsNNkUwAAUT_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9MsNNkUwAAUT_B.jpg",
+					"url": "https://t.co/h6DTL9DQKX",
+					"display_url": "pic.twitter.com/h6DTL9DQKX",
+					"expanded_url": "https://twitter.com/OldBaconDave/status/852073387828494336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 719,
+							"h": 1019,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 719,
+							"h": 1019,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852073387828494300,
+					"source_status_id_str": "852073387828494336",
+					"source_user_id": 2373315139,
+					"source_user_id_str": "2373315139"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852073359995093000,
+					"id_str": "852073359995092992",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C9MsNNkUwAAUT_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9MsNNkUwAAUT_B.jpg",
+					"url": "https://t.co/h6DTL9DQKX",
+					"display_url": "pic.twitter.com/h6DTL9DQKX",
+					"expanded_url": "https://twitter.com/OldBaconDave/status/852073387828494336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 719,
+							"h": 1019,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 719,
+							"h": 1019,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852073387828494300,
+					"source_status_id_str": "852073387828494336",
+					"source_user_id": 2373315139,
+					"source_user_id_str": "2373315139"
+				},
+				{
+					"id": 852073373249044500,
+					"id_str": "852073373249044482",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C9MsN-8UAAIpuFk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9MsN-8UAAIpuFk.jpg",
+					"url": "https://t.co/h6DTL9DQKX",
+					"display_url": "pic.twitter.com/h6DTL9DQKX",
+					"expanded_url": "https://twitter.com/OldBaconDave/status/852073387828494336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852073387828494300,
+					"source_status_id_str": "852073387828494336",
+					"source_user_id": 2373315139,
+					"source_user_id_str": "2373315139"
+				},
+				{
+					"id": 852073382753443800,
+					"id_str": "852073382753443840",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C9MsOiWVoAAA5xc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9MsOiWVoAAA5xc.jpg",
+					"url": "https://t.co/h6DTL9DQKX",
+					"display_url": "pic.twitter.com/h6DTL9DQKX",
+					"expanded_url": "https://twitter.com/OldBaconDave/status/852073387828494336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 215,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 215,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 203,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852073387828494300,
+					"source_status_id_str": "852073387828494336",
+					"source_user_id": 2373315139,
+					"source_user_id_str": "2373315139"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "lildude",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 481,
+			"friends_count": 272,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 649,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1478998839",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 08:18:21 +0000 2017",
+			"id": 852073387828494300,
+			"id_str": "852073387828494336",
+			"text": "Honestly, Australian politics are next level #auspol #trolling https://t.co/h6DTL9DQKX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "auspol",
+						"indices": [
+							45,
+							52
+						]
+					},
+					{
+						"text": "trolling",
+						"indices": [
+							53,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852073359995093000,
+						"id_str": "852073359995092992",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/C9MsNNkUwAAUT_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9MsNNkUwAAUT_B.jpg",
+						"url": "https://t.co/h6DTL9DQKX",
+						"display_url": "pic.twitter.com/h6DTL9DQKX",
+						"expanded_url": "https://twitter.com/OldBaconDave/status/852073387828494336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 719,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 719,
+								"h": 1019,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852073359995093000,
+						"id_str": "852073359995092992",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/C9MsNNkUwAAUT_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9MsNNkUwAAUT_B.jpg",
+						"url": "https://t.co/h6DTL9DQKX",
+						"display_url": "pic.twitter.com/h6DTL9DQKX",
+						"expanded_url": "https://twitter.com/OldBaconDave/status/852073387828494336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 719,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 719,
+								"h": 1019,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852073373249044500,
+						"id_str": "852073373249044482",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/C9MsN-8UAAIpuFk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9MsN-8UAAIpuFk.jpg",
+						"url": "https://t.co/h6DTL9DQKX",
+						"display_url": "pic.twitter.com/h6DTL9DQKX",
+						"expanded_url": "https://twitter.com/OldBaconDave/status/852073387828494336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 455,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 455,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 430,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 852073382753443800,
+						"id_str": "852073382753443840",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/C9MsOiWVoAAA5xc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9MsOiWVoAAA5xc.jpg",
+						"url": "https://t.co/h6DTL9DQKX",
+						"display_url": "pic.twitter.com/h6DTL9DQKX",
+						"expanded_url": "https://twitter.com/OldBaconDave/status/852073387828494336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 215,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 215,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 203,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2373315139,
+				"id_str": "2373315139",
+				"name": "👉A Solid 6👉",
+				"screen_name": "OldBaconDave",
+				"location": "",
+				"description": "a picture i took of a sausage was on buzzfeed one time",
+				"url": "https://t.co/yDPB9lH3Yo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yDPB9lH3Yo",
+								"expanded_url": "http://bit.ly/2mWWJTf",
+								"display_url": "bit.ly/2mWWJTf",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 850,
+				"friends_count": 497,
+				"listed_count": 29,
+				"created_at": "Wed Mar 05 07:00:09 +0000 2014",
+				"favourites_count": 4606,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11475,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459314996480983040/S1XV0kgi.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459314996480983040/S1XV0kgi.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/812974966379450369/zzDW1nOz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/812974966379450369/zzDW1nOz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2373315139/1489400342",
+				"profile_link_color": "E009C0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 786,
+			"favorite_count": 1537,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 786,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 12 08:43:49 +0000 2017",
 		"id": 852079800558727200,
 		"id_str": "852079800558727168",
