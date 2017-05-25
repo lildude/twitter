@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 24 05:49:30 +0000 2017",
+		"id": 867256222264766500,
+		"id_str": "867256222264766464",
+		"text": "RT @IanJKingston: WIFE: This is for a tweet isn't it... https://t.co/IdmJSTDtnf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanJKingston",
+					"name": "Ian Kingston",
+					"id": 71031531,
+					"id_str": "71031531",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 866639839365656600,
+					"id_str": "866639839365656576",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DAbsV52XcAA_8lv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAbsV52XcAA_8lv.jpg",
+					"url": "https://t.co/IdmJSTDtnf",
+					"display_url": "pic.twitter.com/IdmJSTDtnf",
+					"expanded_url": "https://twitter.com/IanJKingston/status/866639850031788034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866639850031788000,
+					"source_status_id_str": "866639850031788034",
+					"source_user_id": 71031531,
+					"source_user_id_str": "71031531"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 866639839365656600,
+					"id_str": "866639839365656576",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DAbsV52XcAA_8lv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAbsV52XcAA_8lv.jpg",
+					"url": "https://t.co/IdmJSTDtnf",
+					"display_url": "pic.twitter.com/IdmJSTDtnf",
+					"expanded_url": "https://twitter.com/IanJKingston/status/866639850031788034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866639850031788000,
+					"source_status_id_str": "866639850031788034",
+					"source_user_id": 71031531,
+					"source_user_id_str": "71031531"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 478,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5003,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1493518284",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 22 13:00:16 +0000 2017",
+			"id": 866639850031788000,
+			"id_str": "866639850031788034",
+			"text": "WIFE: This is for a tweet isn't it... https://t.co/IdmJSTDtnf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 866639839365656600,
+						"id_str": "866639839365656576",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DAbsV52XcAA_8lv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAbsV52XcAA_8lv.jpg",
+						"url": "https://t.co/IdmJSTDtnf",
+						"display_url": "pic.twitter.com/IdmJSTDtnf",
+						"expanded_url": "https://twitter.com/IanJKingston/status/866639850031788034/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 866639839365656600,
+						"id_str": "866639839365656576",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DAbsV52XcAA_8lv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAbsV52XcAA_8lv.jpg",
+						"url": "https://t.co/IdmJSTDtnf",
+						"display_url": "pic.twitter.com/IdmJSTDtnf",
+						"expanded_url": "https://twitter.com/IanJKingston/status/866639850031788034/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71031531,
+				"id_str": "71031531",
+				"name": "Ian Kingston",
+				"screen_name": "IanJKingston",
+				"location": "Northampton",
+				"description": "Play with hot stuff. Try not to get burnt. All views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 332,
+				"friends_count": 461,
+				"listed_count": 11,
+				"created_at": "Wed Sep 02 18:08:26 +0000 2009",
+				"favourites_count": 161,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1143,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/525276914618212352/UDhsfPRA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/525276914618212352/UDhsfPRA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71031531/1495477380",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16879,
+			"favorite_count": 58426,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16879,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 23 08:06:05 +0000 2017",
 		"id": 866928206867308500,
 		"id_str": "866928206867308548",
