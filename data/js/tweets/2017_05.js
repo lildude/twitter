@@ -1,6 +1,747 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 25 19:46:45 +0000 2017",
+		"id": 867829310253609000,
+		"id_str": "867829310253608960",
+		"text": "RT @effies: Language is awesome, https://t.co/XqIFRkmLW9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "effies",
+					"name": "Effie Seiberg",
+					"id": 15235784,
+					"id_str": "15235784",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 867396239607959600,
+					"id_str": "867396239607959557",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DAmcSMVXkAUUUeB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAmcSMVXkAUUUeB.jpg",
+					"url": "https://t.co/XqIFRkmLW9",
+					"display_url": "pic.twitter.com/XqIFRkmLW9",
+					"expanded_url": "https://twitter.com/effies/status/867396248919134208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 867396248919134200,
+					"source_status_id_str": "867396248919134208",
+					"source_user_id": 15235784,
+					"source_user_id_str": "15235784"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 867396239607959600,
+					"id_str": "867396239607959557",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DAmcSMVXkAUUUeB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAmcSMVXkAUUUeB.jpg",
+					"url": "https://t.co/XqIFRkmLW9",
+					"display_url": "pic.twitter.com/XqIFRkmLW9",
+					"expanded_url": "https://twitter.com/effies/status/867396248919134208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 867396248919134200,
+					"source_status_id_str": "867396248919134208",
+					"source_user_id": 15235784,
+					"source_user_id_str": "15235784"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 477,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1493518284",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 24 15:05:55 +0000 2017",
+			"id": 867396248919134200,
+			"id_str": "867396248919134208",
+			"text": "Language is awesome, https://t.co/XqIFRkmLW9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 867396239607959600,
+						"id_str": "867396239607959557",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DAmcSMVXkAUUUeB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAmcSMVXkAUUUeB.jpg",
+						"url": "https://t.co/XqIFRkmLW9",
+						"display_url": "pic.twitter.com/XqIFRkmLW9",
+						"expanded_url": "https://twitter.com/effies/status/867396248919134208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 460,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 460,
+								"h": 514,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 460,
+								"h": 514,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 867396239607959600,
+						"id_str": "867396239607959557",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DAmcSMVXkAUUUeB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAmcSMVXkAUUUeB.jpg",
+						"url": "https://t.co/XqIFRkmLW9",
+						"display_url": "pic.twitter.com/XqIFRkmLW9",
+						"expanded_url": "https://twitter.com/effies/status/867396248919134208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 460,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 460,
+								"h": 514,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 460,
+								"h": 514,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15235784,
+				"id_str": "15235784",
+				"name": "Effie Seiberg",
+				"screen_name": "effies",
+				"location": "San Francisco CA",
+				"description": "Fantasy/science fiction writer. Consultant. Cake sculptor. Corny joke teller. Sentence-fragment lover.",
+				"url": "https://t.co/0sMD63UUni",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0sMD63UUni",
+								"expanded_url": "http://www.effieseiberg.com",
+								"display_url": "effieseiberg.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1987,
+				"friends_count": 774,
+				"listed_count": 121,
+				"created_at": "Wed Jun 25 19:57:01 +0000 2008",
+				"favourites_count": 48692,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22214,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/605652440608735232/oy3Hkvxc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/605652440608735232/oy3Hkvxc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15235784/1422081378",
+				"profile_link_color": "009AB9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28272,
+			"favorite_count": 44592,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28272,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 25 17:52:33 +0000 2017",
+		"id": 867800571172073500,
+		"id_str": "867800571172073474",
+		"text": "I may not be an elite runner yet but I am now an elite beer drinker on @untappd 😂 (it only took just over 5yrs &amp; 3m… https://t.co/JkBMt9MnEv",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "untappd",
+					"name": "Untappd",
+					"id": 147845476,
+					"id_str": "147845476",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JkBMt9MnEv",
+					"expanded_url": "https://twitter.com/i/web/status/867800571172073474",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 477,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1493518284",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 25 16:58:06 +0000 2017",
+		"id": 867786869131620400,
+		"id_str": "867786869131620354",
+		"text": "I need a new suitcase and my taxi driver needs to up his game 😂 https://t.co/m7oauuvE9r",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m7oauuvE9r",
+					"expanded_url": "https://twitter.com/chrisdyork/status/867109621781209088",
+					"display_url": "twitter.com/chrisdyork/sta…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 477,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1493518284",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 867109621781209100,
+		"quoted_status_id_str": "867109621781209088",
+		"quoted_status": {
+			"created_at": "Tue May 23 20:06:58 +0000 2017",
+			"id": 867109621781209100,
+			"id_str": "867109621781209088",
+			"text": "South Korea's Kim Moo-sung arriving like an absolute boss https://t.co/NNSEXzjii4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 867109544828305400,
+						"id_str": "867109544828305408",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DAiXiXDXgAA4Hv1.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DAiXiXDXgAA4Hv1.jpg",
+						"url": "https://t.co/NNSEXzjii4",
+						"display_url": "pic.twitter.com/NNSEXzjii4",
+						"expanded_url": "https://twitter.com/ChrisDYork/status/867109621781209088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 472,
+								"h": 250,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 180,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 472,
+								"h": 250,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 867109544828305400,
+						"id_str": "867109544828305408",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DAiXiXDXgAA4Hv1.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DAiXiXDXgAA4Hv1.jpg",
+						"url": "https://t.co/NNSEXzjii4",
+						"display_url": "pic.twitter.com/NNSEXzjii4",
+						"expanded_url": "https://twitter.com/ChrisDYork/status/867109621781209088/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 472,
+								"h": 250,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 180,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 472,
+								"h": 250,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								236,
+								125
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DAiXiXDXgAA4Hv1.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 227423066,
+				"id_str": "227423066",
+				"name": "Chris York",
+				"screen_name": "ChrisDYork",
+				"location": "",
+				"description": "Senior editor @HuffPostUK. Fond of grand plans. Send me interesting stuff at Chris.York@huffingtonpost.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6949,
+				"friends_count": 3267,
+				"listed_count": 177,
+				"created_at": "Thu Dec 16 20:19:29 +0000 2010",
+				"favourites_count": 3183,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14835,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/668435338/de3d8d2f52da7f0e42d027f92fce0d60.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/668435338/de3d8d2f52da7f0e42d027f92fce0d60.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476728517564973056/76yFsItz_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476728517564973056/76yFsItz_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/227423066/1460010665",
+				"profile_link_color": "0083B3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32847,
+			"favorite_count": 60207,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 24 05:49:30 +0000 2017",
 		"id": 867256222264766500,
 		"id_str": "867256222264766464",
