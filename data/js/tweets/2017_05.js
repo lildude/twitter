@@ -1,6 +1,651 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 30 05:50:56 +0000 2017",
+		"id": 869430908495044600,
+		"id_str": "869430908495044609",
+		"text": "RT @katehelencarter: Best. Finish. Ever. https://t.co/Ue3ZBBSms7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katehelencarter",
+					"name": "Kate Carter",
+					"id": 6466322,
+					"id_str": "6466322",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ue3ZBBSms7",
+					"expanded_url": "https://twitter.com/mrhairyhaggis/status/869143903894728705",
+					"display_url": "twitter.com/mrhairyhaggis/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 478,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 660,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1493518284",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 29 17:26:24 +0000 2017",
+			"id": 869243541981102100,
+			"id_str": "869243541981102080",
+			"text": "Best. Finish. Ever. https://t.co/Ue3ZBBSms7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ue3ZBBSms7",
+						"expanded_url": "https://twitter.com/mrhairyhaggis/status/869143903894728705",
+						"display_url": "twitter.com/mrhairyhaggis/…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6466322,
+				"id_str": "6466322",
+				"name": "Kate Carter",
+				"screen_name": "katehelencarter",
+				"location": "",
+				"description": "Life & Style and running blog editor at the guardian. Runs quite a lot.",
+				"url": "https://t.co/53ACBhZjdI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/53ACBhZjdI",
+								"expanded_url": "http://www.theguardian.com/profile/katecarter",
+								"display_url": "theguardian.com/profile/kateca…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10863,
+				"friends_count": 1473,
+				"listed_count": 304,
+				"created_at": "Thu May 31 09:07:02 +0000 2007",
+				"favourites_count": 2632,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24156,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660094071709564928/ytW6e7Az_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660094071709564928/ytW6e7Az_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6466322/1446213665",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "460c5314e8a33c64",
+				"url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json",
+				"place_type": "city",
+				"name": "Wandsworth",
+				"full_name": "Wandsworth, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.259465,
+								51.417277
+							],
+							[
+								-0.127974,
+								51.417277
+							],
+							[
+								-0.127974,
+								51.486036
+							],
+							[
+								-0.259465,
+								51.486036
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 869143903894728700,
+			"quoted_status_id_str": "869143903894728705",
+			"quoted_status": {
+				"created_at": "Mon May 29 10:50:29 +0000 2017",
+				"id": 869143903894728700,
+				"id_str": "869143903894728705",
+				"text": "This still makes me laugh from Saturday's first ever Kids' Kilometre event 😂😂😂 #emf2017 #kidskilometre https://t.co/AZ3fOe4uqb",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "emf2017",
+							"indices": [
+								79,
+								87
+							]
+						},
+						{
+							"text": "kidskilometre",
+							"indices": [
+								88,
+								102
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 869128984621088800,
+							"id_str": "869128984621088768",
+							"indices": [
+								103,
+								126
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/869128984621088768/pu/img/S-Nmt5w5Y7gE2wXd.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/869128984621088768/pu/img/S-Nmt5w5Y7gE2wXd.jpg",
+							"url": "https://t.co/AZ3fOe4uqb",
+							"display_url": "pic.twitter.com/AZ3fOe4uqb",
+							"expanded_url": "https://twitter.com/MrHairyHaggis/status/869143903894728705/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 636,
+									"h": 360,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 600,
+									"h": 340,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 192,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 869128984621088800,
+							"id_str": "869128984621088768",
+							"indices": [
+								103,
+								126
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/869128984621088768/pu/img/S-Nmt5w5Y7gE2wXd.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/869128984621088768/pu/img/S-Nmt5w5Y7gE2wXd.jpg",
+							"url": "https://t.co/AZ3fOe4uqb",
+							"display_url": "pic.twitter.com/AZ3fOe4uqb",
+							"expanded_url": "https://twitter.com/MrHairyHaggis/status/869143903894728705/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 636,
+									"h": 360,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 600,
+									"h": 340,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 192,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									53,
+									30
+								],
+								"duration_millis": 15200,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/869128984621088768/pu/pl/zuqXDrlbpBbR31xY.m3u8"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/869128984621088768/pu/vid/318x180/TFgKfLk2PnExs2l8.mp4"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/869128984621088768/pu/vid/636x360/EKAKCB4NBLYqHNBX.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "2017 EMF Kids' Kilometre finish line",
+								"description": "Have you ever seen a more polite finish to a race?! #EMF2017 #kidskilometre",
+								"call_to_actions": {
+									"visit_site": {
+										"url": "https://www.edinburghmarathon.com/events/kidskilometre"
+									}
+								},
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 900119628,
+					"id_str": "900119628",
+					"name": "Edinburgh Marathon",
+					"screen_name": "MrHairyHaggis",
+					"location": "Edinburgh",
+					"description": "I'm a haggis and I love to run! Especially the Edinburgh Marathon Festival which takes place on 26/27 May 2018! #emf2018 #edinburghmarathon",
+					"url": "https://t.co/oPzJBDDcUW",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/oPzJBDDcUW",
+									"expanded_url": "http://www.edinburghmarathon.com",
+									"display_url": "edinburghmarathon.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5674,
+					"friends_count": 1329,
+					"listed_count": 63,
+					"created_at": "Tue Oct 23 15:55:04 +0000 2012",
+					"favourites_count": 5443,
+					"utc_offset": 3600,
+					"time_zone": "Edinburgh",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 4292,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/517737462383120384/HAcPa7gP_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/517737462383120384/HAcPa7gP_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/900119628/1495977331",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 416,
+				"favorite_count": 807,
+				"favorited": true,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 32,
+			"favorite_count": 95,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 869143903894728700,
+		"quoted_status_id_str": "869143903894728705",
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 30 05:39:34 +0000 2017",
+		"id": 869428048080326700,
+		"id_str": "869428048080326656",
+		"text": "Weeks, right?  #Comrades2017 https://t.co/tCGrbNrXne",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Comrades2017",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 869428038865494000,
+					"id_str": "869428038865494016",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DBDUMeZXoAAiFmd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBDUMeZXoAAiFmd.jpg",
+					"url": "https://t.co/tCGrbNrXne",
+					"display_url": "pic.twitter.com/tCGrbNrXne",
+					"expanded_url": "https://twitter.com/lildude/status/869428048080326656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 952,
+							"h": 714,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 714,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 869428038865494000,
+					"id_str": "869428038865494016",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DBDUMeZXoAAiFmd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBDUMeZXoAAiFmd.jpg",
+					"url": "https://t.co/tCGrbNrXne",
+					"display_url": "pic.twitter.com/tCGrbNrXne",
+					"expanded_url": "https://twitter.com/lildude/status/869428048080326656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 952,
+							"h": 714,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 714,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 478,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 660,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1493518284",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 29 05:53:27 +0000 2017",
 		"id": 869069154791424000,
 		"id_str": "869069154791424000",
