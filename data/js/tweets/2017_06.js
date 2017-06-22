@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 21 06:28:39 +0000 2017",
+		"id": 877412932522569700,
+		"id_str": "877412932522569728",
+		"text": "RT @lowcarbGP: Encouraging #T2D prescribingdata from a new GPpractice offereing a lowcarb option @ProfTimNoakes @parthaskar @drjasonfung #E…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "T2D",
+					"indices": [
+						27,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lowcarbGP",
+					"name": "Dr David Unwin",
+					"id": 3695854095,
+					"id_str": "3695854095",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "ProfTimNoakes",
+					"name": "Tim Noakes",
+					"id": 549304456,
+					"id_str": "549304456",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"screen_name": "parthaskar",
+					"name": "Partha Kar",
+					"id": 95022046,
+					"id_str": "95022046",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"screen_name": "drjasonfung",
+					"name": "Dr. Jason Fung",
+					"id": 1343394810,
+					"id_str": "1343394810",
+					"indices": [
+						124,
+						136
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 486,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 667,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5046,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 14 20:42:05 +0000 2017",
+			"id": 875090992340365300,
+			"id_str": "875090992340365312",
+			"text": "Encouraging #T2D prescribingdata from a new GPpractice offereing a lowcarb option @ProfTimNoakes @parthaskar… https://t.co/ITbyqgcXNW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "T2D",
+						"indices": [
+							12,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ProfTimNoakes",
+						"name": "Tim Noakes",
+						"id": 549304456,
+						"id_str": "549304456",
+						"indices": [
+							82,
+							96
+						]
+					},
+					{
+						"screen_name": "parthaskar",
+						"name": "Partha Kar",
+						"id": 95022046,
+						"id_str": "95022046",
+						"indices": [
+							97,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ITbyqgcXNW",
+						"expanded_url": "https://twitter.com/i/web/status/875090992340365312",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3695854095,
+				"id_str": "3695854095",
+				"name": "Dr David Unwin",
+				"screen_name": "lowcarbGP",
+				"location": "",
+				"description": "All diets and drugs have risks:Do we weigh up the pros and cons of drugs & lifestyle choices properly BEFORE making choices?Starch is concentrated sugar",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7233,
+				"friends_count": 295,
+				"listed_count": 134,
+				"created_at": "Fri Sep 18 11:15:20 +0000 2015",
+				"favourites_count": 19532,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2932,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656736808802361346/a_kiIS85_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656736808802361346/a_kiIS85_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3695854095/1443263556",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 43,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 16 11:42:09 +0000 2017",
 		"id": 875679888761638900,
 		"id_str": "875679888761638912",
