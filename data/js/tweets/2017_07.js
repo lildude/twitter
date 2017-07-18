@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 17 18:12:29 +0000 2017",
+		"id": 887012144407097300,
+		"id_str": "887012144407097344",
+		"text": "RT @KELLYWEILL: My boyfriend found the most unsettling Google Maps glitch and it is my grim duty to share it with you. https://t.co/YU3fReu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KELLYWEILL",
+					"name": "Kelly Weill",
+					"id": 505865032,
+					"id_str": "505865032",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 490,
+			"friends_count": 275,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 678,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5062,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 15 18:31:00 +0000 2017",
+			"id": 886292028732178400,
+			"id_str": "886292028732178433",
+			"text": "My boyfriend found the most unsettling Google Maps glitch and it is my grim duty to share it with you. https://t.co/YU3fReuXjK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YU3fReuXjK",
+						"expanded_url": "https://www.google.com/maps/place/1515+Broadway,+New+York,+NY+10036/@40.7577317,-73.9867889,3a,75y,282.89h,77.79t/data=!3m8!1e1!3m6!1s-rODOum_IPfk%2FWEMPjQivO1I%2FAAAAAAAADjU%2FQbaL0D7JbUAYb-aUMZJDzDjdJihNsKb_wCLIB!2e4!3e11!6s%2F%2Flh6.googleusercontent.com%2F-rODOum_IPfk%2FWEMPjQivO1I%2FAAAAAAAADjU%2FQbaL0D7JbUAYb-aUMZJDzDjdJihNsKb_wCLIB%2Fw203-h100-k-no-pi0-ya269.96085-ro-0-fo100%2F!7i8704!8i4352!4m5!3m4!1s0x89c25854fd7a0211:0xb9ec1ff076c1ca30!8m2!3d40.7578505!4d-73.9866898?hl=en",
+						"display_url": "google.com/maps/place/151…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 505865032,
+				"id_str": "505865032",
+				"name": "Kelly Weill",
+				"screen_name": "KELLYWEILL",
+				"location": "NYC",
+				"description": "Reporter at @thedailybeast, Deputy Mayor at Party City. kellybweill at https://t.co/N8GNSmiLuw, kellyweill at https://t.co/LpPvQHdIi0",
+				"url": "https://t.co/7rGqP709GY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7rGqP709GY",
+								"expanded_url": "https://twitter.com/KELLYWEILL",
+								"display_url": "twitter.com/KELLYWEILL",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/N8GNSmiLuw",
+								"expanded_url": "http://gmail.com",
+								"display_url": "gmail.com",
+								"indices": [
+									71,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/LpPvQHdIi0",
+								"expanded_url": "http://protonmail.com",
+								"display_url": "protonmail.com",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6857,
+				"friends_count": 662,
+				"listed_count": 147,
+				"created_at": "Mon Feb 27 13:42:01 +0000 2012",
+				"favourites_count": 27760,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19516,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/599284763619266560/sxm9I4v-.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/599284763619266560/sxm9I4v-.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/808136543890210820/IIo6JaxT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/808136543890210820/IIo6JaxT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/505865032/1483399578",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3550,
+			"favorite_count": 5620,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3550,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 16 19:41:00 +0000 2017",
 		"id": 886672031735054300,
 		"id_str": "886672031735054336",
