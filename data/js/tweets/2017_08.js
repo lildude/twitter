@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 05 18:55:17 +0000 2017",
+		"id": 893908284360581100,
+		"id_str": "893908284360581120",
+		"text": "@HoutBayTC @ryansandes @kanereilly11 @Salomon_SA @Dunloptyres_SA @TrailrunSA @gotailwind @SportsmansW… https://t.co/Un7GfdBMyK",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HoutBayTC",
+					"name": "Hout Bay TC",
+					"id": 1306744309,
+					"id_str": "1306744309",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ryansandes",
+					"name": "Ryan Sandes",
+					"id": 175819076,
+					"id_str": "175819076",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "kanereilly11",
+					"name": "Kane Reilly",
+					"id": 1140511099,
+					"id_str": "1140511099",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "Salomon_SA",
+					"name": "Salomon South Africa",
+					"id": 136290059,
+					"id_str": "136290059",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"screen_name": "Dunloptyres_SA",
+					"name": "Dunlop Tyres SA",
+					"id": 860962358,
+					"id_str": "860962358",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "TrailrunSA",
+					"name": "Trail Running SA",
+					"id": 1640261532,
+					"id_str": "1640261532",
+					"indices": [
+						65,
+						76
+					]
+				},
+				{
+					"screen_name": "gotailwind",
+					"name": "Tailwind Nutrition",
+					"id": 525858283,
+					"id_str": "525858283",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"screen_name": "SportsmansW",
+					"name": "Sportsmans Warehouse",
+					"id": 288153464,
+					"id_str": "288153464",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Un7GfdBMyK",
+					"expanded_url": "https://twitter.com/i/web/status/893908284360581120",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 893765697603588100,
+		"in_reply_to_status_id_str": "893765697603588099",
+		"in_reply_to_user_id": 1306744309,
+		"in_reply_to_user_id_str": "1306744309",
+		"in_reply_to_screen_name": "HoutBayTC",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 272,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 681,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 05 18:50:25 +0000 2017",
+		"id": 893907057505693700,
+		"id_str": "893907057505693701",
+		"text": "RT @sportingintel: Since 2008, Usain Bolt has run 143 individual races, including tonight's SF. Back-to-back they took just 36 minutes ...…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sportingintel",
+					"name": "Nick Harris",
+					"id": 75062648,
+					"id_str": "75062648",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 272,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 681,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 05 18:41:58 +0000 2017",
+			"id": 893904930741923800,
+			"id_str": "893904930741923840",
+			"text": "Since 2008, Usain Bolt has run 143 individual races, including tonight's SF. Back-to-back they took just 36 minutes ... to cover 13.3 miles.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75062648,
+				"id_str": "75062648",
+				"name": "Nick Harris",
+				"screen_name": "sportingintel",
+				"location": "",
+				"description": "Sportingintelligence: A perpetually sceptical attempt to make sense of sport's relationship with money. Interested in conmen & numbers. Reassuringly grumpy.",
+				"url": "http://t.co/CX9KbXIELN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CX9KbXIELN",
+								"expanded_url": "http://sportingintelligence.com",
+								"display_url": "sportingintelligence.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 106256,
+				"friends_count": 802,
+				"listed_count": 1840,
+				"created_at": "Thu Sep 17 17:16:01 +0000 2009",
+				"favourites_count": 147,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 34494,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/65074551/logo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/65074551/logo.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/840698288982634496/xhAH0WLG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/840698288982634496/xhAH0WLG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75062648/1412721430",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 743,
+			"favorite_count": 852,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 743,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 05 18:03:44 +0000 2017",
+		"id": 893895312682733600,
+		"id_str": "893895312682733568",
+		"text": "@AbbotCookPub ❤️ Sunday treats (melty 🧀 in sourdough) everyday?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AbbotCookPub",
+					"name": "AbbotCookPub",
+					"id": 302543428,
+					"id_str": "302543428",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 893894777132941300,
+		"in_reply_to_status_id_str": "893894777132941313",
+		"in_reply_to_user_id": 302543428,
+		"in_reply_to_user_id_str": "302543428",
+		"in_reply_to_screen_name": "AbbotCookPub",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 272,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 681,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 05 17:59:20 +0000 2017",
+		"id": 893894202844729300,
+		"id_str": "893894202844729344",
+		"text": "What's on @AbbotCookPub? Sadly not The Continental Board 😭😭😭 I wanted cheat food: melty 🧀 in sourdough 😋 https://t.co/pHfMC2jCNJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AbbotCookPub",
+					"name": "AbbotCookPub",
+					"id": 302543428,
+					"id_str": "302543428",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 893894189032898600,
+					"id_str": "893894189032898560",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DGfAB2QXgAAfe_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGfAB2QXgAAfe_I.jpg",
+					"url": "https://t.co/pHfMC2jCNJ",
+					"display_url": "pic.twitter.com/pHfMC2jCNJ",
+					"expanded_url": "https://twitter.com/lildude/status/893894202844729344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 216,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 893894189032898600,
+					"id_str": "893894189032898560",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DGfAB2QXgAAfe_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGfAB2QXgAAfe_I.jpg",
+					"url": "https://t.co/pHfMC2jCNJ",
+					"display_url": "pic.twitter.com/pHfMC2jCNJ",
+					"expanded_url": "https://twitter.com/lildude/status/893894202844729344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 122,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 216,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 272,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 681,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 04 17:12:36 +0000 2017",
 		"id": 893520056767979500,
 		"id_str": "893520056767979522",
@@ -560,7 +1213,7 @@ Grailbird.data.tweets_2017_08 =
 				"name": "Rob",
 				"screen_name": "OakalyDokaly",
 				"location": "Ireland",
-				"description": "Nurse, fan of NTFC, NCCC, NZ Warriors, London Broncos, Pittsburgh​ Steelers, to name a few, as well as all things ZX Spectrum & Nintendo.",
+				"description": "Nurse, fan of NTFC, NCCC, NZ Warriors, London Broncos, Pittsburgh Steelers, to name a few, as well as all things ZX Spectrum & Nintendo.",
 				"url": null,
 				"entities": {
 					"description": {
