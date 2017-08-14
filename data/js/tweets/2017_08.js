@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 13 14:47:43 +0000 2017",
+		"id": 896745084867227600,
+		"id_str": "896745084867227648",
+		"text": "I've got three bikes. I'm saving the NHS a fortune. PS I want a new one so I may have three bikes to sell 😁 https://t.co/PF3zljXx5M",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PF3zljXx5M",
+					"expanded_url": "https://twitter.com/kim_harding/status/896301077842333696",
+					"display_url": "twitter.com/kim_harding/st…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 682,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 896301077842333700,
+		"quoted_status_id_str": "896301077842333696",
+		"quoted_status": {
+			"created_at": "Sat Aug 12 09:23:24 +0000 2017",
+			"id": 896301077842333700,
+			"id_str": "896301077842333696",
+			"text": "For every £1 spent on cycling provision, the NHS recoups £4 in reduced health cost https://t.co/uIJnKfz0bf so why aren't we investing in it?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uIJnKfz0bf",
+						"expanded_url": "https://www.kingsfund.org.uk/projects/improving-publics-health/active-and-safe-travel",
+						"display_url": "kingsfund.org.uk/projects/impro…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82358429,
+				"id_str": "82358429",
+				"name": "Kim Harding",
+				"screen_name": "kim_harding",
+				"location": "Scotland",
+				"description": "Ecologist, blogger, bicycle rider, founder & Director of @edfoc, sometimes driver, ex ADI, bla-de-bla-de-blaa NB. a RT is not an endorsement",
+				"url": "http://t.co/XGPdcYw4wV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XGPdcYw4wV",
+								"expanded_url": "http://kimharding.net/blog/",
+								"display_url": "kimharding.net/blog/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3163,
+				"friends_count": 680,
+				"listed_count": 387,
+				"created_at": "Wed Oct 14 13:26:58 +0000 2009",
+				"favourites_count": 4509,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 124171,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/178887689/DSC_0794.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/178887689/DSC_0794.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000793119012/f4f30b61b87c8248169e6233828d28c5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000793119012/f4f30b61b87c8248169e6233828d28c5_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82358429/1353439772",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 14:27:38 +0000 2017",
+		"id": 896740030454083600,
+		"id_str": "896740030454083584",
+		"text": "Yes, I have the Wetherspoons app on my phone. Not used it yet, but it's there for moments like this.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 896725095410008000,
+		"in_reply_to_status_id_str": "896725095410008064",
+		"in_reply_to_user_id": 8812362,
+		"in_reply_to_user_id_str": "8812362",
+		"in_reply_to_screen_name": "lildude",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 682,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 14:25:28 +0000 2017",
+		"id": 896739486519971800,
+		"id_str": "896739486519971840",
+		"text": "@terrorobe Ah yes!! That's brilliant!! Now I can open that beer I take with my magazine when I forget the bottle opener 😂🤣😂🤣",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "terrorobe",
+					"name": "Michael Renner",
+					"id": 7804722,
+					"id_str": "7804722",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 896736607130267600,
+		"in_reply_to_status_id_str": "896736607130267648",
+		"in_reply_to_user_id": 7804722,
+		"in_reply_to_user_id_str": "7804722",
+		"in_reply_to_screen_name": "terrorobe",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 682,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 13:28:17 +0000 2017",
+		"id": 896725095410008000,
+		"id_str": "896725095410008064",
+		"text": "I'm surprised Wetherspoons isn't more popular with millennials... this is a bargain and you can still afford a mort… https://t.co/gyIt3McCUR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gyIt3McCUR",
+					"expanded_url": "https://twitter.com/i/web/status/896725095410008064",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 682,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 12:58:36 +0000 2017",
+		"id": 896717622393352200,
+		"id_str": "896717622393352193",
+		"text": "https://t.co/LyGc79cK4b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 896717609479135200,
+					"id_str": "896717609479135234",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DHHH6jDXYAI5nbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHHH6jDXYAI5nbQ.jpg",
+					"url": "https://t.co/LyGc79cK4b",
+					"display_url": "pic.twitter.com/LyGc79cK4b",
+					"expanded_url": "https://twitter.com/lildude/status/896717622393352193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896717609479135200,
+					"id_str": "896717609479135234",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DHHH6jDXYAI5nbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHHH6jDXYAI5nbQ.jpg",
+					"url": "https://t.co/LyGc79cK4b",
+					"display_url": "pic.twitter.com/LyGc79cK4b",
+					"expanded_url": "https://twitter.com/lildude/status/896717622393352193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 682,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Aug 12 17:00:23 +0000 2017",
 		"id": 896416082017255400,
 		"id_str": "896416082017255425",
