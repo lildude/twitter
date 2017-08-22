@@ -1,6 +1,1226 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 21 18:54:38 +0000 2017",
+		"id": 899706324593901600,
+		"id_str": "899706324593901568",
+		"text": "RT @JasonFitz1: Nice reminder here that most of your running should be EASY, for lots of reasons: https://t.co/Sd7jBnwCBX via @NatGeo https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonFitz1",
+					"name": "Jason Fitzgerald",
+					"id": 95969682,
+					"id_str": "95969682",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "NatGeo",
+					"name": "National Geographic",
+					"id": 17471979,
+					"id_str": "17471979",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sd7jBnwCBX",
+					"expanded_url": "http://bit.ly/2wh6zGE",
+					"display_url": "bit.ly/2wh6zGE",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 685,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 21 14:05:04 +0000 2017",
+			"id": 899633452424802300,
+			"id_str": "899633452424802306",
+			"text": "Nice reminder here that most of your running should be EASY, for lots of reasons: https://t.co/Sd7jBnwCBX via… https://t.co/jBcozMDFDK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Sd7jBnwCBX",
+						"expanded_url": "http://bit.ly/2wh6zGE",
+						"display_url": "bit.ly/2wh6zGE",
+						"indices": [
+							82,
+							105
+						]
+					},
+					{
+						"url": "https://t.co/jBcozMDFDK",
+						"expanded_url": "https://twitter.com/i/web/status/899633452424802306",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95969682,
+				"id_str": "95969682",
+				"name": "Jason Fitzgerald",
+				"screen_name": "JasonFitz1",
+				"location": "Denver, CO",
+				"description": "Head coach at Strength Running, endurance and marketing speaker, 2:39 marathoner. I help runners set monster personal bests.",
+				"url": "https://t.co/1SdMzkBziK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1SdMzkBziK",
+								"expanded_url": "http://strengthrunning.com",
+								"display_url": "strengthrunning.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11366,
+				"friends_count": 341,
+				"listed_count": 438,
+				"created_at": "Thu Dec 10 19:48:03 +0000 2009",
+				"favourites_count": 1012,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25238,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440124548822732801/PiDK4_xM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440124548822732801/PiDK4_xM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/643893803514855424/CplWi6TJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/643893803514855424/CplWi6TJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95969682/1392046152",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 21 18:30:02 +0000 2017",
+		"id": 899700134736429000,
+		"id_str": "899700134736429056",
+		"text": "RT @TomHall: What it's like to\n\nfly thru a #SolarEclipse.\n\n🌕🌖🌗🌘🌑🌒🌓🌔\n\n#SolarEclipse2017 #MondayMotivation\nhttps://t.co/mD8i5phr3d",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SolarEclipse",
+					"indices": [
+						43,
+						56
+					]
+				},
+				{
+					"text": "SolarEclipse2017",
+					"indices": [
+						69,
+						86
+					]
+				},
+				{
+					"text": "MondayMotivation",
+					"indices": [
+						87,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomHall",
+					"name": "Tom Hall ☘",
+					"id": 14993272,
+					"id_str": "14993272",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 899617910087233500,
+					"id_str": "899617910087233536",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/899617910087233536/pu/img/NK_rkT539FZ5acc8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/899617910087233536/pu/img/NK_rkT539FZ5acc8.jpg",
+					"url": "https://t.co/mD8i5phr3d",
+					"display_url": "pic.twitter.com/mD8i5phr3d",
+					"expanded_url": "https://twitter.com/InternetPalace/status/899617992337752067/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 899617992337752000,
+					"source_status_id_str": "899617992337752067",
+					"source_user_id": 3020168556,
+					"source_user_id_str": "3020168556"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 899617910087233500,
+					"id_str": "899617910087233536",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/899617910087233536/pu/img/NK_rkT539FZ5acc8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/899617910087233536/pu/img/NK_rkT539FZ5acc8.jpg",
+					"url": "https://t.co/mD8i5phr3d",
+					"display_url": "pic.twitter.com/mD8i5phr3d",
+					"expanded_url": "https://twitter.com/InternetPalace/status/899617992337752067/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 899617992337752000,
+					"source_status_id_str": "899617992337752067",
+					"source_user_id": 3020168556,
+					"source_user_id_str": "3020168556",
+					"video_info": {
+						"aspect_ratio": [
+							359,
+							202
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/899617910087233536/pu/vid/638x360/1Xre5zHAKiJjxQIb.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/899617910087233536/pu/pl/MrDkNT9Q8LFjtsAG.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/899617910087233536/pu/vid/318x180/ArghnMLmoL-RiHY9.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3020168556,
+							"id_str": "3020168556",
+							"name": "Internet Palace",
+							"screen_name": "InternetPalace",
+							"location": "",
+							"description": "Everything awesome the internet has to offer in one place. Follow for more incredible content.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 7611,
+							"friends_count": 0,
+							"listed_count": 176,
+							"created_at": "Sat Feb 14 23:19:57 +0000 2015",
+							"favourites_count": 6,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 14702,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/566744525998002176/Dl-7VmRw_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/566744525998002176/Dl-7VmRw_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3020168556/1423957434",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 685,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 21 15:42:58 +0000 2017",
+			"id": 899658092526227500,
+			"id_str": "899658092526227457",
+			"text": "What it's like to\n\nfly thru a #SolarEclipse.\n\n🌕🌖🌗🌘🌑🌒🌓🌔\n\n#SolarEclipse2017 #MondayMotivation\nhttps://t.co/mD8i5phr3d",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SolarEclipse",
+						"indices": [
+							30,
+							43
+						]
+					},
+					{
+						"text": "SolarEclipse2017",
+						"indices": [
+							56,
+							73
+						]
+					},
+					{
+						"text": "MondayMotivation",
+						"indices": [
+							74,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 899617910087233500,
+						"id_str": "899617910087233536",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/899617910087233536/pu/img/NK_rkT539FZ5acc8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/899617910087233536/pu/img/NK_rkT539FZ5acc8.jpg",
+						"url": "https://t.co/mD8i5phr3d",
+						"display_url": "pic.twitter.com/mD8i5phr3d",
+						"expanded_url": "https://twitter.com/InternetPalace/status/899617992337752067/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 899617992337752000,
+						"source_status_id_str": "899617992337752067",
+						"source_user_id": 3020168556,
+						"source_user_id_str": "3020168556"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 899617910087233500,
+						"id_str": "899617910087233536",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/899617910087233536/pu/img/NK_rkT539FZ5acc8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/899617910087233536/pu/img/NK_rkT539FZ5acc8.jpg",
+						"url": "https://t.co/mD8i5phr3d",
+						"display_url": "pic.twitter.com/mD8i5phr3d",
+						"expanded_url": "https://twitter.com/InternetPalace/status/899617992337752067/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 899617992337752000,
+						"source_status_id_str": "899617992337752067",
+						"source_user_id": 3020168556,
+						"source_user_id_str": "3020168556",
+						"video_info": {
+							"aspect_ratio": [
+								359,
+								202
+							],
+							"duration_millis": 15015,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/899617910087233536/pu/vid/638x360/1Xre5zHAKiJjxQIb.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/899617910087233536/pu/pl/MrDkNT9Q8LFjtsAG.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/899617910087233536/pu/vid/318x180/ArghnMLmoL-RiHY9.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 3020168556,
+								"id_str": "3020168556",
+								"name": "Internet Palace",
+								"screen_name": "InternetPalace",
+								"location": "",
+								"description": "Everything awesome the internet has to offer in one place. Follow for more incredible content.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 7611,
+								"friends_count": 0,
+								"listed_count": 176,
+								"created_at": "Sat Feb 14 23:19:57 +0000 2015",
+								"favourites_count": 6,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 14702,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/566744525998002176/Dl-7VmRw_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/566744525998002176/Dl-7VmRw_normal.jpeg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3020168556/1423957434",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14993272,
+				"id_str": "14993272",
+				"name": "Tom Hall ☘",
+				"screen_name": "TomHall",
+				"location": "Santa Monica, California",
+				"description": "Premier #TwitterMaster to #CEOs, #Writers, #Entertainers, & #ThoughtLeaders; We Build Strategic Twitter Followings. A Connoisseur of Adventures & #Cocktails!",
+				"url": "https://t.co/PuIP5h0dN2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PuIP5h0dN2",
+								"expanded_url": "http://www.Linkedin.com/in/TomHall",
+								"display_url": "Linkedin.com/in/TomHall",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 464982,
+				"friends_count": 456005,
+				"listed_count": 2902,
+				"created_at": "Tue Jun 03 14:34:51 +0000 2008",
+				"favourites_count": 212689,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30780,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0E0E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000139237042/JNuzpe14.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000139237042/JNuzpe14.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/561672933160927232/RJUZ5Rxs_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/561672933160927232/RJUZ5Rxs_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14993272/1467313906",
+				"profile_link_color": "F50A0A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "0084B4",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51913,
+			"favorite_count": 82974,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 51913,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 21 16:55:39 +0000 2017",
+		"id": 899676384574009300,
+		"id_str": "899676384574009345",
+		"text": "RT @JennnQuinn: Why is it when the sun blacks out on a Monday afternoon it's an \"amazing natural phenomenon\" but when I do it's a \"problem\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennnQuinn",
+					"name": "Jenn Quinn",
+					"id": 35763104,
+					"id_str": "35763104",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 685,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 20 03:59:43 +0000 2017",
+			"id": 899118723533086700,
+			"id_str": "899118723533086724",
+			"text": "Why is it when the sun blacks out on a Monday afternoon it's an \"amazing natural phenomenon\" but when I do it's a \"problem\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35763104,
+				"id_str": "35763104",
+				"name": "Jenn Quinn",
+				"screen_name": "JennnQuinn",
+				"location": "",
+				"description": "Bentley '19",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1709,
+				"friends_count": 289,
+				"listed_count": 27,
+				"created_at": "Mon Apr 27 15:04:16 +0000 2009",
+				"favourites_count": 10563,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14160,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000161465650/KuaIxGcu.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000161465650/KuaIxGcu.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/896174754025156609/zXhVuCq4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/896174754025156609/zXhVuCq4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35763104/1502499739",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75098,
+			"favorite_count": 257253,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 75098,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 21 14:57:57 +0000 2017",
+		"id": 899646763023310800,
+		"id_str": "899646763023310848",
+		"text": "RT @kit3bus: You are a @github #Enterprise #admin and you wanna know how many of your users run vulnerable Git clients? Try this: https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Enterprise",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"text": "admin",
+					"indices": [
+						43,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kit3bus",
+					"name": "Lars Schneider",
+					"id": 22743932,
+					"id_str": "22743932",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 271,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 685,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 21 14:47:23 +0000 2017",
+			"id": 899644103968915500,
+			"id_str": "899644103968915456",
+			"text": "You are a @github #Enterprise #admin and you wanna know how many of your users run vulnerable Git clients? Try this: https://t.co/1sba1Nqxba",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Enterprise",
+						"indices": [
+							18,
+							29
+						]
+					},
+					{
+						"text": "admin",
+						"indices": [
+							30,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "github",
+						"name": "GitHub",
+						"id": 13334762,
+						"id_str": "13334762",
+						"indices": [
+							10,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1sba1Nqxba",
+						"expanded_url": "https://github.com/larsxschneider/scotty/blob/master/reports/git-versions.sh",
+						"display_url": "github.com/larsxschneider…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22743932,
+				"id_str": "22743932",
+				"name": "Lars Schneider",
+				"screen_name": "kit3bus",
+				"location": "Berlin",
+				"description": "Kiteboarder, hiker, Git TechLead @Autodesk. Tweets are mine.",
+				"url": "https://t.co/ixQkCfbUE9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ixQkCfbUE9",
+								"expanded_url": "http://larsxschneider.github.io/",
+								"display_url": "larsxschneider.github.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 153,
+				"friends_count": 92,
+				"listed_count": 12,
+				"created_at": "Wed Mar 04 06:51:56 +0000 2009",
+				"favourites_count": 195,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 407,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/622715786302496768/t6RbGch-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/622715786302496768/t6RbGch-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22743932/1469355886",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 20 09:42:37 +0000 2017",
 		"id": 899205020377391100,
 		"id_str": "899205020377391104",
