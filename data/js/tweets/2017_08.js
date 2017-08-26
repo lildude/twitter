@@ -1,6 +1,728 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 25 18:33:05 +0000 2017",
+		"id": 901150453823680500,
+		"id_str": "901150453823680512",
+		"text": "RT @brittlestar: This just instantly made today better... https://t.co/mAnwSqgA5n",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brittlestar",
+					"name": "Brittlestar",
+					"id": 19002345,
+					"id_str": "19002345",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 900338683630452700,
+					"id_str": "900338683630452742",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900338683630452742/pu/img/4beI8TW-ym6tPhsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900338683630452742/pu/img/4beI8TW-ym6tPhsa.jpg",
+					"url": "https://t.co/mAnwSqgA5n",
+					"display_url": "pic.twitter.com/mAnwSqgA5n",
+					"expanded_url": "https://twitter.com/BESTVlDS/status/900338867513028608/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900338867513028600,
+					"source_status_id_str": "900338867513028608",
+					"source_user_id": 496091886,
+					"source_user_id_str": "496091886"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 900338683630452700,
+					"id_str": "900338683630452742",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900338683630452742/pu/img/4beI8TW-ym6tPhsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900338683630452742/pu/img/4beI8TW-ym6tPhsa.jpg",
+					"url": "https://t.co/mAnwSqgA5n",
+					"display_url": "pic.twitter.com/mAnwSqgA5n",
+					"expanded_url": "https://twitter.com/BESTVlDS/status/900338867513028608/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900338867513028600,
+					"source_status_id_str": "900338867513028608",
+					"source_user_id": 496091886,
+					"source_user_id_str": "496091886",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 28733,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/900338683630452742/pu/vid/720x720/s6mg486MSd9QlB-l.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/900338683630452742/pu/pl/MSOcwXoBuPajPn2w.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/900338683630452742/pu/vid/240x240/D6bFT1Pjub0R4yd3.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/900338683630452742/pu/vid/480x480/hNZxzBrpN-kbTXnT.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 496091886,
+							"id_str": "496091886",
+							"name": "Best Videos",
+							"screen_name": "BESTVlDS",
+							"location": "",
+							"description": "We post the best videos on the web. Send us your favs.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 53152,
+							"friends_count": 1933,
+							"listed_count": 97,
+							"created_at": "Sat Feb 18 16:14:36 +0000 2012",
+							"favourites_count": 4,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 833,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614662115/mixwr8fwhmu2h58usmay.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614662115/mixwr8fwhmu2h58usmay.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/655704635559182336/YGumxQer_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/655704635559182336/YGumxQer_normal.jpg",
+							"profile_link_color": "009999",
+							"profile_sidebar_border_color": "EEEEEE",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 272,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 686,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5108,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 24 20:16:43 +0000 2017",
+			"id": 900814145141997600,
+			"id_str": "900814145141997570",
+			"text": "This just instantly made today better... https://t.co/mAnwSqgA5n",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 900338683630452700,
+						"id_str": "900338683630452742",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900338683630452742/pu/img/4beI8TW-ym6tPhsa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900338683630452742/pu/img/4beI8TW-ym6tPhsa.jpg",
+						"url": "https://t.co/mAnwSqgA5n",
+						"display_url": "pic.twitter.com/mAnwSqgA5n",
+						"expanded_url": "https://twitter.com/BESTVlDS/status/900338867513028608/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 900338867513028600,
+						"source_status_id_str": "900338867513028608",
+						"source_user_id": 496091886,
+						"source_user_id_str": "496091886"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900338683630452700,
+						"id_str": "900338683630452742",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/900338683630452742/pu/img/4beI8TW-ym6tPhsa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/900338683630452742/pu/img/4beI8TW-ym6tPhsa.jpg",
+						"url": "https://t.co/mAnwSqgA5n",
+						"display_url": "pic.twitter.com/mAnwSqgA5n",
+						"expanded_url": "https://twitter.com/BESTVlDS/status/900338867513028608/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 900338867513028600,
+						"source_status_id_str": "900338867513028608",
+						"source_user_id": 496091886,
+						"source_user_id_str": "496091886",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 28733,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/900338683630452742/pu/vid/720x720/s6mg486MSd9QlB-l.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/900338683630452742/pu/pl/MSOcwXoBuPajPn2w.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/900338683630452742/pu/vid/240x240/D6bFT1Pjub0R4yd3.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/900338683630452742/pu/vid/480x480/hNZxzBrpN-kbTXnT.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 496091886,
+								"id_str": "496091886",
+								"name": "Best Videos",
+								"screen_name": "BESTVlDS",
+								"location": "",
+								"description": "We post the best videos on the web. Send us your favs.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 53152,
+								"friends_count": 1933,
+								"listed_count": 97,
+								"created_at": "Sat Feb 18 16:14:36 +0000 2012",
+								"favourites_count": 4,
+								"utc_offset": -14400,
+								"time_zone": "Eastern Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 833,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "131516",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614662115/mixwr8fwhmu2h58usmay.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614662115/mixwr8fwhmu2h58usmay.jpeg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/655704635559182336/YGumxQer_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/655704635559182336/YGumxQer_normal.jpg",
+								"profile_link_color": "009999",
+								"profile_sidebar_border_color": "EEEEEE",
+								"profile_sidebar_fill_color": "EFEFEF",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19002345,
+				"id_str": "19002345",
+				"name": "Brittlestar",
+				"screen_name": "brittlestar",
+				"location": "Stratford, ON",
+				"description": "Stewart Reynolds - Your Social Media Dad. Brand-safe, Family-friendly, Cute, Manly, Decent remaining hair- Be someone's good luck. business@brittlestar.com",
+				"url": "https://t.co/IQvCS9EALG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IQvCS9EALG",
+								"expanded_url": "http://brittlestore.com",
+								"display_url": "brittlestore.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17909,
+				"friends_count": 3104,
+				"listed_count": 281,
+				"created_at": "Wed Jan 14 23:54:17 +0000 2009",
+				"favourites_count": 52007,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 38130,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FA743E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164804383/VHKyIaej.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164804383/VHKyIaej.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/898212931527102465/a4MtMvZj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898212931527102465/a4MtMvZj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19002345/1480118828",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31429,
+			"favorite_count": 52737,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31429,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 25 17:58:45 +0000 2017",
+		"id": 901141813838393300,
+		"id_str": "901141813838393348",
+		"text": "RT @BeerFrontiers: 🍻 COMPETITION TIME! 🍻 \n\nRT and follow for a chance to win this insanely rare BrewDog imperial stout.\n\nMore here - https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeerFrontiers",
+					"name": "Beer Frontiers",
+					"id": 2913959351,
+					"id_str": "2913959351",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 272,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 686,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5108,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 20 13:13:06 +0000 2017",
+			"id": 899257987155546100,
+			"id_str": "899257987155546114",
+			"text": "🍻 COMPETITION TIME! 🍻 \n\nRT and follow for a chance to win this insanely rare BrewDog imperial stout.\n\nMore here -… https://t.co/40E9l3Nyqq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/40E9l3Nyqq",
+						"expanded_url": "https://twitter.com/i/web/status/899257987155546114",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2913959351,
+				"id_str": "2913959351",
+				"name": "Beer Frontiers",
+				"screen_name": "BeerFrontiers",
+				"location": "London",
+				"description": "A beer blog that looks on the bright side.",
+				"url": "https://t.co/tv2fwjJpMB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tv2fwjJpMB",
+								"expanded_url": "http://www.beerfrontiers.com",
+								"display_url": "beerfrontiers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 704,
+				"friends_count": 342,
+				"listed_count": 11,
+				"created_at": "Wed Dec 10 16:09:06 +0000 2014",
+				"favourites_count": 248,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 369,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751756026492424192/Ky_JwpMr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751756026492424192/Ky_JwpMr_normal.jpg",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 257,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 22 17:47:36 +0000 2017",
 		"id": 900051845560897500,
 		"id_str": "900051845560897538",
