@@ -1,6 +1,1353 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 04 18:17:04 +0000 2017",
+		"id": 904770302651097100,
+		"id_str": "904770302651097088",
+		"text": "RT @Oatmeal: Emotions. https://t.co/abdOC6VUYe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Oatmeal",
+					"name": "Matthew Inman",
+					"id": 4519121,
+					"id_str": "4519121",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 904758900011876400,
+					"id_str": "904758900011876353",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DI5ZbQqUwAEA3RR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI5ZbQqUwAEA3RR.jpg",
+					"url": "https://t.co/abdOC6VUYe",
+					"display_url": "pic.twitter.com/abdOC6VUYe",
+					"expanded_url": "https://twitter.com/Oatmeal/status/904758921792970752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904758921792970800,
+					"source_status_id_str": "904758921792970752",
+					"source_user_id": 4519121,
+					"source_user_id_str": "4519121"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 904758900011876400,
+					"id_str": "904758900011876353",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DI5ZbQqUwAEA3RR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI5ZbQqUwAEA3RR.jpg",
+					"url": "https://t.co/abdOC6VUYe",
+					"display_url": "pic.twitter.com/abdOC6VUYe",
+					"expanded_url": "https://twitter.com/Oatmeal/status/904758921792970752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904758921792970800,
+					"source_status_id_str": "904758921792970752",
+					"source_user_id": 4519121,
+					"source_user_id_str": "4519121"
+				},
+				{
+					"id": 904758900020338700,
+					"id_str": "904758900020338688",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DI5ZbQsV4AAjLWy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI5ZbQsV4AAjLWy.jpg",
+					"url": "https://t.co/abdOC6VUYe",
+					"display_url": "pic.twitter.com/abdOC6VUYe",
+					"expanded_url": "https://twitter.com/Oatmeal/status/904758921792970752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 1201,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904758921792970800,
+					"source_status_id_str": "904758921792970752",
+					"source_user_id": 4519121,
+					"source_user_id_str": "4519121"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 274,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 692,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 04 17:31:51 +0000 2017",
+			"id": 904758921792970800,
+			"id_str": "904758921792970752",
+			"text": "Emotions. https://t.co/abdOC6VUYe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 904758900011876400,
+						"id_str": "904758900011876353",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DI5ZbQqUwAEA3RR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI5ZbQqUwAEA3RR.jpg",
+						"url": "https://t.co/abdOC6VUYe",
+						"display_url": "pic.twitter.com/abdOC6VUYe",
+						"expanded_url": "https://twitter.com/Oatmeal/status/904758921792970752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 904758900011876400,
+						"id_str": "904758900011876353",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DI5ZbQqUwAEA3RR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI5ZbQqUwAEA3RR.jpg",
+						"url": "https://t.co/abdOC6VUYe",
+						"display_url": "pic.twitter.com/abdOC6VUYe",
+						"expanded_url": "https://twitter.com/Oatmeal/status/904758921792970752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 904758900020338700,
+						"id_str": "904758900020338688",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DI5ZbQsV4AAjLWy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI5ZbQsV4AAjLWy.jpg",
+						"url": "https://t.co/abdOC6VUYe",
+						"display_url": "pic.twitter.com/abdOC6VUYe",
+						"expanded_url": "https://twitter.com/Oatmeal/status/904758921792970752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1201,
+								"h": 1201,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4519121,
+				"id_str": "4519121",
+				"name": "Matthew Inman",
+				"screen_name": "Oatmeal",
+				"location": "Seattle, Washington",
+				"description": "I make comics",
+				"url": "https://t.co/hzHuiYtO6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hzHuiYtO6x",
+								"expanded_url": "http://theoatmeal.com",
+								"display_url": "theoatmeal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 594982,
+				"friends_count": 441,
+				"listed_count": 17180,
+				"created_at": "Fri Apr 13 16:59:37 +0000 2007",
+				"favourites_count": 2708,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF3366",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/702577753938272256/mjHXYRxP.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/702577753938272256/mjHXYRxP.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793613884053532674/teYItBjT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793613884053532674/teYItBjT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4519121/1456343092",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "F5EDF0",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 261,
+			"favorite_count": 1116,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 04 07:20:37 +0000 2017",
+		"id": 904605100731224000,
+		"id_str": "904605100731224064",
+		"text": "RT @webmink: My estimate is the layoffs in Solaris-land mean Oracle has now fumbled everything it got from Sun. https://t.co/DY7lKtpxC6 htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "webmink",
+					"name": "Simon Phipps",
+					"id": 752133,
+					"id_str": "752133",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DY7lKtpxC6",
+					"expanded_url": "https://meshedinsights.com/2017/09/03/oracle-finally-killed-sun/",
+					"display_url": "meshedinsights.com/2017/09/03/ora…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 274,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 692,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 03 12:16:28 +0000 2017",
+			"id": 904317167419699200,
+			"id_str": "904317167419699200",
+			"text": "My estimate is the layoffs in Solaris-land mean Oracle has now fumbled everything it got from Sun.… https://t.co/7tLm6EDAwI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7tLm6EDAwI",
+						"expanded_url": "https://twitter.com/i/web/status/904317167419699200",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 752133,
+				"id_str": "752133",
+				"name": "Simon Phipps",
+				"screen_name": "webmink",
+				"location": "Southampton, UK",
+				"description": "Eclectic geek, campaigning for digital liberties & open source, running Meshed Insights. TDF, OSI & ORG Director. Freelance writer. Own views.",
+				"url": "https://t.co/Go6BQLDb1n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Go6BQLDb1n",
+								"expanded_url": "https://meshedinsights.com",
+								"display_url": "meshedinsights.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8544,
+				"friends_count": 793,
+				"listed_count": 612,
+				"created_at": "Sat Feb 03 17:37:34 +0000 2007",
+				"favourites_count": 9211,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36139,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/46692/Water.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/46692/Water.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/500396771319640064/hQ96ZD39_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/500396771319640064/hQ96ZD39_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/752133/1487875862",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 904081073256243200,
+			"quoted_status_id_str": "904081073256243201",
+			"quoted_status": {
+				"created_at": "Sat Sep 02 20:38:19 +0000 2017",
+				"id": 904081073256243200,
+				"id_str": "904081073256243201",
+				"text": "For those unaware, Oracle laid off ~ all Solaris tech staff yesterday in a classic silent EOL of the product. https://t.co/ibs2REGRmj",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ibs2REGRmj",
+							"expanded_url": "https://twitter.com/webmink/status/904067176377831424",
+							"display_url": "twitter.com/webmink/status…",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 752133,
+					"id_str": "752133",
+					"name": "Simon Phipps",
+					"screen_name": "webmink",
+					"location": "Southampton, UK",
+					"description": "Eclectic geek, campaigning for digital liberties & open source, running Meshed Insights. TDF, OSI & ORG Director. Freelance writer. Own views.",
+					"url": "https://t.co/Go6BQLDb1n",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Go6BQLDb1n",
+									"expanded_url": "https://meshedinsights.com",
+									"display_url": "meshedinsights.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8544,
+					"friends_count": 793,
+					"listed_count": 612,
+					"created_at": "Sat Feb 03 17:37:34 +0000 2007",
+					"favourites_count": 9211,
+					"utc_offset": 3600,
+					"time_zone": "Europe/London",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 36139,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/46692/Water.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/46692/Water.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/500396771319640064/hQ96ZD39_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/500396771319640064/hQ96ZD39_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/752133/1487875862",
+					"profile_link_color": "0000FF",
+					"profile_sidebar_border_color": "87BC44",
+					"profile_sidebar_fill_color": "E0FF92",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 904067176377831400,
+				"quoted_status_id_str": "904067176377831424",
+				"retweet_count": 2188,
+				"favorite_count": 1300,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 66,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 904081073256243200,
+		"quoted_status_id_str": "904081073256243201",
+		"retweet_count": 66,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 04 07:16:31 +0000 2017",
+		"id": 904604070245216300,
+		"id_str": "904604070245216257",
+		"text": "😭😭 https://t.co/0LodIzTslD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0LodIzTslD",
+					"expanded_url": "https://twitter.com/webmink/status/904081073256243201",
+					"display_url": "twitter.com/webmink/status…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 274,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 692,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 904081073256243200,
+		"quoted_status_id_str": "904081073256243201",
+		"quoted_status": {
+			"created_at": "Sat Sep 02 20:38:19 +0000 2017",
+			"id": 904081073256243200,
+			"id_str": "904081073256243201",
+			"text": "For those unaware, Oracle laid off ~ all Solaris tech staff yesterday in a classic silent EOL of the product. https://t.co/ibs2REGRmj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ibs2REGRmj",
+						"expanded_url": "https://twitter.com/webmink/status/904067176377831424",
+						"display_url": "twitter.com/webmink/status…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 752133,
+				"id_str": "752133",
+				"name": "Simon Phipps",
+				"screen_name": "webmink",
+				"location": "Southampton, UK",
+				"description": "Eclectic geek, campaigning for digital liberties & open source, running Meshed Insights. TDF, OSI & ORG Director. Freelance writer. Own views.",
+				"url": "https://t.co/Go6BQLDb1n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Go6BQLDb1n",
+								"expanded_url": "https://meshedinsights.com",
+								"display_url": "meshedinsights.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8544,
+				"friends_count": 793,
+				"listed_count": 612,
+				"created_at": "Sat Feb 03 17:37:34 +0000 2007",
+				"favourites_count": 9211,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36139,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/46692/Water.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/46692/Water.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/500396771319640064/hQ96ZD39_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/500396771319640064/hQ96ZD39_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/752133/1487875862",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 904067176377831400,
+			"quoted_status_id_str": "904067176377831424",
+			"retweet_count": 2188,
+			"favorite_count": 1300,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Sep 04 06:41:44 +0000 2017",
+		"id": 904595316699267100,
+		"id_str": "904595316699267072",
+		"text": "RT @forquare: @emtiu Beautiful.\nI hope you’re OK with me using these words for a commemorative desktop background? https://t.co/5DZDTr7Ypp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "forquare",
+					"name": "Ben Lavery-Griffiths",
+					"id": 33305384,
+					"id_str": "33305384",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "emtiu",
+					"name": "Michael Büker",
+					"id": 60089271,
+					"id_str": "60089271",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 904577586315087900,
+					"id_str": "904577586315087877",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DI20hagXUAUe1NV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI20hagXUAUe1NV.jpg",
+					"url": "https://t.co/5DZDTr7Ypp",
+					"display_url": "pic.twitter.com/5DZDTr7Ypp",
+					"expanded_url": "https://twitter.com/forquare/status/904577630443368448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904577630443368400,
+					"source_status_id_str": "904577630443368448",
+					"source_user_id": 33305384,
+					"source_user_id_str": "33305384"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 904577586315087900,
+					"id_str": "904577586315087877",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DI20hagXUAUe1NV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI20hagXUAUe1NV.jpg",
+					"url": "https://t.co/5DZDTr7Ypp",
+					"display_url": "pic.twitter.com/5DZDTr7Ypp",
+					"expanded_url": "https://twitter.com/forquare/status/904577630443368448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904577630443368400,
+					"source_status_id_str": "904577630443368448",
+					"source_user_id": 33305384,
+					"source_user_id_str": "33305384"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 274,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 692,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 04 05:31:27 +0000 2017",
+			"id": 904577630443368400,
+			"id_str": "904577630443368448",
+			"text": "@emtiu Beautiful.\nI hope you’re OK with me using these words for a commemorative desktop background? https://t.co/5DZDTr7Ypp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "emtiu",
+						"name": "Michael Büker",
+						"id": 60089271,
+						"id_str": "60089271",
+						"indices": [
+							0,
+							6
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 904577586315087900,
+						"id_str": "904577586315087877",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DI20hagXUAUe1NV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI20hagXUAUe1NV.jpg",
+						"url": "https://t.co/5DZDTr7Ypp",
+						"display_url": "pic.twitter.com/5DZDTr7Ypp",
+						"expanded_url": "https://twitter.com/forquare/status/904577630443368448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1012,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 904577586315087900,
+						"id_str": "904577586315087877",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DI20hagXUAUe1NV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI20hagXUAUe1NV.jpg",
+						"url": "https://t.co/5DZDTr7Ypp",
+						"display_url": "pic.twitter.com/5DZDTr7Ypp",
+						"expanded_url": "https://twitter.com/forquare/status/904577630443368448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1012,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": 807117424957030400,
+			"in_reply_to_status_id_str": "807117424957030400",
+			"in_reply_to_user_id": 60089271,
+			"in_reply_to_user_id_str": "60089271",
+			"in_reply_to_screen_name": "emtiu",
+			"user": {
+				"id": 33305384,
+				"id_str": "33305384",
+				"name": "Ben Lavery-Griffiths",
+				"screen_name": "forquare",
+				"location": "South Wales, UK",
+				"description": "FreeBSD & Mac geek—❤️UNIX; Perl & Shell scripter; Interested in etymology & typography; https://t.co/NhSLJWfkKH",
+				"url": "https://t.co/ZIfzdiaxBV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZIfzdiaxBV",
+								"expanded_url": "http://hashbang0.com",
+								"display_url": "hashbang0.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NhSLJWfkKH",
+								"expanded_url": "http://keybase.io/forquare",
+								"display_url": "keybase.io/forquare",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 170,
+				"friends_count": 135,
+				"listed_count": 37,
+				"created_at": "Sun Apr 19 20:33:43 +0000 2009",
+				"favourites_count": 129,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6695,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/504267279761436673/b32UmLB-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/504267279761436673/b32UmLB-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33305384/1417040855",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 03 18:33:17 +0000 2017",
 		"id": 904411996329791500,
 		"id_str": "904411996329791488",
