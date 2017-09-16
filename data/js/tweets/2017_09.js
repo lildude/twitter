@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 15 18:45:57 +0000 2017",
+		"id": 908763838941712400,
+		"id_str": "908763838941712386",
+		"text": "RT @Tim_McNulty: R.I.P. Irony 2017 https://t.co/MChZejijZx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tim_McNulty",
+					"name": "Tim Poster-Syndrome",
+					"id": 25980607,
+					"id_str": "25980607",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 908242395631964200,
+					"id_str": "908242395631964160",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DJq5pZGX0AAVzIg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJq5pZGX0AAVzIg.jpg",
+					"url": "https://t.co/MChZejijZx",
+					"display_url": "pic.twitter.com/MChZejijZx",
+					"expanded_url": "https://twitter.com/Tim_McNulty/status/908242418251825152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908242418251825200,
+					"source_status_id_str": "908242418251825152",
+					"source_user_id": 25980607,
+					"source_user_id_str": "25980607"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 908242395631964200,
+					"id_str": "908242395631964160",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DJq5pZGX0AAVzIg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJq5pZGX0AAVzIg.jpg",
+					"url": "https://t.co/MChZejijZx",
+					"display_url": "pic.twitter.com/MChZejijZx",
+					"expanded_url": "https://twitter.com/Tim_McNulty/status/908242418251825152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908242418251825200,
+					"source_status_id_str": "908242418251825152",
+					"source_user_id": 25980607,
+					"source_user_id_str": "25980607"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 274,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 692,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5131,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 14 08:14:01 +0000 2017",
+			"id": 908242418251825200,
+			"id_str": "908242418251825152",
+			"text": "R.I.P. Irony 2017 https://t.co/MChZejijZx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 908242395631964200,
+						"id_str": "908242395631964160",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DJq5pZGX0AAVzIg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJq5pZGX0AAVzIg.jpg",
+						"url": "https://t.co/MChZejijZx",
+						"display_url": "pic.twitter.com/MChZejijZx",
+						"expanded_url": "https://twitter.com/Tim_McNulty/status/908242418251825152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 908242395631964200,
+						"id_str": "908242395631964160",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DJq5pZGX0AAVzIg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJq5pZGX0AAVzIg.jpg",
+						"url": "https://t.co/MChZejijZx",
+						"display_url": "pic.twitter.com/MChZejijZx",
+						"expanded_url": "https://twitter.com/Tim_McNulty/status/908242418251825152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25980607,
+				"id_str": "25980607",
+				"name": "Tim Poster-Syndrome",
+				"screen_name": "Tim_McNulty",
+				"location": "Liverpool / Isle Of Man",
+				"description": "IT professional for nearly 30 years. Socialist. Anti-Brexit. Atheist. Sci-Fi geek. Say hello, I don't bite. Much.  All views my own, unless they aren't, obvs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1902,
+				"friends_count": 1891,
+				"listed_count": 24,
+				"created_at": "Mon Mar 23 10:32:32 +0000 2009",
+				"favourites_count": 94144,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20390,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/755446892/d3337f4a0488aaada2c7e54b6bce1f14.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/755446892/d3337f4a0488aaada2c7e54b6bce1f14.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893042284333219840/w6zGZKmK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893042284333219840/w6zGZKmK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25980607/1496840255",
+				"profile_link_color": "8F0B0B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "92121F",
+				"profile_text_color": "DE3F2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28905,
+			"favorite_count": 57993,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "pl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28905,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pl"
+	},
+	{
 		"created_at": "Thu Sep 14 07:32:11 +0000 2017",
 		"id": 908231888501919700,
 		"id_str": "908231888501919744",
