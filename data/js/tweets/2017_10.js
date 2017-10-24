@@ -1,6 +1,970 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 23 13:35:52 +0000 2017",
+		"id": 922456539373408300,
+		"id_str": "922456539373408256",
+		"text": "RT @LukeRomyn: Someone designed this. Then someone approved it for production. Then someone printed it. Than someone bought it and put it o…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LukeRomyn",
+					"name": "Luke Romyn",
+					"id": 24636191,
+					"id_str": "24636191",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 500,
+			"friends_count": 275,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 704,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 21 13:50:05 +0000 2017",
+			"id": 921735342419599400,
+			"id_str": "921735342419599361",
+			"text": "Someone designed this. Then someone approved it for production. Then someone printed it. Than someone bought it and… https://t.co/6ooZfC35wz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6ooZfC35wz",
+						"expanded_url": "https://twitter.com/i/web/status/921735342419599361",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24636191,
+				"id_str": "24636191",
+				"name": "Luke Romyn",
+				"screen_name": "LukeRomyn",
+				"location": "Australia",
+				"description": "Serial smartass. USA Today and Amazon #1 best selling author. Represented by Italia Gandolfo of Gandolfo Helin & Fountain Literary Management.",
+				"url": "http://t.co/Iv6EHY4MXW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Iv6EHY4MXW",
+								"expanded_url": "http://www.lukeromyn.com",
+								"display_url": "lukeromyn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 420230,
+				"friends_count": 327202,
+				"listed_count": 5916,
+				"created_at": "Mon Mar 16 02:41:08 +0000 2009",
+				"favourites_count": 1039,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 119088,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/327068846/books-shelf2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/327068846/books-shelf2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803484591667310592/3s9_8Q63_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803484591667310592/3s9_8Q63_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24636191/1491206828",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36087,
+			"favorite_count": 114988,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36087,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 23 13:33:09 +0000 2017",
+		"id": 922455859367759900,
+		"id_str": "922455859367759874",
+		"text": "RT @FootyHumour: Never ever celebrate too early in a penalty shootout 😂 https://t.co/STf4KQT5UC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FootyHumour",
+					"name": "Footy Humour",
+					"id": 471436748,
+					"id_str": "471436748",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921708240844439600,
+					"id_str": "921708240844439560",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/921708240844439560/img/0Eh2VdCHSCqrmAIr.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/921708240844439560/img/0Eh2VdCHSCqrmAIr.jpg",
+					"url": "https://t.co/STf4KQT5UC",
+					"display_url": "pic.twitter.com/STf4KQT5UC",
+					"expanded_url": "https://twitter.com/FOXSportsAsia/status/921722992022888448/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921722992022888400,
+					"source_status_id_str": "921722992022888448",
+					"source_user_id": 44316192,
+					"source_user_id_str": "44316192"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921708240844439600,
+					"id_str": "921708240844439560",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/921708240844439560/img/0Eh2VdCHSCqrmAIr.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/921708240844439560/img/0Eh2VdCHSCqrmAIr.jpg",
+					"url": "https://t.co/STf4KQT5UC",
+					"display_url": "pic.twitter.com/STf4KQT5UC",
+					"expanded_url": "https://twitter.com/FOXSportsAsia/status/921722992022888448/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921722992022888400,
+					"source_status_id_str": "921722992022888448",
+					"source_user_id": 44316192,
+					"source_user_id_str": "44316192",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46872,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/921708240844439560/vid/640x360/G7sRA9vO9fxUbTma.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/921708240844439560/pl/bCBWjTTpCxb_ntAg.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/921708240844439560/vid/320x180/pNQkm6v-edMw5kI4.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 44316192,
+							"id_str": "44316192",
+							"name": "FOX Sports Asia",
+							"screen_name": "FOXSportsAsia",
+							"location": "Asia",
+							"description": "Official Twitter account for FOX Sports Asia! Go to https://t.co/tbWj7PaRyu for news, scores, editorials and more. Follow us at @FSAsiaLive for LIVE updates!",
+							"url": "http://t.co/tbWj7PaRyu",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/tbWj7PaRyu",
+											"expanded_url": "http://foxsportsasia.com",
+											"display_url": "foxsportsasia.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/tbWj7PaRyu",
+											"expanded_url": "http://foxsportsasia.com",
+											"display_url": "foxsportsasia.com",
+											"indices": [
+												52,
+												75
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 34497,
+							"friends_count": 366,
+							"listed_count": 472,
+							"created_at": "Wed Jun 03 07:39:43 +0000 2009",
+							"favourites_count": 686,
+							"utc_offset": 28800,
+							"time_zone": "Singapore",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 122998,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FCFCFC",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/22282482/bg_generic3.JPG",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/22282482/bg_generic3.JPG",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/805585202969858052/k3macs1e_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/805585202969858052/k3macs1e_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/44316192/1500303403",
+							"profile_link_color": "3B94D9",
+							"profile_sidebar_border_color": "DFDFDF",
+							"profile_sidebar_fill_color": "F3F3F3",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 500,
+			"friends_count": 275,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 704,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 22 12:06:27 +0000 2017",
+			"id": 922071651885502500,
+			"id_str": "922071651885502464",
+			"text": "Never ever celebrate too early in a penalty shootout 😂 https://t.co/STf4KQT5UC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921708240844439600,
+						"id_str": "921708240844439560",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/921708240844439560/img/0Eh2VdCHSCqrmAIr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/921708240844439560/img/0Eh2VdCHSCqrmAIr.jpg",
+						"url": "https://t.co/STf4KQT5UC",
+						"display_url": "pic.twitter.com/STf4KQT5UC",
+						"expanded_url": "https://twitter.com/FOXSportsAsia/status/921722992022888448/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 921722992022888400,
+						"source_status_id_str": "921722992022888448",
+						"source_user_id": 44316192,
+						"source_user_id_str": "44316192"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921708240844439600,
+						"id_str": "921708240844439560",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/921708240844439560/img/0Eh2VdCHSCqrmAIr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/921708240844439560/img/0Eh2VdCHSCqrmAIr.jpg",
+						"url": "https://t.co/STf4KQT5UC",
+						"display_url": "pic.twitter.com/STf4KQT5UC",
+						"expanded_url": "https://twitter.com/FOXSportsAsia/status/921722992022888448/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 921722992022888400,
+						"source_status_id_str": "921722992022888448",
+						"source_user_id": 44316192,
+						"source_user_id_str": "44316192",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 46872,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/921708240844439560/vid/640x360/G7sRA9vO9fxUbTma.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/921708240844439560/pl/bCBWjTTpCxb_ntAg.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/921708240844439560/vid/320x180/pNQkm6v-edMw5kI4.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 44316192,
+								"id_str": "44316192",
+								"name": "FOX Sports Asia",
+								"screen_name": "FOXSportsAsia",
+								"location": "Asia",
+								"description": "Official Twitter account for FOX Sports Asia! Go to https://t.co/tbWj7PaRyu for news, scores, editorials and more. Follow us at @FSAsiaLive for LIVE updates!",
+								"url": "http://t.co/tbWj7PaRyu",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/tbWj7PaRyu",
+												"expanded_url": "http://foxsportsasia.com",
+												"display_url": "foxsportsasia.com",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/tbWj7PaRyu",
+												"expanded_url": "http://foxsportsasia.com",
+												"display_url": "foxsportsasia.com",
+												"indices": [
+													52,
+													75
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 34497,
+								"friends_count": 366,
+								"listed_count": 472,
+								"created_at": "Wed Jun 03 07:39:43 +0000 2009",
+								"favourites_count": 686,
+								"utc_offset": 28800,
+								"time_zone": "Singapore",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 122998,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FCFCFC",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/22282482/bg_generic3.JPG",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/22282482/bg_generic3.JPG",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/805585202969858052/k3macs1e_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/805585202969858052/k3macs1e_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/44316192/1500303403",
+								"profile_link_color": "3B94D9",
+								"profile_sidebar_border_color": "DFDFDF",
+								"profile_sidebar_fill_color": "F3F3F3",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 471436748,
+				"id_str": "471436748",
+				"name": "Footy Humour",
+				"screen_name": "FootyHumour",
+				"location": "",
+				"description": "Home of all the best Football related jokes! For advertising/business enquiries please contact: Footy_Humour@outlook.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 698675,
+				"friends_count": 263,
+				"listed_count": 2554,
+				"created_at": "Sun Jan 22 21:13:12 +0000 2012",
+				"favourites_count": 461,
+				"utc_offset": 3600,
+				"time_zone": "Casablanca",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11416,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739877808/8caf68438a775df0adf97fa63dafe9cd.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739877808/8caf68438a775df0adf97fa63dafe9cd.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/904400936881270785/s6wmXENM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/904400936881270785/s6wmXENM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/471436748/1504460962",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "CE7834",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1350,
+			"favorite_count": 1680,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1350,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 23 07:31:50 +0000 2017",
+		"id": 922364929373626400,
+		"id_str": "922364929373626369",
+		"text": "RT @_swcoach: Read this, then watch the documentary. Bloody amazing @barkleymarathon \nThe Legendary Lazarus Lake and the Barkley Marathons…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_swcoach",
+					"name": "Simon W",
+					"id": 1613045352,
+					"id_str": "1613045352",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "BarkleyMarathon",
+					"name": "The Barkley Marathon",
+					"id": 1286980015,
+					"id_str": "1286980015",
+					"indices": [
+						68,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 500,
+			"friends_count": 275,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 704,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 22 18:03:21 +0000 2017",
+			"id": 922161469227192300,
+			"id_str": "922161469227192320",
+			"text": "Read this, then watch the documentary. Bloody amazing @barkleymarathon \nThe Legendary Lazarus Lake and the Barkley… https://t.co/CITFGmOzEt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BarkleyMarathon",
+						"name": "The Barkley Marathon",
+						"id": 1286980015,
+						"id_str": "1286980015",
+						"indices": [
+							54,
+							70
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CITFGmOzEt",
+						"expanded_url": "https://twitter.com/i/web/status/922161469227192320",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1613045352,
+				"id_str": "1613045352",
+				"name": "Simon W",
+				"screen_name": "_swcoach",
+				"location": "Harrogate, Yorkshire",
+				"description": "Running, Leeds Utd, occasionally grumpy, usually injured #loveparkrun #noturningback",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 494,
+				"friends_count": 168,
+				"listed_count": 43,
+				"created_at": "Mon Jul 22 15:29:20 +0000 2013",
+				"favourites_count": 16316,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35045,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921033990236237826/sIuFJQpn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921033990236237826/sIuFJQpn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1613045352/1491833210",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 21 17:24:43 +0000 2017",
 		"id": 921789355538157600,
 		"id_str": "921789355538157568",
