@@ -1,6 +1,1001 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 04 21:55:02 +0000 2017",
+		"id": 926930814264270800,
+		"id_str": "926930814264270850",
+		"text": "RT @debecca: Just seen this on Facebook and I can't stop laughing! 😂😂😂 https://t.co/YA8ozRw7Mi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debecca",
+					"name": "The Joy of Bex",
+					"id": 25173368,
+					"id_str": "25173368",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 926172103098986500,
+					"id_str": "926172103098986497",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DNpsnuYXcAE_LQh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNpsnuYXcAE_LQh.jpg",
+					"url": "https://t.co/YA8ozRw7Mi",
+					"display_url": "pic.twitter.com/YA8ozRw7Mi",
+					"expanded_url": "https://twitter.com/debecca/status/926172115878973442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 1331,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926172115878973400,
+					"source_status_id_str": "926172115878973442",
+					"source_user_id": 25173368,
+					"source_user_id_str": "25173368"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 926172103098986500,
+					"id_str": "926172103098986497",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DNpsnuYXcAE_LQh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNpsnuYXcAE_LQh.jpg",
+					"url": "https://t.co/YA8ozRw7Mi",
+					"display_url": "pic.twitter.com/YA8ozRw7Mi",
+					"expanded_url": "https://twitter.com/debecca/status/926172115878973442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 1331,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926172115878973400,
+					"source_status_id_str": "926172115878973442",
+					"source_user_id": 25173368,
+					"source_user_id_str": "25173368"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 275,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5162,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 02 19:40:14 +0000 2017",
+			"id": 926172115878973400,
+			"id_str": "926172115878973442",
+			"text": "Just seen this on Facebook and I can't stop laughing! 😂😂😂 https://t.co/YA8ozRw7Mi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 926172103098986500,
+						"id_str": "926172103098986497",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DNpsnuYXcAE_LQh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNpsnuYXcAE_LQh.jpg",
+						"url": "https://t.co/YA8ozRw7Mi",
+						"display_url": "pic.twitter.com/YA8ozRw7Mi",
+						"expanded_url": "https://twitter.com/debecca/status/926172115878973442/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 431,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 761,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 844,
+								"h": 1331,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 926172103098986500,
+						"id_str": "926172103098986497",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DNpsnuYXcAE_LQh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNpsnuYXcAE_LQh.jpg",
+						"url": "https://t.co/YA8ozRw7Mi",
+						"display_url": "pic.twitter.com/YA8ozRw7Mi",
+						"expanded_url": "https://twitter.com/debecca/status/926172115878973442/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 431,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 761,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 844,
+								"h": 1331,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25173368,
+				"id_str": "25173368",
+				"name": "The Joy of Bex",
+				"screen_name": "debecca",
+				"location": "Lancaster, UK",
+				"description": "I Can't Believe It's Not Bio",
+				"url": "https://t.co/65U290r9ru",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/65U290r9ru",
+								"expanded_url": "http://favstar.fm/users/debecca",
+								"display_url": "favstar.fm/users/debecca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4924,
+				"friends_count": 5163,
+				"listed_count": 115,
+				"created_at": "Wed Mar 18 22:39:30 +0000 2009",
+				"favourites_count": 55500,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86447,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911232300314189824/S4wcQ7Ee_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911232300314189824/S4wcQ7Ee_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25173368/1462204610",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4578,
+			"favorite_count": 9116,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4578,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 04 21:46:03 +0000 2017",
+		"id": 926928552502575100,
+		"id_str": "926928552502575105",
+		"text": "RT @CutPics: Shout. https://t.co/nyGLTx1OAU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CutPics",
+					"name": "You Had One Job",
+					"id": 2223592103,
+					"id_str": "2223592103",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 926774858092081200,
+					"id_str": "926774858092081153",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DNyQ0rtXcAEvuu5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNyQ0rtXcAEvuu5.jpg",
+					"url": "https://t.co/nyGLTx1OAU",
+					"display_url": "pic.twitter.com/nyGLTx1OAU",
+					"expanded_url": "https://twitter.com/CutPics/status/926774871882915840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 981,
+							"h": 952,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 981,
+							"h": 952,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926774871882915800,
+					"source_status_id_str": "926774871882915840",
+					"source_user_id": 2223592103,
+					"source_user_id_str": "2223592103"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 926774858092081200,
+					"id_str": "926774858092081153",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DNyQ0rtXcAEvuu5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNyQ0rtXcAEvuu5.jpg",
+					"url": "https://t.co/nyGLTx1OAU",
+					"display_url": "pic.twitter.com/nyGLTx1OAU",
+					"expanded_url": "https://twitter.com/CutPics/status/926774871882915840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 981,
+							"h": 952,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 981,
+							"h": 952,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926774871882915800,
+					"source_status_id_str": "926774871882915840",
+					"source_user_id": 2223592103,
+					"source_user_id_str": "2223592103"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 275,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5162,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 04 11:35:22 +0000 2017",
+			"id": 926774871882915800,
+			"id_str": "926774871882915840",
+			"text": "Shout. https://t.co/nyGLTx1OAU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 926774858092081200,
+						"id_str": "926774858092081153",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/DNyQ0rtXcAEvuu5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNyQ0rtXcAEvuu5.jpg",
+						"url": "https://t.co/nyGLTx1OAU",
+						"display_url": "pic.twitter.com/nyGLTx1OAU",
+						"expanded_url": "https://twitter.com/CutPics/status/926774871882915840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 981,
+								"h": 952,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 981,
+								"h": 952,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 660,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 926774858092081200,
+						"id_str": "926774858092081153",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/DNyQ0rtXcAEvuu5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNyQ0rtXcAEvuu5.jpg",
+						"url": "https://t.co/nyGLTx1OAU",
+						"display_url": "pic.twitter.com/nyGLTx1OAU",
+						"expanded_url": "https://twitter.com/CutPics/status/926774871882915840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 981,
+								"h": 952,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 981,
+								"h": 952,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 660,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2223592103,
+				"id_str": "2223592103",
+				"name": "You Had One Job",
+				"screen_name": "CutPics",
+				"location": "thatbucketlistweb@gmail.com",
+				"description": "You had one job and messed up plus more fun pics and vids.I do not own any content just a fan/parody*and will remove content @ copyright holders request,email",
+				"url": "https://t.co/gWujaxVjsI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gWujaxVjsI",
+								"expanded_url": "http://www.instagram.com/youhad1onejob",
+								"display_url": "instagram.com/youhad1onejob",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1697381,
+				"friends_count": 510,
+				"listed_count": 2068,
+				"created_at": "Fri Dec 13 15:40:54 +0000 2013",
+				"favourites_count": 51,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6073,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745365513576931330/04u1X3wX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745365513576931330/04u1X3wX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2223592103/1489551921",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 443,
+			"favorite_count": 1551,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 443,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 04 21:32:27 +0000 2017",
+		"id": 926925129694658600,
+		"id_str": "926925129694658560",
+		"text": "RT @iamdevloper: 1969:\n-what're you doing with that 2KB of RAM?\n-sending people to the moon\n\n2017:\n-what're you doing with that 1.5GB of RA…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamdevloper",
+					"name": "I Am Devloper",
+					"id": 564919357,
+					"id_str": "564919357",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 275,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5162,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 03 14:38:15 +0000 2017",
+			"id": 926458505355235300,
+			"id_str": "926458505355235328",
+			"text": "1969:\n-what're you doing with that 2KB of RAM?\n-sending people to the moon\n\n2017:\n-what're you doing with that 1.5GB of RAM?\n-running Slack",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 564919357,
+				"id_str": "564919357",
+				"name": "I Am Devloper",
+				"screen_name": "iamdevloper",
+				"location": "Localhost",
+				"description": "Contact adeveloper1@gmail or DM if you want me to post your job listing/link to your product for 💰\n\nAnalytics/impressions on request 👀",
+				"url": "http://t.co/Hcd0PBjb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hcd0PBjb",
+								"expanded_url": "http://www.urbandictionary.com/define.php?term=RTFM",
+								"display_url": "urbandictionary.com/define.php?ter…",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 230724,
+				"friends_count": 0,
+				"listed_count": 3728,
+				"created_at": "Fri Apr 27 21:06:51 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4321,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/477397164453527552/uh2w1u1o_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/477397164453527552/uh2w1u1o_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/564919357/1505113513",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25472,
+			"favorite_count": 56368,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 25472,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 04 01:39:35 +0000 2017",
+		"id": 926624938131324900,
+		"id_str": "926624938131324928",
+		"text": "I'm going to have 1hr more 💤 this yr than most cos did 🇬🇧DST chg last w/end &amp; will again this w/end in 🇺🇸 My wife is going to be so jealous🤣",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 275,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5162,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 03 05:22:26 +0000 2017",
 		"id": 926318631000133600,
 		"id_str": "926318631000133632",
