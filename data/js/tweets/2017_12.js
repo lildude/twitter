@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 18 10:57:15 +0000 2017",
+		"id": 942710345340276700,
+		"id_str": "942710345340276736",
+		"text": "Doing the @LondonMarathon next year? Plan on following one of the 18 week plans from \"Advanced Marathoning\" by Pete… https://t.co/PVvIhZRn53",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LondonMarathon",
+					"name": "London Marathon",
+					"id": 54598980,
+					"id_str": "54598980",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PVvIhZRn53",
+					"expanded_url": "https://twitter.com/i/web/status/942710345340276736",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 500,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 707,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5200,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 18 09:12:02 +0000 2017",
+		"id": 942683864224403500,
+		"id_str": "942683864224403456",
+		"text": "Hurry up and take my money!!!! 🤤🤤 https://t.co/p4tbLDgF1t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p4tbLDgF1t",
+					"expanded_url": "https://twitter.com/km2__s/status/942617415204134912",
+					"display_url": "twitter.com/km2__s/status/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 500,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 707,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5200,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 942617415204134900,
+		"quoted_status_id_str": "942617415204134912",
+		"quoted_status": {
+			"created_at": "Mon Dec 18 04:47:59 +0000 2017",
+			"id": 942617415204134900,
+			"id_str": "942617415204134912",
+			"text": "Man, how beautiful. @Tesla Model 3 \nHere's Why the Tesla Model 3 Is the Coolest Car of 2017 @elonmusk #tesla… https://t.co/Lze8TiQ58w",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tesla",
+						"indices": [
+							102,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Tesla",
+						"name": "Tesla",
+						"id": 13298072,
+						"id_str": "13298072",
+						"indices": [
+							20,
+							26
+						]
+					},
+					{
+						"screen_name": "elonmusk",
+						"name": "Elon Musk",
+						"id": 44196397,
+						"id_str": "44196397",
+						"indices": [
+							92,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Lze8TiQ58w",
+						"expanded_url": "https://twitter.com/i/web/status/942617415204134912",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 931015064072712200,
+				"id_str": "931015064072712192",
+				"name": "Karen",
+				"screen_name": "KM2__S",
+				"location": "Bogotá, D.C., Colombia",
+				"description": "My happiness equation: Music+animals+nature+documentaries+videogames+food - fake & toxic people =happiness.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 229,
+				"friends_count": 15,
+				"listed_count": 0,
+				"created_at": "Thu Nov 16 04:24:23 +0000 2017",
+				"favourites_count": 892,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942275250586300416/B5Neoh5E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942275250586300416/B5Neoh5E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/931015064072712192/1513459739",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 454,
+			"favorite_count": 3025,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 18 08:37:07 +0000 2017",
+		"id": 942675077606379500,
+		"id_str": "942675077606379520",
+		"text": "RT @lieschenv: Checkers is ready for Jesus to come shopping https://t.co/DjQ97eBNZS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lieschenv",
+					"name": "lieschen wie?",
+					"id": 14494885,
+					"id_str": "14494885",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 942005536815571000,
+					"id_str": "942005536815570944",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DRKtC3ZX4AAwhxa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRKtC3ZX4AAwhxa.jpg",
+					"url": "https://t.co/DjQ97eBNZS",
+					"display_url": "pic.twitter.com/DjQ97eBNZS",
+					"expanded_url": "https://twitter.com/lieschenv/status/942005553311748097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 686,
+							"h": 386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 386,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 942005553311748100,
+					"source_status_id_str": "942005553311748097",
+					"source_user_id": 14494885,
+					"source_user_id_str": "14494885"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 942005536815571000,
+					"id_str": "942005536815570944",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DRKtC3ZX4AAwhxa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRKtC3ZX4AAwhxa.jpg",
+					"url": "https://t.co/DjQ97eBNZS",
+					"display_url": "pic.twitter.com/DjQ97eBNZS",
+					"expanded_url": "https://twitter.com/lieschenv/status/942005553311748097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 686,
+							"h": 386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 386,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 942005553311748100,
+					"source_status_id_str": "942005553311748097",
+					"source_user_id": 14494885,
+					"source_user_id_str": "14494885"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 500,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 707,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5200,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 16 12:16:40 +0000 2017",
+			"id": 942005553311748100,
+			"id_str": "942005553311748097",
+			"text": "Checkers is ready for Jesus to come shopping https://t.co/DjQ97eBNZS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 942005536815571000,
+						"id_str": "942005536815570944",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DRKtC3ZX4AAwhxa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRKtC3ZX4AAwhxa.jpg",
+						"url": "https://t.co/DjQ97eBNZS",
+						"display_url": "pic.twitter.com/DjQ97eBNZS",
+						"expanded_url": "https://twitter.com/lieschenv/status/942005553311748097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 686,
+								"h": 386,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 686,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 942005536815571000,
+						"id_str": "942005536815570944",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DRKtC3ZX4AAwhxa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRKtC3ZX4AAwhxa.jpg",
+						"url": "https://t.co/DjQ97eBNZS",
+						"display_url": "pic.twitter.com/DjQ97eBNZS",
+						"expanded_url": "https://twitter.com/lieschenv/status/942005553311748097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 686,
+								"h": 386,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 686,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14494885,
+				"id_str": "14494885",
+				"name": "lieschen wie?",
+				"screen_name": "lieschenv",
+				"location": "Stellenbosch",
+				"description": "Tormented atoms in a bed of mud",
+				"url": "https://t.co/0ZSBK8OAlJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0ZSBK8OAlJ",
+								"expanded_url": "http://www.instagram.com/lieschenventer",
+								"display_url": "instagram.com/lieschenventer",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1046,
+				"friends_count": 231,
+				"listed_count": 13,
+				"created_at": "Wed Apr 23 14:57:43 +0000 2008",
+				"favourites_count": 4669,
+				"utc_offset": -10800,
+				"time_zone": "Greenland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12375,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/635711810037911552/INZfXjas.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/635711810037911552/INZfXjas.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940518320457043968/TGx5BJn3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940518320457043968/TGx5BJn3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14494885/1513072018",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1449,
+			"favorite_count": 1765,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1449,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 17 07:47:01 +0000 2017",
 		"id": 942300082673733600,
 		"id_str": "942300082673733632",
