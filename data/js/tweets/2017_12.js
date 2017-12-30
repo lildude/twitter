@@ -1,6 +1,788 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 29 17:03:51 +0000 2017",
+		"id": 946788869189619700,
+		"id_str": "946788869189619714",
+		"text": "@adrian1pinnock @dunmorej Why would we want to? Bring on metric for everything, regardless of Brexit status, I say 😁",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adrian1pinnock",
+					"name": "Adrian Pinnock",
+					"id": 756778897,
+					"id_str": "756778897",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "dunmorej",
+					"name": "James Dunmore",
+					"id": 41619036,
+					"id_str": "41619036",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 946785994925314000,
+		"in_reply_to_status_id_str": "946785994925314049",
+		"in_reply_to_user_id": 756778897,
+		"in_reply_to_user_id_str": "756778897",
+		"in_reply_to_screen_name": "adrian1pinnock",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 281,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 722,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5214,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 29 10:40:49 +0000 2017",
+		"id": 946692476961787900,
+		"id_str": "946692476961787905",
+		"text": "@dunmorej Hear hear. I think OAPs (most of our MPs are old folks reliant on them for votes) and \"cost\" are the only reasons IMNO.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dunmorej",
+					"name": "James Dunmore",
+					"id": 41619036,
+					"id_str": "41619036",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 946669442330742800,
+		"in_reply_to_status_id_str": "946669442330742784",
+		"in_reply_to_user_id": 41619036,
+		"in_reply_to_user_id_str": "41619036",
+		"in_reply_to_screen_name": "dunmorej",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 281,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 722,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5214,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 29 08:51:53 +0000 2017",
+		"id": 946665059652128800,
+		"id_str": "946665059652128768",
+		"text": "Replace Canadian with Saffer, and add Brit to American and this is my life. Crazily, kids have been taught metric i… https://t.co/3AA3nzo5ic",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3AA3nzo5ic",
+					"expanded_url": "https://twitter.com/i/web/status/946665059652128768",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 281,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 722,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5214,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 946032613269028900,
+		"quoted_status_id_str": "946032613269028865",
+		"quoted_status": {
+			"created_at": "Wed Dec 27 14:58:46 +0000 2017",
+			"id": 946032613269028900,
+			"id_str": "946032613269028865",
+			"text": "Me, a Canadian: The metric system is easy. 100mm = 1cm. 100cm = 1m. Super easy.\n\nYou, an American: The imperial sys… https://t.co/iDXcGoCMfS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iDXcGoCMfS",
+						"expanded_url": "https://twitter.com/i/web/status/946032613269028865",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3378999550,
+				"id_str": "3378999550",
+				"name": "Father Drinks McGee",
+				"screen_name": "drinksmcgee",
+				"location": "Toronto",
+				"description": "I am the Sinister Minister — Snapchat: crazyewen https://t.co/FnZpAPxPtk",
+				"url": "https://t.co/MxCL72T8bh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MxCL72T8bh",
+								"expanded_url": "https://twitter.com/search?q=from%3A%40drinksmcgee%2Fexclude%3Areplies",
+								"display_url": "twitter.com/search?q=from%…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FnZpAPxPtk",
+								"expanded_url": "http://favstar.fm/users/drinksmcgee",
+								"display_url": "favstar.fm/users/drinksmc…",
+								"indices": [
+									49,
+									72
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10709,
+				"friends_count": 3007,
+				"listed_count": 243,
+				"created_at": "Thu Jul 16 15:49:13 +0000 2015",
+				"favourites_count": 58902,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 55330,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/946798212786020352/7-GjN1iT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946798212786020352/7-GjN1iT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3378999550/1514436338",
+				"profile_link_color": "554444",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8789,
+			"favorite_count": 19127,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 29 08:45:23 +0000 2017",
+		"id": 946663424792170500,
+		"id_str": "946663424792170497",
+		"text": "RT @madamevecartoon: https://t.co/77vzuF0hmu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "madamevecartoon",
+					"name": "Madam & Eve",
+					"id": 250056239,
+					"id_str": "250056239",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 946645057049940000,
+					"id_str": "946645057049939968",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DSMoqfHXUAAZBjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSMoqfHXUAAZBjO.jpg",
+					"url": "https://t.co/77vzuF0hmu",
+					"display_url": "pic.twitter.com/77vzuF0hmu",
+					"expanded_url": "https://twitter.com/madamevecartoon/status/946645075441922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 907,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 907,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 946645075441922000,
+					"source_status_id_str": "946645075441922048",
+					"source_user_id": 250056239,
+					"source_user_id_str": "250056239"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 946645057049940000,
+					"id_str": "946645057049939968",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DSMoqfHXUAAZBjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSMoqfHXUAAZBjO.jpg",
+					"url": "https://t.co/77vzuF0hmu",
+					"display_url": "pic.twitter.com/77vzuF0hmu",
+					"expanded_url": "https://twitter.com/madamevecartoon/status/946645075441922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 907,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 907,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 946645075441922000,
+					"source_status_id_str": "946645075441922048",
+					"source_user_id": 250056239,
+					"source_user_id_str": "250056239"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut.",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 281,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 722,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5214,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000841109441/5aec21ab2289989e0f184dfd7ef4d0e2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1496944532",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 29 07:32:28 +0000 2017",
+			"id": 946645075441922000,
+			"id_str": "946645075441922048",
+			"text": "https://t.co/77vzuF0hmu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 946645057049940000,
+						"id_str": "946645057049939968",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DSMoqfHXUAAZBjO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSMoqfHXUAAZBjO.jpg",
+						"url": "https://t.co/77vzuF0hmu",
+						"display_url": "pic.twitter.com/77vzuF0hmu",
+						"expanded_url": "https://twitter.com/madamevecartoon/status/946645075441922048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 255,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 907,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 907,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 946645057049940000,
+						"id_str": "946645057049939968",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DSMoqfHXUAAZBjO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSMoqfHXUAAZBjO.jpg",
+						"url": "https://t.co/77vzuF0hmu",
+						"display_url": "pic.twitter.com/77vzuF0hmu",
+						"expanded_url": "https://twitter.com/madamevecartoon/status/946645075441922048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 255,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 907,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 907,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 250056239,
+				"id_str": "250056239",
+				"name": "Madam & Eve",
+				"screen_name": "madamevecartoon",
+				"location": "South Africa",
+				"description": "Written by Stephen Francis and drawn by Rico Schacherl, the hilarious Madam & Eve cartoon strip has been tickling South Africa's national funny bone since 1992.",
+				"url": "http://t.co/saVfDur0xz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/saVfDur0xz",
+								"expanded_url": "http://www.madamandeve.co.za",
+								"display_url": "madamandeve.co.za",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6474,
+				"friends_count": 308,
+				"listed_count": 90,
+				"created_at": "Thu Feb 10 09:58:37 +0000 2011",
+				"favourites_count": 218,
+				"utc_offset": 7200,
+				"time_zone": "Pretoria",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2598,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657123764694614016/gPG-oAii.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657123764694614016/gPG-oAii.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794416373711720448/ilId8Oms_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794416373711720448/ilId8Oms_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/250056239/1509468516",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 17,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Dec 28 18:57:51 +0000 2017",
 		"id": 946455168526291000,
 		"id_str": "946455168526290944",
