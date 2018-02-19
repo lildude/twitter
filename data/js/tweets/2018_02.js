@@ -1,6 +1,1649 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 18 18:03:47 +0000 2018",
+		"id": 965285733085974500,
+		"id_str": "965285733085974528",
+		"text": "RT @Trevornoah: Why are you exposing my side hustle!!! https://t.co/NFkkt6jUs1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Trevornoah",
+					"name": "Trevor Noah",
+					"id": 46335511,
+					"id_str": "46335511",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NFkkt6jUs1",
+					"expanded_url": "https://twitter.com/alliemackay/status/964314911185690629",
+					"display_url": "twitter.com/alliemackay/st…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 745,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5258,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1518907448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 16 06:50:57 +0000 2018",
+			"id": 964391632442306600,
+			"id_str": "964391632442306567",
+			"text": "Why are you exposing my side hustle!!! https://t.co/NFkkt6jUs1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NFkkt6jUs1",
+						"expanded_url": "https://twitter.com/alliemackay/status/964314911185690629",
+						"display_url": "twitter.com/alliemackay/st…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46335511,
+				"id_str": "46335511",
+				"name": "Trevor Noah",
+				"screen_name": "Trevornoah",
+				"location": "New York, NY",
+				"description": "Comedian from South Africa. I was in the crowd when Rafiki held Simba over the edge of the cliff, like an African Michael Jackson.",
+				"url": "https://t.co/5zKr0YPMa5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5zKr0YPMa5",
+								"expanded_url": "http://www.trevornoah.com",
+								"display_url": "trevornoah.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8634855,
+				"friends_count": 247,
+				"listed_count": 9728,
+				"created_at": "Thu Jun 11 07:03:48 +0000 2009",
+				"favourites_count": 1612,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10518,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/744454828/29c65e5c0780445b56dc9eb6f50d5544.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/744454828/29c65e5c0780445b56dc9eb6f50d5544.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942000313350983681/Um9_cK2y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942000313350983681/Um9_cK2y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46335511/1479192299",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 964314911185690600,
+			"quoted_status_id_str": "964314911185690629",
+			"quoted_status": {
+				"created_at": "Fri Feb 16 01:46:05 +0000 2018",
+				"id": 964314911185690600,
+				"id_str": "964314911185690629",
+				"text": "Behold, my cable guy. Buff Trevor Noah. Only in LA. 😂 You’re welcome. https://t.co/hKUvJOLwVZ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 964314895725379600,
+							"id_str": "964314895725379584",
+							"indices": [
+								70,
+								93
+							],
+							"media_url": "http://pbs.twimg.com/media/DWHvSdtUQAAQKa6.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DWHvSdtUQAAQKa6.jpg",
+							"url": "https://t.co/hKUvJOLwVZ",
+							"display_url": "pic.twitter.com/hKUvJOLwVZ",
+							"expanded_url": "https://twitter.com/alliemackay/status/964314911185690629/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 964314895725379600,
+							"id_str": "964314895725379584",
+							"indices": [
+								70,
+								93
+							],
+							"media_url": "http://pbs.twimg.com/media/DWHvSdtUQAAQKa6.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DWHvSdtUQAAQKa6.jpg",
+							"url": "https://t.co/hKUvJOLwVZ",
+							"display_url": "pic.twitter.com/hKUvJOLwVZ",
+							"expanded_url": "https://twitter.com/alliemackay/status/964314911185690629/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 28037631,
+					"id_str": "28037631",
+					"name": "Allie Mac Kay",
+					"screen_name": "alliemackay",
+					"location": "Los Angeles",
+					"description": "14 yrs on morning news. Now with @kevinandbean on @kroq  Born & raised in LA by Bostonians. https://t.co/zwxDZbOBd4    Above all else, be kind. ❤️",
+					"url": "https://t.co/bsgHbm2KhS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/bsgHbm2KhS",
+									"expanded_url": "http://Instagram.com/alliemackay",
+									"display_url": "Instagram.com/alliemackay",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/zwxDZbOBd4",
+									"expanded_url": "https://about.me/allie.mackay",
+									"display_url": "about.me/allie.mackay",
+									"indices": [
+										92,
+										115
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 65507,
+					"friends_count": 401,
+					"listed_count": 495,
+					"created_at": "Wed Apr 01 03:09:44 +0000 2009",
+					"favourites_count": 25746,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 45577,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619741827/ssbmg6a40j2ryd806u3t.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619741827/ssbmg6a40j2ryd806u3t.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/905587940666966016/QOCkAYr2_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/905587940666966016/QOCkAYr2_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/28037631/1513662702",
+					"profile_link_color": "487EF2",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "D6A3D6",
+					"profile_text_color": "080808",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1809,
+				"favorite_count": 14011,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 11759,
+			"favorite_count": 64327,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 964314911185690600,
+		"quoted_status_id_str": "964314911185690629",
+		"retweet_count": 11759,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 18 18:01:32 +0000 2018",
+		"id": 965285167932813300,
+		"id_str": "965285167932813313",
+		"text": "RT @kaytaylorrea: hey, @twitter, wanna explain wtf you’re doing censoring this tweet in the us? https://t.co/Rwkko3eX7Y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kaytaylorrea",
+					"name": "Kay Taylor Rea",
+					"id": 2578224614,
+					"id_str": "2578224614",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 964663339895812100,
+					"id_str": "964663339895812096",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DWMsMlZU8AA3G5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWMsMlZU8AA3G5u.jpg",
+					"url": "https://t.co/Rwkko3eX7Y",
+					"display_url": "pic.twitter.com/Rwkko3eX7Y",
+					"expanded_url": "https://twitter.com/kaytaylorrea/status/964663346652962816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 639,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 639,
+							"h": 483,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 483,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964663346652962800,
+					"source_status_id_str": "964663346652962816",
+					"source_user_id": 2578224614,
+					"source_user_id_str": "2578224614"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 964663339895812100,
+					"id_str": "964663339895812096",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DWMsMlZU8AA3G5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWMsMlZU8AA3G5u.jpg",
+					"url": "https://t.co/Rwkko3eX7Y",
+					"display_url": "pic.twitter.com/Rwkko3eX7Y",
+					"expanded_url": "https://twitter.com/kaytaylorrea/status/964663346652962816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 639,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 639,
+							"h": 483,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 483,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964663346652962800,
+					"source_status_id_str": "964663346652962816",
+					"source_user_id": 2578224614,
+					"source_user_id_str": "2578224614"
+				},
+				{
+					"id": 964663339887374300,
+					"id_str": "964663339887374336",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DWMsMlXUMAAaIma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWMsMlXUMAAaIma.jpg",
+					"url": "https://t.co/Rwkko3eX7Y",
+					"display_url": "pic.twitter.com/Rwkko3eX7Y",
+					"expanded_url": "https://twitter.com/kaytaylorrea/status/964663346652962816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 624,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 624,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964663346652962800,
+					"source_status_id_str": "964663346652962816",
+					"source_user_id": 2578224614,
+					"source_user_id_str": "2578224614"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 745,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5258,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1518907448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 17 00:50:39 +0000 2018",
+			"id": 964663346652962800,
+			"id_str": "964663346652962816",
+			"text": "hey, @twitter, wanna explain wtf you’re doing censoring this tweet in the us? https://t.co/Rwkko3eX7Y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Twitter",
+						"name": "Twitter",
+						"id": 783214,
+						"id_str": "783214",
+						"indices": [
+							5,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 964663339895812100,
+						"id_str": "964663339895812096",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DWMsMlZU8AA3G5u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWMsMlZU8AA3G5u.jpg",
+						"url": "https://t.co/Rwkko3eX7Y",
+						"display_url": "pic.twitter.com/Rwkko3eX7Y",
+						"expanded_url": "https://twitter.com/kaytaylorrea/status/964663346652962816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 639,
+								"h": 483,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 639,
+								"h": 483,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 483,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964663339895812100,
+						"id_str": "964663339895812096",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DWMsMlZU8AA3G5u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWMsMlZU8AA3G5u.jpg",
+						"url": "https://t.co/Rwkko3eX7Y",
+						"display_url": "pic.twitter.com/Rwkko3eX7Y",
+						"expanded_url": "https://twitter.com/kaytaylorrea/status/964663346652962816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 639,
+								"h": 483,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 639,
+								"h": 483,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 483,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 964663339887374300,
+						"id_str": "964663339887374336",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DWMsMlXUMAAaIma.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWMsMlXUMAAaIma.jpg",
+						"url": "https://t.co/Rwkko3eX7Y",
+						"display_url": "pic.twitter.com/Rwkko3eX7Y",
+						"expanded_url": "https://twitter.com/kaytaylorrea/status/964663346652962816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 639,
+								"h": 624,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 639,
+								"h": 624,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 639,
+								"h": 624,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2578224614,
+				"id_str": "2578224614",
+				"name": "Kay Taylor Rea",
+				"screen_name": "kaytaylorrea",
+				"location": "kaytaylorrea @ gmail/dw/insta",
+				"description": "bi nerd | @BookRiot | @NNIRPodcast |@UncannyMagazine | recs/writes fic | loves star franchises | hockey/baseball fan | Rea/Kay rhyme ☕️https://t.co/d5FtLuvjsT",
+				"url": "https://t.co/JrUNMflxSX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JrUNMflxSX",
+								"expanded_url": "http://kaytaylorrea.dreamwidth.org",
+								"display_url": "kaytaylorrea.dreamwidth.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/d5FtLuvjsT",
+								"expanded_url": "http://ko-fi.com/A6213NNM",
+								"display_url": "ko-fi.com/A6213NNM",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1492,
+				"friends_count": 94,
+				"listed_count": 57,
+				"created_at": "Fri Jun 20 07:20:21 +0000 2014",
+				"favourites_count": 114002,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34434,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753608628091752448/E-ZjSPzD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753608628091752448/E-ZjSPzD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2578224614/1518972900",
+				"profile_link_color": "2A623D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1513,
+			"favorite_count": 3267,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1513,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 18 17:53:14 +0000 2018",
+		"id": 965283078963957800,
+		"id_str": "965283078963957767",
+		"text": "RT @SoVeryBritish: Staying at someone’s house:\n- Lie in bed for hours waiting to hear signs of life \n- Wonder if bathroom is free as you’ve…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SoVeryBritish",
+					"name": "VeryBritishProblems",
+					"id": 1023072078,
+					"id_str": "1023072078",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 745,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5258,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1518907448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 18 10:24:42 +0000 2018",
+			"id": 965170200558624800,
+			"id_str": "965170200558624768",
+			"text": "Staying at someone’s house:\n- Lie in bed for hours waiting to hear signs of life \n- Wonder if bathroom is free as y… https://t.co/AQwpDHx96Q",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AQwpDHx96Q",
+						"expanded_url": "https://twitter.com/i/web/status/965170200558624768",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1023072078,
+				"id_str": "1023072078",
+				"name": "VeryBritishProblems",
+				"screen_name": "SoVeryBritish",
+				"location": "",
+				"description": "Very British Problems Volume 3 Book https://t.co/NoOKsRGIPi • Games https://t.co/fNno756t2c & https://t.co/Kv5mSjlXJC • Mugs https://t.co/ow6WOraRgp • Shirts https://t.co/mcTVkEb1Nw",
+				"url": "https://t.co/XEtPZkOPPP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XEtPZkOPPP",
+								"expanded_url": "http://www.verybritishproblems.com",
+								"display_url": "verybritishproblems.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NoOKsRGIPi",
+								"expanded_url": "http://amzn.to/2vB58TR",
+								"display_url": "amzn.to/2vB58TR",
+								"indices": [
+									36,
+									59
+								]
+							},
+							{
+								"url": "https://t.co/fNno756t2c",
+								"expanded_url": "http://bit.ly/2xAjIsx",
+								"display_url": "bit.ly/2xAjIsx",
+								"indices": [
+									68,
+									91
+								]
+							},
+							{
+								"url": "https://t.co/Kv5mSjlXJC",
+								"expanded_url": "http://bit.ly/2yt70Lr",
+								"display_url": "bit.ly/2yt70Lr",
+								"indices": [
+									94,
+									117
+								]
+							},
+							{
+								"url": "https://t.co/ow6WOraRgp",
+								"expanded_url": "http://rdbl.co/2gklBW4",
+								"display_url": "rdbl.co/2gklBW4",
+								"indices": [
+									125,
+									148
+								]
+							},
+							{
+								"url": "https://t.co/mcTVkEb1Nw",
+								"expanded_url": "http://verybritishproblems.teemill.co.uk",
+								"display_url": "verybritishproblems.teemill.co.uk",
+								"indices": [
+									158,
+									181
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3624020,
+				"friends_count": 1,
+				"listed_count": 5547,
+				"created_at": "Wed Dec 19 23:12:45 +0000 2012",
+				"favourites_count": 1585,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3520,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0DD0E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000078388207/476571d862157b41c1e5bf0cd9ba8ede.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000078388207/476571d862157b41c1e5bf0cd9ba8ede.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2996456104/b707959f192bba5c31c07058f91a183b_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2996456104/b707959f192bba5c31c07058f91a183b_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023072078/1506610198",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4387,
+			"favorite_count": 22419,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4387,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 18 17:53:07 +0000 2018",
+		"id": 965283047850545200,
+		"id_str": "965283047850545152",
+		"text": "RT @Rainmaker1973: How to deactivate a cat (with #science) https://t.co/Qz14kbMhrL https://t.co/colYKMpCmP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "science",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rainmaker1973",
+					"name": "Massimo",
+					"id": 177101260,
+					"id_str": "177101260",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qz14kbMhrL",
+					"expanded_url": "http://bit.ly/2GmEDmh",
+					"display_url": "bit.ly/2GmEDmh",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 964873914894704600,
+					"id_str": "964873914894704641",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/964873914894704641/pu/img/MOlx5i_WfjELkV2K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/964873914894704641/pu/img/MOlx5i_WfjELkV2K.jpg",
+					"url": "https://t.co/colYKMpCmP",
+					"display_url": "pic.twitter.com/colYKMpCmP",
+					"expanded_url": "https://twitter.com/Rainmaker1973/status/964874015033708545/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 308,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964874015033708500,
+					"source_status_id_str": "964874015033708545",
+					"source_user_id": 177101260,
+					"source_user_id_str": "177101260"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 964873914894704600,
+					"id_str": "964873914894704641",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/964873914894704641/pu/img/MOlx5i_WfjELkV2K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/964873914894704641/pu/img/MOlx5i_WfjELkV2K.jpg",
+					"url": "https://t.co/colYKMpCmP",
+					"display_url": "pic.twitter.com/colYKMpCmP",
+					"expanded_url": "https://twitter.com/Rainmaker1973/status/964874015033708545/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 308,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964874015033708500,
+					"source_status_id_str": "964874015033708545",
+					"source_user_id": 177101260,
+					"source_user_id_str": "177101260",
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							77
+						],
+						"duration_millis": 25991,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/964873914894704641/pu/vid/280x180/I3MdKabv-nXKJnIu.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/964873914894704641/pu/pl/pUGHEg3kmRC96s1I.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 177101260,
+							"id_str": "177101260",
+							"name": "Massimo",
+							"screen_name": "Rainmaker1973",
+							"location": "Italy, North by Northwest",
+							"description": "Astronomy, astronautics, meteorology, #CitizenScience. @AstronautiNEWS columnist. Engineer, trying to build the big picture of #science via pics, videos & links",
+							"url": "https://t.co/p999QzDjSI",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/p999QzDjSI",
+											"expanded_url": "https://www.facebook.com/Rainmaker1973/",
+											"display_url": "facebook.com/Rainmaker1973/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 33781,
+							"friends_count": 243,
+							"listed_count": 777,
+							"created_at": "Wed Aug 11 07:13:13 +0000 2010",
+							"favourites_count": 1900,
+							"utc_offset": 3600,
+							"time_zone": "Rome",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 97547,
+							"lang": "it",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C6E2EE",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/551781899077574656/fxiMBWHy.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/551781899077574656/fxiMBWHy.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/177101260/1422214939",
+							"profile_link_color": "1F98C7",
+							"profile_sidebar_border_color": "C6E2EE",
+							"profile_sidebar_fill_color": "DAECF4",
+							"profile_text_color": "663B12",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 745,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5258,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1518907448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 17 14:47:46 +0000 2018",
+			"id": 964874015033708500,
+			"id_str": "964874015033708545",
+			"text": "How to deactivate a cat (with #science) https://t.co/Qz14kbMhrL https://t.co/colYKMpCmP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "science",
+						"indices": [
+							30,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Qz14kbMhrL",
+						"expanded_url": "http://bit.ly/2GmEDmh",
+						"display_url": "bit.ly/2GmEDmh",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 964873914894704600,
+						"id_str": "964873914894704641",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/964873914894704641/pu/img/MOlx5i_WfjELkV2K.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/964873914894704641/pu/img/MOlx5i_WfjELkV2K.jpg",
+						"url": "https://t.co/colYKMpCmP",
+						"display_url": "pic.twitter.com/colYKMpCmP",
+						"expanded_url": "https://twitter.com/Rainmaker1973/status/964874015033708545/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 308,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 308,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 308,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964873914894704600,
+						"id_str": "964873914894704641",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/964873914894704641/pu/img/MOlx5i_WfjELkV2K.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/964873914894704641/pu/img/MOlx5i_WfjELkV2K.jpg",
+						"url": "https://t.co/colYKMpCmP",
+						"display_url": "pic.twitter.com/colYKMpCmP",
+						"expanded_url": "https://twitter.com/Rainmaker1973/status/964874015033708545/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 308,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 308,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 308,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								120,
+								77
+							],
+							"duration_millis": 25991,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/964873914894704641/pu/vid/280x180/I3MdKabv-nXKJnIu.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/964873914894704641/pu/pl/pUGHEg3kmRC96s1I.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 177101260,
+				"id_str": "177101260",
+				"name": "Massimo",
+				"screen_name": "Rainmaker1973",
+				"location": "Italy, North by Northwest",
+				"description": "Astronomy, astronautics, meteorology, #CitizenScience. @AstronautiNEWS columnist. Engineer, trying to build the big picture of #science via pics, videos & links",
+				"url": "https://t.co/p999QzDjSI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p999QzDjSI",
+								"expanded_url": "https://www.facebook.com/Rainmaker1973/",
+								"display_url": "facebook.com/Rainmaker1973/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33781,
+				"friends_count": 243,
+				"listed_count": 777,
+				"created_at": "Wed Aug 11 07:13:13 +0000 2010",
+				"favourites_count": 1900,
+				"utc_offset": 3600,
+				"time_zone": "Rome",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 97547,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/551781899077574656/fxiMBWHy.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/551781899077574656/fxiMBWHy.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/177101260/1422214939",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 525,
+			"favorite_count": 1034,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 525,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 17 22:41:43 +0000 2018",
 		"id": 964993287496110100,
 		"id_str": "964993287496110086",
