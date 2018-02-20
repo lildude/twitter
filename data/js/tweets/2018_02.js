@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 19 20:03:01 +0000 2018",
+		"id": 965678125383381000,
+		"id_str": "965678125383380992",
+		"text": "RT @champagnethomas: ✨NEW #stravistix v6 is now out: A brand NEW APP for a new start 🚀! App has been completely remade from scratch. Why?!…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "stravistix",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "champagnethomas",
+					"name": "Thomas Champagne",
+					"id": 90039978,
+					"id_str": "90039978",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 745,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1518907448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 19 19:15:42 +0000 2018",
+			"id": 965666220925247500,
+			"id_str": "965666220925247488",
+			"text": "✨NEW #stravistix v6 is now out: A brand NEW APP for a new start 🚀! App has been completely remade from scratch. Why… https://t.co/GJsQKWfS4S",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "stravistix",
+						"indices": [
+							5,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GJsQKWfS4S",
+						"expanded_url": "https://twitter.com/i/web/status/965666220925247488",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90039978,
+				"id_str": "90039978",
+				"name": "Thomas Champagne",
+				"screen_name": "champagnethomas",
+				"location": "Grenoble, France",
+				"description": "Network + Software Engineer who love cycling, freeskiing, juggle and magic. Author of #stravistix web extension and turned off http://t.co/dbTVneCyzH",
+				"url": "http://t.co/GrrCE4VbBV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/GrrCE4VbBV",
+								"expanded_url": "http://thomaschampagne.github.io/",
+								"display_url": "thomaschampagne.github.io",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/dbTVneCyzH",
+								"expanded_url": "http://facebook.com/jibbfreeskigame",
+								"display_url": "facebook.com/jibbfreeskigame",
+								"indices": [
+									127,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5919,
+				"friends_count": 9,
+				"listed_count": 124,
+				"created_at": "Sat Nov 14 22:53:56 +0000 2009",
+				"favourites_count": 76605,
+				"utc_offset": 3600,
+				"time_zone": "Paris",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 643,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/490042151430922240/DU6H1TOY.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/490042151430922240/DU6H1TOY.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715083568691748864/S1lEDBcH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715083568691748864/S1lEDBcH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90039978/1417882774",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFA400",
+				"profile_sidebar_fill_color": "E32820",
+				"profile_text_color": "843AA9",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 57,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 18 18:03:47 +0000 2018",
 		"id": 965285733085974500,
 		"id_str": "965285733085974528",
