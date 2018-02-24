@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 08:44:05 +0000 2018",
+		"id": 966956819905212400,
+		"id_str": "966956819905212416",
+		"text": "RT @CaseyNewton: The best gift you can get anyone in their 30s is to cancel a meeting they’ve been asked to attend. You will never forget t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CaseyNewton",
+					"name": "Casey Newton",
+					"id": 69426451,
+					"id_str": "69426451",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 746,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1518907448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 18:47:18 +0000 2018",
+			"id": 966746236609994800,
+			"id_str": "966746236609994752",
+			"text": "The best gift you can get anyone in their 30s is to cancel a meeting they’ve been asked to attend. You will never f… https://t.co/rwZCadbKex",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rwZCadbKex",
+						"expanded_url": "https://twitter.com/i/web/status/966746236609994752",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69426451,
+				"id_str": "69426451",
+				"name": "Casey Newton",
+				"screen_name": "CaseyNewton",
+				"location": "San Francisco",
+				"description": "Silicon Valley editor @verge | instagram/snap @crumbler | casey@theverge.com | my daily newsletter about social networks and democracy: https://t.co/0umDpRUfyZ",
+				"url": "https://t.co/Y8xbYCC54Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y8xbYCC54Z",
+								"expanded_url": "http://www.cnewton.org/",
+								"display_url": "cnewton.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0umDpRUfyZ",
+								"expanded_url": "http://bit.ly/2yTbZcK",
+								"display_url": "bit.ly/2yTbZcK",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 51419,
+				"friends_count": 649,
+				"listed_count": 2068,
+				"created_at": "Thu Aug 27 22:37:09 +0000 2009",
+				"favourites_count": 147964,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16282,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928327343373934593/afgkkY8V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928327343373934593/afgkkY8V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69426451/1482262184",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5a110d312052166f",
+				"url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+				"place_type": "city",
+				"name": "San Francisco",
+				"full_name": "San Francisco, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.514926,
+								37.708075
+							],
+							[
+								-122.357031,
+								37.708075
+							],
+							[
+								-122.357031,
+								37.833238
+							],
+							[
+								-122.514926,
+								37.833238
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2943,
+			"favorite_count": 12368,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2943,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 22 22:17:51 +0000 2018",
 		"id": 966799224074588200,
 		"id_str": "966799224074588160",
