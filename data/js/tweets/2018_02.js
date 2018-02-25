@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 24 18:35:10 +0000 2018",
+		"id": 967467956044161000,
+		"id_str": "967467956044161024",
+		"text": "RT @helenhousandi: I've watched this GIF at least 100 times now, cry-laughing the entire time. https://t.co/Hih7VJe28T",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helenhousandi",
+					"name": "Helen 侯-Sandí",
+					"id": 21204689,
+					"id_str": "21204689",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 967073463117652000,
+					"id_str": "967073463117651972",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+					"url": "https://t.co/Hih7VJe28T",
+					"display_url": "pic.twitter.com/Hih7VJe28T",
+					"expanded_url": "https://twitter.com/helenhousandi/status/967073559527948288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 967073559527948300,
+					"source_status_id_str": "967073559527948288",
+					"source_user_id": 21204689,
+					"source_user_id_str": "21204689"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 967073463117652000,
+					"id_str": "967073463117651972",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+					"url": "https://t.co/Hih7VJe28T",
+					"display_url": "pic.twitter.com/Hih7VJe28T",
+					"expanded_url": "https://twitter.com/helenhousandi/status/967073559527948288/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 967073559527948300,
+					"source_status_id_str": "967073559527948288",
+					"source_user_id": 21204689,
+					"source_user_id_str": "21204689",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DWu8MODVoAQPKLl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 277,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1518907448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 16:27:58 +0000 2018",
+			"id": 967073559527948300,
+			"id_str": "967073559527948288",
+			"text": "I've watched this GIF at least 100 times now, cry-laughing the entire time. https://t.co/Hih7VJe28T",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 967073463117652000,
+						"id_str": "967073463117651972",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+						"url": "https://t.co/Hih7VJe28T",
+						"display_url": "pic.twitter.com/Hih7VJe28T",
+						"expanded_url": "https://twitter.com/helenhousandi/status/967073559527948288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 967073463117652000,
+						"id_str": "967073463117651972",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+						"url": "https://t.co/Hih7VJe28T",
+						"display_url": "pic.twitter.com/Hih7VJe28T",
+						"expanded_url": "https://twitter.com/helenhousandi/status/967073559527948288/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DWu8MODVoAQPKLl.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21204689,
+				"id_str": "21204689",
+				"name": "Helen 侯-Sandí",
+				"screen_name": "helenhousandi",
+				"location": "NO FLEX ZONE ❤️ Jersey City",
+				"description": "OG and Director of Open Source Initiatives @10up. @WordPress Lead Developer. Sometimes collaborative pianist. Bossed up Bad Asian Mom.",
+				"url": "https://t.co/8xYq9ONc82",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8xYq9ONc82",
+								"expanded_url": "https://houseandi.com",
+								"display_url": "houseandi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11122,
+				"friends_count": 506,
+				"listed_count": 650,
+				"created_at": "Wed Feb 18 15:18:07 +0000 2009",
+				"favourites_count": 18497,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35077,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "502D57",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434907283143684097/EN6yLhcc.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434907283143684097/EN6yLhcc.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880115655164518400/8tnsA7XI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880115655164518400/8tnsA7XI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21204689/1392523877",
+				"profile_link_color": "663399",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "603D73",
+				"profile_text_color": "FF6647",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 219500,
+			"favorite_count": 384534,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 219500,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 23 08:44:05 +0000 2018",
 		"id": 966956819905212400,
 		"id_str": "966956819905212416",
