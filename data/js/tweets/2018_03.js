@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 23 07:40:10 +0000 2018",
+		"id": 977087592041713700,
+		"id_str": "977087592041713664",
+		"text": "@beckiblairjones is your mum selling a mirror 😂🤣 https://t.co/NWGVBJbxzp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beckiblairjones",
+					"name": "Becki BlairJones",
+					"id": 82072414,
+					"id_str": "82072414",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NWGVBJbxzp",
+					"expanded_url": "https://twitter.com/silviumajor/status/976415235484672000",
+					"display_url": "twitter.com/silviumajor/st…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 82072414,
+		"in_reply_to_user_id_str": "82072414",
+		"in_reply_to_screen_name": "beckiblairjones",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 508,
+			"friends_count": 278,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 776,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1518907448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 976415235484672000,
+		"quoted_status_id_str": "976415235484672000",
+		"quoted_status": {
+			"created_at": "Wed Mar 21 11:08:27 +0000 2018",
+			"id": 976415235484672000,
+			"id_str": "976415235484672000",
+			"text": "Looking at posts from people trying to sell mirrors is my new favourite thing https://t.co/TnWpTbwFZY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 976415228115279900,
+						"id_str": "976415228115279872",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DYzsegkX4AA-JX5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYzsegkX4AA-JX5.jpg",
+						"url": "https://t.co/TnWpTbwFZY",
+						"display_url": "pic.twitter.com/TnWpTbwFZY",
+						"expanded_url": "https://twitter.com/SilviuMajor/status/976415235484672000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1121,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1121,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976415228115279900,
+						"id_str": "976415228115279872",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DYzsegkX4AA-JX5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYzsegkX4AA-JX5.jpg",
+						"url": "https://t.co/TnWpTbwFZY",
+						"display_url": "pic.twitter.com/TnWpTbwFZY",
+						"expanded_url": "https://twitter.com/SilviuMajor/status/976415235484672000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1121,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1121,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 976415228169801700,
+						"id_str": "976415228169801728",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DYzsegxX0AAMXHS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYzsegxX0AAMXHS.jpg",
+						"url": "https://t.co/TnWpTbwFZY",
+						"display_url": "pic.twitter.com/TnWpTbwFZY",
+						"expanded_url": "https://twitter.com/SilviuMajor/status/976415235484672000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1125,
+								"h": 1129,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1129,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 976415228123582500,
+						"id_str": "976415228123582464",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DYzsegmWkAAhT-3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYzsegmWkAAhT-3.jpg",
+						"url": "https://t.co/TnWpTbwFZY",
+						"display_url": "pic.twitter.com/TnWpTbwFZY",
+						"expanded_url": "https://twitter.com/SilviuMajor/status/976415235484672000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1125,
+								"h": 1079,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1079,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 652,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 976415228115214300,
+						"id_str": "976415228115214337",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DYzsegkW4AE2qnS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYzsegkW4AE2qnS.jpg",
+						"url": "https://t.co/TnWpTbwFZY",
+						"display_url": "pic.twitter.com/TnWpTbwFZY",
+						"expanded_url": "https://twitter.com/SilviuMajor/status/976415235484672000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1087,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 657,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1087,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 486922990,
+				"id_str": "486922990",
+				"name": "Siv",
+				"screen_name": "SilviuMajor",
+				"location": "Gym",
+				"description": "Was told im a 'nice guy' by the Chuckle Brothers. No autographs please. IG:@silviumajor DM me if you’re going to use my tweet",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1848,
+				"friends_count": 392,
+				"listed_count": 45,
+				"created_at": "Wed Feb 08 20:27:25 +0000 2012",
+				"favourites_count": 2085,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6076,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911335581610889216/AxGpOeuC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911335581610889216/AxGpOeuC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/486922990/1515756469",
+				"profile_link_color": "001100",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 144766,
+			"favorite_count": 444750,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 21 20:38:50 +0000 2018",
 		"id": 976558776596787200,
 		"id_str": "976558776596787200",
