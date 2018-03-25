@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 24 09:03:48 +0000 2018",
+		"id": 977471029470748700,
+		"id_str": "977471029470748672",
+		"text": "RT @runcamille: Any idiot can run a marathon. It takes a special kind of idiot to run an ultramarathon. Then there's @BarkleyMarathon ...!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "runcamille",
+					"name": "Camille Herron",
+					"id": 20345095,
+					"id_str": "20345095",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "BarkleyMarathon",
+					"name": "The Barkley Marathon",
+					"id": 1286980015,
+					"id_str": "1286980015",
+					"indices": [
+						117,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 507,
+			"friends_count": 278,
+			"listed_count": 19,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 777,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5290,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1518907448",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 00:55:22 +0000 2018",
+			"id": 977348110673424400,
+			"id_str": "977348110673424385",
+			"text": "Any idiot can run a marathon. It takes a special kind of idiot to run an ultramarathon. Then there's @BarkleyMarathon ...!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BarkleyMarathon",
+						"name": "The Barkley Marathon",
+						"id": 1286980015,
+						"id_str": "1286980015",
+						"indices": [
+							101,
+							117
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20345095,
+				"id_str": "20345095",
+				"name": "Camille Herron",
+				"screen_name": "runcamille",
+				"location": "Warr Acres, OK",
+				"description": "'17 Comrades Champ•50 mi-12hr-100 mi WRs/Trail FKT•2x World Champ•Research Asst @OUMedicine. I was born to transcend and so were you!🤘 @NikeTrail",
+				"url": "https://t.co/S4CuzUiHDX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/S4CuzUiHDX",
+								"expanded_url": "http://www.camilleherron.com",
+								"display_url": "camilleherron.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6012,
+				"friends_count": 1117,
+				"listed_count": 216,
+				"created_at": "Sun Feb 08 01:18:57 +0000 2009",
+				"favourites_count": 17983,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2223,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "90BDDB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589199973264138240/Yrw2fc-h.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589199973264138240/Yrw2fc-h.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939876611901370368/g70ScwiT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939876611901370368/g70ScwiT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20345095/1507881544",
+				"profile_link_color": "7A527A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 174,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 23 07:40:10 +0000 2018",
 		"id": 977087592041713700,
 		"id_str": "977087592041713664",
