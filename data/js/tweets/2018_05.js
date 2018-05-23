@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 22 14:02:49 +0000 2018",
+		"id": 998927163003981800,
+		"id_str": "998927163003981824",
+		"text": "RT @TheLoveBel0w: Imagine being as smooth as this cat. https://t.co/sF4VZwjiP4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheLoveBel0w",
+					"name": "Tuxedo Mask",
+					"id": 817460680748044300,
+					"id_str": "817460680748044288",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 998720996839276500,
+					"id_str": "998720996839276544",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdwrdIZUQAAtftV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdwrdIZUQAAtftV.jpg",
+					"url": "https://t.co/sF4VZwjiP4",
+					"display_url": "pic.twitter.com/sF4VZwjiP4",
+					"expanded_url": "https://twitter.com/TheLoveBel0w/status/998723359428005888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 526,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 526,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 998723359428005900,
+					"source_status_id_str": "998723359428005888",
+					"source_user_id": 817460680748044300,
+					"source_user_id_str": "817460680748044288"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 998720996839276500,
+					"id_str": "998720996839276544",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdwrdIZUQAAtftV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdwrdIZUQAAtftV.jpg",
+					"url": "https://t.co/sF4VZwjiP4",
+					"display_url": "pic.twitter.com/sF4VZwjiP4",
+					"expanded_url": "https://twitter.com/TheLoveBel0w/status/998723359428005888/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 526,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 526,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 998723359428005900,
+					"source_status_id_str": "998723359428005888",
+					"source_user_id": 817460680748044300,
+					"source_user_id_str": "817460680748044288",
+					"video_info": {
+						"aspect_ratio": [
+							230,
+							263
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DdwrdIZUQAAtftV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 284,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1524488467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 22 00:32:58 +0000 2018",
+			"id": 998723359428005900,
+			"id_str": "998723359428005888",
+			"text": "Imagine being as smooth as this cat. https://t.co/sF4VZwjiP4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 998720996839276500,
+						"id_str": "998720996839276544",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdwrdIZUQAAtftV.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdwrdIZUQAAtftV.jpg",
+						"url": "https://t.co/sF4VZwjiP4",
+						"display_url": "pic.twitter.com/sF4VZwjiP4",
+						"expanded_url": "https://twitter.com/TheLoveBel0w/status/998723359428005888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 460,
+								"h": 526,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 460,
+								"h": 526,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 460,
+								"h": 526,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 998720996839276500,
+						"id_str": "998720996839276544",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdwrdIZUQAAtftV.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdwrdIZUQAAtftV.jpg",
+						"url": "https://t.co/sF4VZwjiP4",
+						"display_url": "pic.twitter.com/sF4VZwjiP4",
+						"expanded_url": "https://twitter.com/TheLoveBel0w/status/998723359428005888/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 460,
+								"h": 526,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 460,
+								"h": 526,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 460,
+								"h": 526,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								230,
+								263
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DdwrdIZUQAAtftV.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817460680748044300,
+				"id_str": "817460680748044288",
+				"name": "Tuxedo Mask",
+				"screen_name": "TheLoveBel0w",
+				"location": "Brooklyn, NY",
+				"description": "Electric word life, it means forever and that's a mighty long time. Also you're already here, so you might as well hit that follow button.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15084,
+				"friends_count": 2666,
+				"listed_count": 142,
+				"created_at": "Fri Jan 06 19:59:48 +0000 2017",
+				"favourites_count": 22624,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17584,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949495020800937984/JlJYi765_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949495020800937984/JlJYi765_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/817460680748044288/1519028404",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35428,
+			"favorite_count": 96652,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 35428,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 21 17:51:42 +0000 2018",
 		"id": 998622375875838000,
 		"id_str": "998622375875837957",
