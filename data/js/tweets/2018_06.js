@@ -1,6 +1,866 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 10 14:20:27 +0000 2018",
+		"id": 1005816971047432200,
+		"id_str": "1005816971047432193",
+		"text": "RT @genevievedoull: How freaking amazing!!! @ComradesRace https://t.co/sRsvSJmJlW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "genevievedoull",
+					"name": "Gen 10",
+					"id": 32466393,
+					"id_str": "32466393",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "ComradesRace",
+					"name": "Comrades Marathon",
+					"id": 255402231,
+					"id_str": "255402231",
+					"indices": [
+						44,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1005691162399780900,
+					"id_str": "1005691162399780864",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1005691162399780864/pu/img/yHRNr7JwyqwRipd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1005691162399780864/pu/img/yHRNr7JwyqwRipd_.jpg",
+					"url": "https://t.co/sRsvSJmJlW",
+					"display_url": "pic.twitter.com/sRsvSJmJlW",
+					"expanded_url": "https://twitter.com/genevievedoull/status/1005691313012998144/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005691313012998100,
+					"source_status_id_str": "1005691313012998144",
+					"source_user_id": 32466393,
+					"source_user_id_str": "32466393"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005691162399780900,
+					"id_str": "1005691162399780864",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1005691162399780864/pu/img/yHRNr7JwyqwRipd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1005691162399780864/pu/img/yHRNr7JwyqwRipd_.jpg",
+					"url": "https://t.co/sRsvSJmJlW",
+					"display_url": "pic.twitter.com/sRsvSJmJlW",
+					"expanded_url": "https://twitter.com/genevievedoull/status/1005691313012998144/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005691313012998100,
+					"source_status_id_str": "1005691313012998144",
+					"source_user_id": 32466393,
+					"source_user_id_str": "32466393",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 20789,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1005691162399780864/pu/pl/lhBOjdUpgw-Gdu_L.m3u8?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1005691162399780864/pu/vid/720x1280/jjUR00Jy85RL6csS.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1005691162399780864/pu/vid/180x320/AZWImF997_9k_EGd.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1005691162399780864/pu/vid/360x640/x2QmB6ybaLFvo6N1.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 32466393,
+							"id_str": "32466393",
+							"name": "Gen 10",
+							"screen_name": "genevievedoull",
+							"location": "Drummond, South Africa",
+							"description": "I spell check after I press send",
+							"url": "https://t.co/MkUDZpBX3L",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/MkUDZpBX3L",
+											"expanded_url": "http://memoriesphotosbooks.com",
+											"display_url": "memoriesphotosbooks.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 756,
+							"friends_count": 513,
+							"listed_count": 20,
+							"created_at": "Fri Apr 17 16:24:03 +0000 2009",
+							"favourites_count": 16567,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 30649,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "642D8B",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/997491005992529923/XTMA3Ghq_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/997491005992529923/XTMA3Ghq_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/32466393/1526325189",
+							"profile_link_color": "FF0000",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "7AC3EE",
+							"profile_text_color": "3D1957",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 282,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1524488467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 10 06:01:08 +0000 2018",
+			"id": 1005691313012998100,
+			"id_str": "1005691313012998144",
+			"text": "How freaking amazing!!! @ComradesRace https://t.co/sRsvSJmJlW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ComradesRace",
+						"name": "Comrades Marathon",
+						"id": 255402231,
+						"id_str": "255402231",
+						"indices": [
+							24,
+							37
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1005691162399780900,
+						"id_str": "1005691162399780864",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1005691162399780864/pu/img/yHRNr7JwyqwRipd_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1005691162399780864/pu/img/yHRNr7JwyqwRipd_.jpg",
+						"url": "https://t.co/sRsvSJmJlW",
+						"display_url": "pic.twitter.com/sRsvSJmJlW",
+						"expanded_url": "https://twitter.com/genevievedoull/status/1005691313012998144/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005691162399780900,
+						"id_str": "1005691162399780864",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1005691162399780864/pu/img/yHRNr7JwyqwRipd_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1005691162399780864/pu/img/yHRNr7JwyqwRipd_.jpg",
+						"url": "https://t.co/sRsvSJmJlW",
+						"display_url": "pic.twitter.com/sRsvSJmJlW",
+						"expanded_url": "https://twitter.com/genevievedoull/status/1005691313012998144/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 20789,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1005691162399780864/pu/pl/lhBOjdUpgw-Gdu_L.m3u8?tag=3"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1005691162399780864/pu/vid/720x1280/jjUR00Jy85RL6csS.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1005691162399780864/pu/vid/180x320/AZWImF997_9k_EGd.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1005691162399780864/pu/vid/360x640/x2QmB6ybaLFvo6N1.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32466393,
+				"id_str": "32466393",
+				"name": "Gen 10",
+				"screen_name": "genevievedoull",
+				"location": "Drummond, South Africa",
+				"description": "I spell check after I press send",
+				"url": "https://t.co/MkUDZpBX3L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MkUDZpBX3L",
+								"expanded_url": "http://memoriesphotosbooks.com",
+								"display_url": "memoriesphotosbooks.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 756,
+				"friends_count": 513,
+				"listed_count": 20,
+				"created_at": "Fri Apr 17 16:24:03 +0000 2009",
+				"favourites_count": 16567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30649,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/997491005992529923/XTMA3Ghq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/997491005992529923/XTMA3Ghq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32466393/1526325189",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3092a7a88eb4db2b",
+				"url": "https://api.twitter.com/1.1/geo/id/3092a7a88eb4db2b.json",
+				"place_type": "city",
+				"name": "Drummond",
+				"full_name": "Drummond, South Africa",
+				"country_code": "ZA",
+				"country": "South Africa",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								30.6659262,
+								-29.7833301
+							],
+							[
+								30.7129475,
+								-29.7833301
+							],
+							[
+								30.7129475,
+								-29.7433493
+							],
+							[
+								30.6659262,
+								-29.7433493
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 358,
+			"favorite_count": 705,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 358,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 10 14:09:46 +0000 2018",
+		"id": 1005814281156354000,
+		"id_str": "1005814281156354049",
+		"text": "Note this is how you recover from Comrades: a great pale ale from @darlingbrew, a cool sea breeze and an amazing vi… https://t.co/chB7R44pPy",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DarlingBrew",
+					"name": "Darling Brew",
+					"id": 348500304,
+					"id_str": "348500304",
+					"indices": [
+						66,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/chB7R44pPy",
+					"expanded_url": "https://twitter.com/i/web/status/1005814281156354049",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 282,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1524488467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 10 12:09:47 +0000 2018",
+		"id": 1005784084726116400,
+		"id_str": "1005784084726116353",
+		"text": "Woohoo! Did it! sub-7:30 to get the silver medal I've been wanting. Got the back-to-back too #run #comrades2018 https://t.co/onBHLaUQS1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "run",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "comrades2018",
+					"indices": [
+						98,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1005784083471982600,
+					"id_str": "1005784083471982592",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DfVDS4gW4AASfNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfVDS4gW4AASfNN.jpg",
+					"url": "https://t.co/onBHLaUQS1",
+					"display_url": "pic.twitter.com/onBHLaUQS1",
+					"expanded_url": "https://twitter.com/lildude/status/1005784084726116353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005784083471982600,
+					"id_str": "1005784083471982592",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DfVDS4gW4AASfNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfVDS4gW4AASfNN.jpg",
+					"url": "https://t.co/onBHLaUQS1",
+					"display_url": "pic.twitter.com/onBHLaUQS1",
+					"expanded_url": "https://twitter.com/lildude/status/1005784084726116353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 282,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1524488467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 09 23:23:50 +0000 2018",
 		"id": 1005591330200981500,
 		"id_str": "1005591330200981504",
