@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 11 17:53:40 +0000 2018",
+		"id": 1017104650296840200,
+		"id_str": "1017104650296840194",
+		"text": "RT @bigfatsurprise: Currently #1 most-read piece on the @washtimes. Cardiologist says, \"Fatty foods don’t cause heart disease, bread and pa…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bigfatsurprise",
+					"name": "Nina Teicholz",
+					"id": 2327971734,
+					"id_str": "2327971734",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "WashTimes",
+					"name": "The Washington Times",
+					"id": 14662354,
+					"id_str": "14662354",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 285,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1524488467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 11 16:31:04 +0000 2018",
+			"id": 1017083865717006300,
+			"id_str": "1017083865717006338",
+			"text": "Currently #1 most-read piece on the @washtimes. Cardiologist says, \"Fatty foods don’t cause heart disease, bread an… https://t.co/O7oGOYtXgS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WashTimes",
+						"name": "The Washington Times",
+						"id": 14662354,
+						"id_str": "14662354",
+						"indices": [
+							36,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/O7oGOYtXgS",
+						"expanded_url": "https://twitter.com/i/web/status/1017083865717006338",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2327971734,
+				"id_str": "2327971734",
+				"name": "Nina Teicholz",
+				"screen_name": "bigfatsurprise",
+				"location": "NYC",
+				"description": "Science journalist, author of The Big Fat Surprise, advocate for nutrition policy based on rigorous science.",
+				"url": "https://t.co/cNnWOtEog1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cNnWOtEog1",
+								"expanded_url": "http://www.ninateicholz.com",
+								"display_url": "ninateicholz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49231,
+				"friends_count": 879,
+				"listed_count": 890,
+				"created_at": "Wed Feb 05 01:04:34 +0000 2014",
+				"favourites_count": 9693,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13459,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845433655711412224/3hOBrdRZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845433655711412224/3hOBrdRZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327971734/1434037095",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 133,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 05:58:42 +0000 2018",
+		"id": 1016924724797100000,
+		"id_str": "1016924724797100033",
+		"text": "@bamb00zzle @RoundReading @ComradesRace @2OceansMarathon Of course I could run like a man possessed and take the on… https://t.co/MYGV7LK7Eu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bamb00zzle",
+					"name": "Bamboo",
+					"id": 15241761,
+					"id_str": "15241761",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RoundReading",
+					"name": "Round Reading Ultra",
+					"id": 853328865770516500,
+					"id_str": "853328865770516480",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "ComradesRace",
+					"name": "Comrades Marathon",
+					"id": 255402231,
+					"id_str": "255402231",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "2OceansMarathon",
+					"name": "Two Oceans Marathon",
+					"id": 338924292,
+					"id_str": "338924292",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MYGV7LK7Eu",
+					"expanded_url": "https://twitter.com/i/web/status/1016924724797100033",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1016923773835071500,
+		"in_reply_to_status_id_str": "1016923773835071489",
+		"in_reply_to_user_id": 8812362,
+		"in_reply_to_user_id_str": "8812362",
+		"in_reply_to_screen_name": "lildude",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 285,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1524488467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 05:54:55 +0000 2018",
+		"id": 1016923773835071500,
+		"id_str": "1016923773835071489",
+		"text": "@bamb00zzle @RoundReading @ComradesRace @2OceansMarathon I’ve run every step of the route at some point on my Sunda… https://t.co/DqdeNPAO1O",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bamb00zzle",
+					"name": "Bamboo",
+					"id": 15241761,
+					"id_str": "15241761",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RoundReading",
+					"name": "Round Reading Ultra",
+					"id": 853328865770516500,
+					"id_str": "853328865770516480",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "ComradesRace",
+					"name": "Comrades Marathon",
+					"id": 255402231,
+					"id_str": "255402231",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "2OceansMarathon",
+					"name": "Two Oceans Marathon",
+					"id": 338924292,
+					"id_str": "338924292",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DqdeNPAO1O",
+					"expanded_url": "https://twitter.com/i/web/status/1016923773835071489",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1016922243358748700,
+		"in_reply_to_status_id_str": "1016922243358748672",
+		"in_reply_to_user_id": 8812362,
+		"in_reply_to_user_id_str": "8812362",
+		"in_reply_to_screen_name": "lildude",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 285,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1524488467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 05:48:50 +0000 2018",
+		"id": 1016922243358748700,
+		"id_str": "1016922243358748672",
+		"text": "@bamb00zzle @RoundReading @ComradesRace @2OceansMarathon Mobile phone, race map &amp; instructions (I think on 📱 is 👌),… https://t.co/kLI4hDFlDt",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bamb00zzle",
+					"name": "Bamboo",
+					"id": 15241761,
+					"id_str": "15241761",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RoundReading",
+					"name": "Round Reading Ultra",
+					"id": 853328865770516500,
+					"id_str": "853328865770516480",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "ComradesRace",
+					"name": "Comrades Marathon",
+					"id": 255402231,
+					"id_str": "255402231",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "2OceansMarathon",
+					"name": "Two Oceans Marathon",
+					"id": 338924292,
+					"id_str": "338924292",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kLI4hDFlDt",
+					"expanded_url": "https://twitter.com/i/web/status/1016922243358748672",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1016774816756588500,
+		"in_reply_to_status_id_str": "1016774816756588545",
+		"in_reply_to_user_id": 15241761,
+		"in_reply_to_user_id_str": "15241761",
+		"in_reply_to_screen_name": "bamb00zzle",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 285,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1524488467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 10 07:02:05 +0000 2018",
 		"id": 1016578286745473000,
 		"id_str": "1016578286745473024",
