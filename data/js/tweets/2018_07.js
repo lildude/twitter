@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 19 07:56:15 +0000 2018",
+		"id": 1019853410538000400,
+		"id_str": "1019853410538000384",
+		"text": "RT @ollypercival: I LOVE this lesson from @monzo about how to spot the passive voice. https://t.co/SosA8myqPF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ollypercival",
+					"name": "Olly Percival",
+					"id": 146143755,
+					"id_str": "146143755",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "monzo",
+					"name": "Monzo",
+					"id": 3224409977,
+					"id_str": "3224409977",
+					"indices": [
+						42,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 991339361437352000,
+					"id_str": "991339361437351937",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DcHx5ZpWAAEHbUi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcHx5ZpWAAEHbUi.jpg",
+					"url": "https://t.co/SosA8myqPF",
+					"display_url": "pic.twitter.com/SosA8myqPF",
+					"expanded_url": "https://twitter.com/ollypercival/status/991339489015554049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1302,
+							"h": 1388,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991339489015554000,
+					"source_status_id_str": "991339489015554049",
+					"source_user_id": 146143755,
+					"source_user_id_str": "146143755"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 991339361437352000,
+					"id_str": "991339361437351937",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DcHx5ZpWAAEHbUi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcHx5ZpWAAEHbUi.jpg",
+					"url": "https://t.co/SosA8myqPF",
+					"display_url": "pic.twitter.com/SosA8myqPF",
+					"expanded_url": "https://twitter.com/ollypercival/status/991339489015554049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1302,
+							"h": 1388,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991339489015554000,
+					"source_status_id_str": "991339489015554049",
+					"source_user_id": 146143755,
+					"source_user_id_str": "146143755"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 523,
+			"friends_count": 287,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1524488467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 01 15:32:07 +0000 2018",
+			"id": 991339489015554000,
+			"id_str": "991339489015554049",
+			"text": "I LOVE this lesson from @monzo about how to spot the passive voice. https://t.co/SosA8myqPF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "monzo",
+						"name": "Monzo",
+						"id": 3224409977,
+						"id_str": "3224409977",
+						"indices": [
+							24,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 991339361437352000,
+						"id_str": "991339361437351937",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DcHx5ZpWAAEHbUi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcHx5ZpWAAEHbUi.jpg",
+						"url": "https://t.co/SosA8myqPF",
+						"display_url": "pic.twitter.com/SosA8myqPF",
+						"expanded_url": "https://twitter.com/ollypercival/status/991339489015554049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 638,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1126,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1302,
+								"h": 1388,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 991339361437352000,
+						"id_str": "991339361437351937",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DcHx5ZpWAAEHbUi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcHx5ZpWAAEHbUi.jpg",
+						"url": "https://t.co/SosA8myqPF",
+						"display_url": "pic.twitter.com/SosA8myqPF",
+						"expanded_url": "https://twitter.com/ollypercival/status/991339489015554049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 638,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1126,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1302,
+								"h": 1388,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 146143755,
+				"id_str": "146143755",
+				"name": "Olly Percival",
+				"screen_name": "ollypercival",
+				"location": "Guildford",
+				"description": "Digital media type bloke who is a bit too attached to his mobile phone.",
+				"url": "https://t.co/VJ2nkw8JLu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VJ2nkw8JLu",
+								"expanded_url": "https://medium.com/@olly_percival",
+								"display_url": "medium.com/@olly_percival",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 214,
+				"friends_count": 452,
+				"listed_count": 15,
+				"created_at": "Thu May 20 18:07:34 +0000 2010",
+				"favourites_count": 308,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 781,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/546795564751659008/vcxYTh___normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/546795564751659008/vcxYTh___normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/146143755/1436530929",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1949,
+			"favorite_count": 4500,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1949,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 13 18:55:15 +0000 2018",
 		"id": 1017844925772320800,
 		"id_str": "1017844925772320769",
