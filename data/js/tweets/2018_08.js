@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 15 16:55:05 +0000 2018",
+		"id": 1029773485797793800,
+		"id_str": "1029773485797793793",
+		"text": "@davidwalshblog Your syntax highlighting is stumbling on the `#refs...` part of the pr-clean so not showing the res… https://t.co/nwWg36R3r1",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "refs",
+					"indices": [
+						62,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidwalshblog",
+					"name": "David Walsh 🦊",
+					"id": 15759583,
+					"id_str": "15759583",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nwWg36R3r1",
+					"expanded_url": "https://twitter.com/i/web/status/1029773485797793793",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1029768818887991300,
+		"in_reply_to_status_id_str": "1029768818887991297",
+		"in_reply_to_user_id": 15759583,
+		"in_reply_to_user_id_str": "15759583",
+		"in_reply_to_screen_name": "davidwalshblog",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, barefoot & minimalist running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 517,
+			"friends_count": 289,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5362,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1533325745",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 14 18:47:27 +0000 2018",
 		"id": 1029439373350195200,
 		"id_str": "1029439373350195200",
