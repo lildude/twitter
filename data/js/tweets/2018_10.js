@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 18:42:13 +0000 2018",
+		"id": 1052630879162445800,
+		"id_str": "1052630879162445824",
+		"text": "WAT!? Cloudwater in London!? 🎉. I'm never going to get to the end of the Bermondsey beer mile now. It took a lot to… https://t.co/jQ1w1Ckzmw",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jQ1w1Ckzmw",
+					"expanded_url": "https://twitter.com/i/web/status/1052630879162445824",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏡",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 530,
+			"friends_count": 278,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1535330015",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052584409893888000,
+		"quoted_status_id_str": "1052584409893888000",
+		"quoted_status": {
+			"created_at": "Wed Oct 17 15:37:34 +0000 2018",
+			"id": 1052584409893888000,
+			"id_str": "1052584409893888000",
+			"text": "Our imminent opening of our Cloudwater Tap Room, @73EnidSt, is forthcoming, BUT FIRST we are looking for a couple o… https://t.co/9KPEz5tlER",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "73EnidSt",
+						"name": "Bermo Fit Out! 😍",
+						"id": 983304343389720600,
+						"id_str": "983304343389720576",
+						"indices": [
+							49,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9KPEz5tlER",
+						"expanded_url": "https://twitter.com/i/web/status/1052584409893888000",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2279220678,
+				"id_str": "2279220678",
+				"name": "Cloudwater Brew Co",
+				"screen_name": "cloudwaterbrew",
+				"location": "Manchester",
+				"description": "Modern, seasonal beer. Tweets by Doreen/Connor/Paul. Tap: @cloudwaterunit9 Tours: https://t.co/ZDsknliRZa",
+				"url": "https://t.co/tPzhQPcN81",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tPzhQPcN81",
+								"expanded_url": "http://cloudwaterbrew.co/store",
+								"display_url": "cloudwaterbrew.co/store",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZDsknliRZa",
+								"expanded_url": "https://goo.gl/oVX12A",
+								"display_url": "goo.gl/oVX12A",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27301,
+				"friends_count": 383,
+				"listed_count": 361,
+				"created_at": "Mon Jan 06 15:19:27 +0000 2014",
+				"favourites_count": 30132,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14935,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049271540951470081/1KdARGWc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049271540951470081/1KdARGWc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2279220678/1423760115",
+				"profile_link_color": "5CA7A7",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 17 07:33:38 +0000 2018",
+		"id": 1052462625722908700,
+		"id_str": "1052462625722908672",
+		"text": "RT @codepo8: me, baking. /by @elclimo https://t.co/3ygZFfuUyU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "codepo8",
+					"name": "Chris Heilmann",
+					"id": 13567,
+					"id_str": "13567",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "elclimo",
+					"name": "Liz Climo",
+					"id": 22595262,
+					"id_str": "22595262",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052442220891185200,
+					"id_str": "1052442220891185152",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DpsGn7LXoAAUYyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpsGn7LXoAAUYyI.jpg",
+					"url": "https://t.co/3ygZFfuUyU",
+					"display_url": "pic.twitter.com/3ygZFfuUyU",
+					"expanded_url": "https://twitter.com/codepo8/status/1052442254722433025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1052442254722433000,
+					"source_status_id_str": "1052442254722433025",
+					"source_user_id": 13567,
+					"source_user_id_str": "13567"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052442220891185200,
+					"id_str": "1052442220891185152",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DpsGn7LXoAAUYyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpsGn7LXoAAUYyI.jpg",
+					"url": "https://t.co/3ygZFfuUyU",
+					"display_url": "pic.twitter.com/3ygZFfuUyU",
+					"expanded_url": "https://twitter.com/codepo8/status/1052442254722433025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1052442254722433000,
+					"source_status_id_str": "1052442254722433025",
+					"source_user_id": 13567,
+					"source_user_id_str": "13567"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏡",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 530,
+			"friends_count": 278,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1535330015",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 17 06:12:41 +0000 2018",
+			"id": 1052442254722433000,
+			"id_str": "1052442254722433025",
+			"text": "me, baking. /by @elclimo https://t.co/3ygZFfuUyU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "elclimo",
+						"name": "Liz Climo",
+						"id": 22595262,
+						"id_str": "22595262",
+						"indices": [
+							16,
+							24
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1052442220891185200,
+						"id_str": "1052442220891185152",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DpsGn7LXoAAUYyI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpsGn7LXoAAUYyI.jpg",
+						"url": "https://t.co/3ygZFfuUyU",
+						"display_url": "pic.twitter.com/3ygZFfuUyU",
+						"expanded_url": "https://twitter.com/codepo8/status/1052442254722433025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 625,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 625,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 625,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052442220891185200,
+						"id_str": "1052442220891185152",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DpsGn7LXoAAUYyI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpsGn7LXoAAUYyI.jpg",
+						"url": "https://t.co/3ygZFfuUyU",
+						"display_url": "pic.twitter.com/3ygZFfuUyU",
+						"expanded_url": "https://twitter.com/codepo8/status/1052442254722433025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 625,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 625,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 625,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13567,
+				"id_str": "13567",
+				"name": "Chris Heilmann",
+				"screen_name": "codepo8",
+				"location": "Berlin, Germany",
+				"description": "The robots are coming and we need to make a great example for them. Program Manager for Open Web and Browsers at Microsoft.  Presenter, JavaScript lover.",
+				"url": "https://t.co/0xmfa8q7Va",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0xmfa8q7Va",
+								"expanded_url": "http://christianheilmann.com/2013/02/11/hello-it-is-me-on-twitter/",
+								"display_url": "christianheilmann.com/2013/02/11/hel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63746,
+				"friends_count": 2219,
+				"listed_count": 4226,
+				"created_at": "Tue Nov 21 17:20:09 +0000 2006",
+				"favourites_count": 3722,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 146213,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "336699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13567/1520602618",
+				"profile_link_color": "336699",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "B7CCBB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 13 20:09:46 +0000 2018",
 		"id": 1051203362224558100,
 		"id_str": "1051203362224558081",
