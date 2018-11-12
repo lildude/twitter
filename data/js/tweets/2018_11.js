@@ -1,6 +1,1155 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 20:20:33 +0000 2018",
+		"id": 1061715325413134300,
+		"id_str": "1061715325413134338",
+		"text": "RT @IHLaking: this french bulldog playing with a balloon is the most wholesome thing on the internet today😊 https://t.co/9wvypOZafS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IHLaking",
+					"name": "Ian Laking",
+					"id": 2662861692,
+					"id_str": "2662861692",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060622489284268000,
+					"id_str": "1060622489284268032",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060622489284268032/pu/img/9hyfgzH1tphQrzWR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060622489284268032/pu/img/9hyfgzH1tphQrzWR.jpg",
+					"url": "https://t.co/9wvypOZafS",
+					"display_url": "pic.twitter.com/9wvypOZafS",
+					"expanded_url": "https://twitter.com/IHLaking/status/1060622565138255872/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1060622565138255900,
+					"source_status_id_str": "1060622565138255872",
+					"source_user_id": 2662861692,
+					"source_user_id_str": "2662861692"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060622489284268000,
+					"id_str": "1060622489284268032",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060622489284268032/pu/img/9hyfgzH1tphQrzWR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060622489284268032/pu/img/9hyfgzH1tphQrzWR.jpg",
+					"url": "https://t.co/9wvypOZafS",
+					"display_url": "pic.twitter.com/9wvypOZafS",
+					"expanded_url": "https://twitter.com/IHLaking/status/1060622565138255872/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1060622565138255900,
+					"source_status_id_str": "1060622565138255872",
+					"source_user_id": 2662861692,
+					"source_user_id_str": "2662861692",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11733,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060622489284268032/pu/vid/640x640/Q_PjibKXqQ2IhW92.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060622489284268032/pu/vid/240x240/25ZL-YBqUd3RA33-.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1060622489284268032/pu/pl/6hqBotHraanoOJ1e.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060622489284268032/pu/vid/480x480/PsWpngKlLJlFP3Xk.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2662861692,
+							"id_str": "2662861692",
+							"name": "Ian Laking",
+							"screen_name": "IHLaking",
+							"location": "Melbourne, Victoria",
+							"description": "I write Steampunk Fantasy stories, & believe reality is best taken with a grain of salt. Click here for my free mystery novella: https://t.co/1yX7N3yuCR",
+							"url": "https://t.co/PciSLCnHim",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/PciSLCnHim",
+											"expanded_url": "http://IHLaking.com",
+											"display_url": "IHLaking.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/1yX7N3yuCR",
+											"expanded_url": "http://ow.ly/BFFTY",
+											"display_url": "ow.ly/BFFTY",
+											"indices": [
+												129,
+												152
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 27637,
+							"friends_count": 270,
+							"listed_count": 578,
+							"created_at": "Sun Jul 20 12:37:56 +0000 2014",
+							"favourites_count": 24308,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 16645,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/772997135197282304/_SKGVkyB_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/772997135197282304/_SKGVkyB_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2662861692/1509380179",
+							"profile_link_color": "B7410E",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏡",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 278,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5422,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1535330015",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 08 19:58:19 +0000 2018",
+			"id": 1060622565138255900,
+			"id_str": "1060622565138255872",
+			"text": "this french bulldog playing with a balloon is the most wholesome thing on the internet today😊 https://t.co/9wvypOZafS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060622489284268000,
+						"id_str": "1060622489284268032",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060622489284268032/pu/img/9hyfgzH1tphQrzWR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060622489284268032/pu/img/9hyfgzH1tphQrzWR.jpg",
+						"url": "https://t.co/9wvypOZafS",
+						"display_url": "pic.twitter.com/9wvypOZafS",
+						"expanded_url": "https://twitter.com/IHLaking/status/1060622565138255872/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060622489284268000,
+						"id_str": "1060622489284268032",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060622489284268032/pu/img/9hyfgzH1tphQrzWR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060622489284268032/pu/img/9hyfgzH1tphQrzWR.jpg",
+						"url": "https://t.co/9wvypOZafS",
+						"display_url": "pic.twitter.com/9wvypOZafS",
+						"expanded_url": "https://twitter.com/IHLaking/status/1060622565138255872/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 11733,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060622489284268032/pu/vid/640x640/Q_PjibKXqQ2IhW92.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060622489284268032/pu/vid/240x240/25ZL-YBqUd3RA33-.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1060622489284268032/pu/pl/6hqBotHraanoOJ1e.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1060622489284268032/pu/vid/480x480/PsWpngKlLJlFP3Xk.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2662861692,
+				"id_str": "2662861692",
+				"name": "Ian Laking",
+				"screen_name": "IHLaking",
+				"location": "Melbourne, Victoria",
+				"description": "I write Steampunk Fantasy stories, & believe reality is best taken with a grain of salt. Click here for my free mystery novella: https://t.co/1yX7N3yuCR",
+				"url": "https://t.co/PciSLCnHim",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PciSLCnHim",
+								"expanded_url": "http://IHLaking.com",
+								"display_url": "IHLaking.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1yX7N3yuCR",
+								"expanded_url": "http://ow.ly/BFFTY",
+								"display_url": "ow.ly/BFFTY",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27637,
+				"friends_count": 270,
+				"listed_count": 578,
+				"created_at": "Sun Jul 20 12:37:56 +0000 2014",
+				"favourites_count": 24308,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16645,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/772997135197282304/_SKGVkyB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/772997135197282304/_SKGVkyB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2662861692/1509380179",
+				"profile_link_color": "B7410E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01864a8a64df9dc4",
+				"url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+				"place_type": "city",
+				"name": "Melbourne",
+				"full_name": "Melbourne, Victoria",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								144.593741856,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-37.5112737225
+							],
+							[
+								144.593741856,
+								-37.5112737225
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18023,
+			"favorite_count": 48640,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18023,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 11 19:20:01 +0000 2018",
+		"id": 1061700088714743800,
+		"id_str": "1061700088714743814",
+		"text": "RT @Tony_Robinson: I’m not a fan of bad language on twitter.Cursing rather than choosing the right word for the occasion is a little ignora…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tony_Robinson",
+					"name": "Tony Robinson",
+					"id": 2483329075,
+					"id_str": "2483329075",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏡",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 278,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5422,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1535330015",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 11 12:32:18 +0000 2018",
+			"id": 1061597484131115000,
+			"id_str": "1061597484131115008",
+			"text": "I’m not a fan of bad language on twitter.Cursing rather than choosing the right word for the occasion is a little i… https://t.co/r4i2r1HsnW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/r4i2r1HsnW",
+						"expanded_url": "https://twitter.com/i/web/status/1061597484131115008",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2483329075,
+				"id_str": "2483329075",
+				"name": "Tony Robinson",
+				"screen_name": "Tony_Robinson",
+				"location": "",
+				"description": "Actor, writer, presenter. Labour. Bristol City FC. Husband. Dad. Grandad. No cunning plan.",
+				"url": "https://t.co/dl4iRKKpBB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dl4iRKKpBB",
+								"expanded_url": "https://www.amazon.co.uk/Cunning-Plan-Sir-Tony-Robinson/dp/0283072571",
+								"display_url": "amazon.co.uk/Cunning-Plan-S…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73331,
+				"friends_count": 1104,
+				"listed_count": 331,
+				"created_at": "Thu May 08 07:10:19 +0000 2014",
+				"favourites_count": 15865,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9035,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/760753714529497088/jgfephfY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/760753714529497088/jgfephfY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2483329075/1474888706",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18287,
+			"favorite_count": 85137,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18287,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 11 19:19:50 +0000 2018",
+		"id": 1061700042447376400,
+		"id_str": "1061700042447376385",
+		"text": "RT @wagner_rob: @Tony_Robinson @mmjblair Yes, yes he is. https://t.co/SUzxFypAQY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wagner_rob",
+					"name": "Rob Wagner 🇺🇸",
+					"id": 345585263,
+					"id_str": "345585263",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Tony_Robinson",
+					"name": "Tony Robinson",
+					"id": 2483329075,
+					"id_str": "2483329075",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "mmjblair",
+					"name": "Michael Blair",
+					"id": 457635895,
+					"id_str": "457635895",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061605129231781900,
+					"id_str": "1061605129231781888",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DruUPYuX0AAIsiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DruUPYuX0AAIsiJ.jpg",
+					"url": "https://t.co/SUzxFypAQY",
+					"display_url": "pic.twitter.com/SUzxFypAQY",
+					"expanded_url": "https://twitter.com/wagner_rob/status/1061605132180295681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1061605132180295700,
+					"source_status_id_str": "1061605132180295681",
+					"source_user_id": 345585263,
+					"source_user_id_str": "345585263"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061605129231781900,
+					"id_str": "1061605129231781888",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DruUPYuX0AAIsiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DruUPYuX0AAIsiJ.jpg",
+					"url": "https://t.co/SUzxFypAQY",
+					"display_url": "pic.twitter.com/SUzxFypAQY",
+					"expanded_url": "https://twitter.com/wagner_rob/status/1061605132180295681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1061605132180295700,
+					"source_status_id_str": "1061605132180295681",
+					"source_user_id": 345585263,
+					"source_user_id_str": "345585263"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏡",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 278,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5422,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1535330015",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 11 13:02:41 +0000 2018",
+			"id": 1061605132180295700,
+			"id_str": "1061605132180295681",
+			"text": "@Tony_Robinson @mmjblair Yes, yes he is. https://t.co/SUzxFypAQY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Tony_Robinson",
+						"name": "Tony Robinson",
+						"id": 2483329075,
+						"id_str": "2483329075",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "mmjblair",
+						"name": "Michael Blair",
+						"id": 457635895,
+						"id_str": "457635895",
+						"indices": [
+							15,
+							24
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1061605129231781900,
+						"id_str": "1061605129231781888",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DruUPYuX0AAIsiJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DruUPYuX0AAIsiJ.jpg",
+						"url": "https://t.co/SUzxFypAQY",
+						"display_url": "pic.twitter.com/SUzxFypAQY",
+						"expanded_url": "https://twitter.com/wagner_rob/status/1061605132180295681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1061605129231781900,
+						"id_str": "1061605129231781888",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DruUPYuX0AAIsiJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DruUPYuX0AAIsiJ.jpg",
+						"url": "https://t.co/SUzxFypAQY",
+						"display_url": "pic.twitter.com/SUzxFypAQY",
+						"expanded_url": "https://twitter.com/wagner_rob/status/1061605132180295681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1061597484131115000,
+			"in_reply_to_status_id_str": "1061597484131115008",
+			"in_reply_to_user_id": 2483329075,
+			"in_reply_to_user_id_str": "2483329075",
+			"in_reply_to_screen_name": "Tony_Robinson",
+			"user": {
+				"id": 345585263,
+				"id_str": "345585263",
+				"name": "Rob Wagner 🇺🇸",
+				"screen_name": "wagner_rob",
+				"location": "Ft. Lauderdale, FL, USA",
+				"description": "Donald Trump enraged me to that point where I am now engaged and energized.\n\nI will not stay silent so that you can stay comfortable. #WeAreThePatriots🇺🇸",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2745,
+				"friends_count": 3764,
+				"listed_count": 11,
+				"created_at": "Sat Jul 30 21:00:31 +0000 2011",
+				"favourites_count": 22323,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37361,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057973066117058561/DeQUAVI__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057973066117058561/DeQUAVI__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/345585263/1533787157",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 103,
+			"favorite_count": 701,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 09 18:09:58 +0000 2018",
 		"id": 1060957683359080400,
 		"id_str": "1060957683359080448",
