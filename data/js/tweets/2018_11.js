@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 21 13:40:01 +0000 2018",
+		"id": 1065238403032195100,
+		"id_str": "1065238403032195072",
+		"text": "RT @BBCPolitics: The most British thing you'll see today happened in Downing Street this morning, and it involved @Number10Cat and a though…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCPolitics",
+					"name": "BBC Politics",
+					"id": 621533,
+					"id_str": "621533",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Number10cat",
+					"name": "Larry the Cat",
+					"id": 252521025,
+					"id_str": "252521025",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏡",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 524,
+			"friends_count": 277,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1535330015",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 20 12:19:17 +0000 2018",
+			"id": 1064855699266646000,
+			"id_str": "1064855699266646016",
+			"text": "The most British thing you'll see today happened in Downing Street this morning, and it involved @Number10Cat and a… https://t.co/MYi8BqeTWL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Number10cat",
+						"name": "Larry the Cat",
+						"id": 252521025,
+						"id_str": "252521025",
+						"indices": [
+							97,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MYi8BqeTWL",
+						"expanded_url": "https://twitter.com/i/web/status/1064855699266646016",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 621533,
+				"id_str": "621533",
+				"name": "BBC Politics",
+				"screen_name": "BBCPolitics",
+				"location": "London",
+				"description": "The best of the BBC's political coverage. Find us on Facebook too: https://t.co/acObBhqWpq",
+				"url": "https://t.co/TYcu9IVV2N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TYcu9IVV2N",
+								"expanded_url": "http://www.bbc.co.uk/politics",
+								"display_url": "bbc.co.uk/politics",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/acObBhqWpq",
+								"expanded_url": "https://www.facebook.com/BBCPolitics",
+								"display_url": "facebook.com/BBCPolitics",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 456748,
+				"friends_count": 325,
+				"listed_count": 7506,
+				"created_at": "Wed Jan 10 12:34:33 +0000 2007",
+				"favourites_count": 733,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 77833,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877405743326134272/6OV1yMCP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877405743326134272/6OV1yMCP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/621533/1527070087",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10981,
+			"favorite_count": 29866,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10981,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 15 17:33:18 +0000 2018",
 		"id": 1063122784421863400,
 		"id_str": "1063122784421863425",
