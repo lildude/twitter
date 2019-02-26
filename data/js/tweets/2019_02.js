@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 08:34:31 +0000 2019",
+		"id": 1099950757640585200,
+		"id_str": "1099950757640585216",
+		"text": "RT @DoggoDating: Clever doggo https://t.co/OKLWrMFAgl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DoggoDating",
+					"name": "Good doggos",
+					"id": 847484522115375100,
+					"id_str": "847484522115375105",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099718137233190900,
+					"id_str": "1099718137233190912",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099718137233190912/pu/img/RHXQ9HH-RIy20I3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099718137233190912/pu/img/RHXQ9HH-RIy20I3B.jpg",
+					"url": "https://t.co/OKLWrMFAgl",
+					"display_url": "pic.twitter.com/OKLWrMFAgl",
+					"expanded_url": "https://twitter.com/DoggoDating/status/1099718204287602690/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1099718204287602700,
+					"source_status_id_str": "1099718204287602690",
+					"source_user_id": 847484522115375100,
+					"source_user_id_str": "847484522115375105"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099718137233190900,
+					"id_str": "1099718137233190912",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099718137233190912/pu/img/RHXQ9HH-RIy20I3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099718137233190912/pu/img/RHXQ9HH-RIy20I3B.jpg",
+					"url": "https://t.co/OKLWrMFAgl",
+					"display_url": "pic.twitter.com/OKLWrMFAgl",
+					"expanded_url": "https://twitter.com/DoggoDating/status/1099718204287602690/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1099718204287602700,
+					"source_status_id_str": "1099718204287602690",
+					"source_user_id": 847484522115375100,
+					"source_user_id_str": "847484522115375105",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29900,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099718137233190912/pu/vid/320x320/9LRu3Ya5ulZoF-f6.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099718137233190912/pu/vid/480x480/tMSXNVSlmPbunZKi.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1099718137233190912/pu/pl/N8-IfPloyLSKhoj3.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 847484522115375100,
+							"id_str": "847484522115375105",
+							"name": "Good doggos",
+							"screen_name": "DoggoDating",
+							"location": "London",
+							"description": "Some dogs are Doggos, some are Puppers, and some may even be Pupperinos. But they are all Good Boyes.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 70592,
+							"friends_count": 11,
+							"listed_count": 319,
+							"created_at": "Thu Mar 30 16:23:50 +0000 2017",
+							"favourites_count": 8424,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2728,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1092090332546777088/heg4PZd8_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092090332546777088/heg4PZd8_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/847484522115375105/1549212267",
+							"profile_link_color": "FF691F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏡",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 285,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1546088343",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 24 17:10:26 +0000 2019",
+			"id": 1099718204287602700,
+			"id_str": "1099718204287602690",
+			"text": "Clever doggo https://t.co/OKLWrMFAgl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1099718137233190900,
+						"id_str": "1099718137233190912",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099718137233190912/pu/img/RHXQ9HH-RIy20I3B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099718137233190912/pu/img/RHXQ9HH-RIy20I3B.jpg",
+						"url": "https://t.co/OKLWrMFAgl",
+						"display_url": "pic.twitter.com/OKLWrMFAgl",
+						"expanded_url": "https://twitter.com/DoggoDating/status/1099718204287602690/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1099718137233190900,
+						"id_str": "1099718137233190912",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099718137233190912/pu/img/RHXQ9HH-RIy20I3B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099718137233190912/pu/img/RHXQ9HH-RIy20I3B.jpg",
+						"url": "https://t.co/OKLWrMFAgl",
+						"display_url": "pic.twitter.com/OKLWrMFAgl",
+						"expanded_url": "https://twitter.com/DoggoDating/status/1099718204287602690/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 29900,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1099718137233190912/pu/vid/320x320/9LRu3Ya5ulZoF-f6.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1099718137233190912/pu/vid/480x480/tMSXNVSlmPbunZKi.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1099718137233190912/pu/pl/N8-IfPloyLSKhoj3.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 847484522115375100,
+				"id_str": "847484522115375105",
+				"name": "Good doggos",
+				"screen_name": "DoggoDating",
+				"location": "London",
+				"description": "Some dogs are Doggos, some are Puppers, and some may even be Pupperinos. But they are all Good Boyes.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70592,
+				"friends_count": 11,
+				"listed_count": 319,
+				"created_at": "Thu Mar 30 16:23:50 +0000 2017",
+				"favourites_count": 8424,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2728,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092090332546777088/heg4PZd8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092090332546777088/heg4PZd8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/847484522115375105/1549212267",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2377,
+			"favorite_count": 11130,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2377,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 24 12:09:47 +0000 2019",
 		"id": 1099642542524690400,
 		"id_str": "1099642542524690432",
