@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 23:09:55 +0000 2019",
+		"id": 1117565676816875500,
+		"id_str": "1117565676816875521",
+		"text": "Rain or shine, this is all I need. Bring it on Boston!! For those watching at home... Wave 1. Corral 1. 10:02 start… https://t.co/Vi6w4mTlxh",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vi6w4mTlxh",
+					"expanded_url": "https://twitter.com/i/web/status/1117565676816875521",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏡",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 282,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5490,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1546088343",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 14 11:27:44 +0000 2019",
+		"id": 1117388968646017000,
+		"id_str": "1117388968646017024",
+		"text": "RT @alanferrier: Why women live longer than men. https://t.co/VfC7P2gf8Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alanferrier",
+					"name": "Alan Ferrier",
+					"id": 132551000,
+					"id_str": "132551000",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111979352315564000,
+					"id_str": "1111979352315564032",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111979352315564032/pu/img/BDsb2FL_pODt6RCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111979352315564032/pu/img/BDsb2FL_pODt6RCc.jpg",
+					"url": "https://t.co/VfC7P2gf8Q",
+					"display_url": "pic.twitter.com/VfC7P2gf8Q",
+					"expanded_url": "https://twitter.com/alanferrier/status/1111979444254765056/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 466,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 466,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1111979444254765000,
+					"source_status_id_str": "1111979444254765056",
+					"source_user_id": 132551000,
+					"source_user_id_str": "132551000"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111979352315564000,
+					"id_str": "1111979352315564032",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111979352315564032/pu/img/BDsb2FL_pODt6RCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111979352315564032/pu/img/BDsb2FL_pODt6RCc.jpg",
+					"url": "https://t.co/VfC7P2gf8Q",
+					"display_url": "pic.twitter.com/VfC7P2gf8Q",
+					"expanded_url": "https://twitter.com/alanferrier/status/1111979444254765056/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 466,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 466,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1111979444254765000,
+					"source_status_id_str": "1111979444254765056",
+					"source_user_id": 132551000,
+					"source_user_id_str": "132551000",
+					"video_info": {
+						"aspect_ratio": [
+							233,
+							427
+						],
+						"duration_millis": 6000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1111979352315564032/pu/pl/mKhk8473HJ9E4uMV.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1111979352315564032/pu/vid/466x854/yHIDVKw8OSgb7KW4.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1111979352315564032/pu/vid/320x586/8HbSyp4XoNxf8KJ4.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 132551000,
+							"id_str": "132551000",
+							"name": "Alan Ferrier",
+							"screen_name": "alanferrier",
+							"location": "Edinburgh, Scotland",
+							"description": "I live in Edinburgh and my hobbies include arranging my CDs in alphabetical order, discovering new and exotic whiskies, sheep-spotting and flying my kite.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 11984,
+							"friends_count": 3412,
+							"listed_count": 177,
+							"created_at": "Tue Apr 13 15:05:21 +0000 2010",
+							"favourites_count": 23121,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 19614,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1080420043958243331/9PL4TOSI_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080420043958243331/9PL4TOSI_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/132551000/1442918803",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏡",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 282,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5490,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1546088343",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 30 13:12:13 +0000 2019",
+			"id": 1111979444254765000,
+			"id_str": "1111979444254765056",
+			"text": "Why women live longer than men. https://t.co/VfC7P2gf8Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1111979352315564000,
+						"id_str": "1111979352315564032",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111979352315564032/pu/img/BDsb2FL_pODt6RCc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111979352315564032/pu/img/BDsb2FL_pODt6RCc.jpg",
+						"url": "https://t.co/VfC7P2gf8Q",
+						"display_url": "pic.twitter.com/VfC7P2gf8Q",
+						"expanded_url": "https://twitter.com/alanferrier/status/1111979444254765056/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 466,
+								"h": 854,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 466,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1111979352315564000,
+						"id_str": "1111979352315564032",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111979352315564032/pu/img/BDsb2FL_pODt6RCc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111979352315564032/pu/img/BDsb2FL_pODt6RCc.jpg",
+						"url": "https://t.co/VfC7P2gf8Q",
+						"display_url": "pic.twitter.com/VfC7P2gf8Q",
+						"expanded_url": "https://twitter.com/alanferrier/status/1111979444254765056/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 466,
+								"h": 854,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 466,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								233,
+								427
+							],
+							"duration_millis": 6000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1111979352315564032/pu/pl/mKhk8473HJ9E4uMV.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1111979352315564032/pu/vid/466x854/yHIDVKw8OSgb7KW4.mp4?tag=8"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1111979352315564032/pu/vid/320x586/8HbSyp4XoNxf8KJ4.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 132551000,
+				"id_str": "132551000",
+				"name": "Alan Ferrier",
+				"screen_name": "alanferrier",
+				"location": "Edinburgh, Scotland",
+				"description": "I live in Edinburgh and my hobbies include arranging my CDs in alphabetical order, discovering new and exotic whiskies, sheep-spotting and flying my kite.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11984,
+				"friends_count": 3412,
+				"listed_count": 177,
+				"created_at": "Tue Apr 13 15:05:21 +0000 2010",
+				"favourites_count": 23121,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19614,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080420043958243331/9PL4TOSI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080420043958243331/9PL4TOSI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/132551000/1442918803",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 737,
+			"favorite_count": 1826,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 737,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 13 19:09:40 +0000 2019",
 		"id": 1117142830382817300,
 		"id_str": "1117142830382817280",
