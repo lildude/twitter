@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 08:23:06 +0000 2019",
+		"id": 1121328769480966100,
+		"id_str": "1121328769480966144",
+		"text": "RT @_DanielSinclair: Here's a video of a Chimpanzee using Instagram. It's eye-opening. https://t.co/FEfIgQSGa6 https://t.co/d9AjhfPNN1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_DanielSinclair",
+					"name": "Daniel Sinclair",
+					"id": 44274672,
+					"id_str": "44274672",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FEfIgQSGa6",
+					"expanded_url": "https://www.instagram.com/p/Bwf080_Bfby/",
+					"display_url": "instagram.com/p/Bwf080_Bfby/",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1121252825995067400,
+					"id_str": "1121252825995067392",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121252825995067392/pu/img/-Bl4KktWn68WoKL6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121252825995067392/pu/img/-Bl4KktWn68WoKL6.jpg",
+					"url": "https://t.co/d9AjhfPNN1",
+					"display_url": "pic.twitter.com/d9AjhfPNN1",
+					"expanded_url": "https://twitter.com/_DanielSinclair/status/1121252893586276352/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1121252893586276400,
+					"source_status_id_str": "1121252893586276352",
+					"source_user_id": 44274672,
+					"source_user_id_str": "44274672"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121252825995067400,
+					"id_str": "1121252825995067392",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121252825995067392/pu/img/-Bl4KktWn68WoKL6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121252825995067392/pu/img/-Bl4KktWn68WoKL6.jpg",
+					"url": "https://t.co/d9AjhfPNN1",
+					"display_url": "pic.twitter.com/d9AjhfPNN1",
+					"expanded_url": "https://twitter.com/_DanielSinclair/status/1121252893586276352/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1121252893586276400,
+					"source_status_id_str": "1121252893586276352",
+					"source_user_id": 44274672,
+					"source_user_id_str": "44274672",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 60008,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1121252825995067392/pu/pl/Dj6LyDJhzC6p218T.m3u8?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121252825995067392/pu/vid/320x400/fLbJafVfTHIzkuz5.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121252825995067392/pu/vid/480x600/OQW9nMV6A64f5xfW.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121252825995067392/pu/vid/360x450/71VamSXPMwFvd45_.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 44274672,
+							"id_str": "44274672",
+							"name": "Daniel Sinclair",
+							"screen_name": "_DanielSinclair",
+							"location": "",
+							"description": "Building for young people. Not reading @danielsunread. Lurking behind likes and thinking about social media, communication, & China.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3067,
+							"friends_count": 4997,
+							"listed_count": 113,
+							"created_at": "Wed Jun 03 02:46:31 +0000 2009",
+							"favourites_count": 52170,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 17731,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/872301148514000898/iJ6LMB2-_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/872301148514000898/iJ6LMB2-_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/44274672/1504083766",
+							"profile_link_color": "63CCCC",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 283,
+			"listed_count": 18,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5508,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1546088343",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 25 03:21:36 +0000 2019",
+			"id": 1121252893586276400,
+			"id_str": "1121252893586276352",
+			"text": "Here's a video of a Chimpanzee using Instagram. It's eye-opening. https://t.co/FEfIgQSGa6 https://t.co/d9AjhfPNN1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FEfIgQSGa6",
+						"expanded_url": "https://www.instagram.com/p/Bwf080_Bfby/",
+						"display_url": "instagram.com/p/Bwf080_Bfby/",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1121252825995067400,
+						"id_str": "1121252825995067392",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121252825995067392/pu/img/-Bl4KktWn68WoKL6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121252825995067392/pu/img/-Bl4KktWn68WoKL6.jpg",
+						"url": "https://t.co/d9AjhfPNN1",
+						"display_url": "pic.twitter.com/d9AjhfPNN1",
+						"expanded_url": "https://twitter.com/_DanielSinclair/status/1121252893586276352/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121252825995067400,
+						"id_str": "1121252825995067392",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121252825995067392/pu/img/-Bl4KktWn68WoKL6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121252825995067392/pu/img/-Bl4KktWn68WoKL6.jpg",
+						"url": "https://t.co/d9AjhfPNN1",
+						"display_url": "pic.twitter.com/d9AjhfPNN1",
+						"expanded_url": "https://twitter.com/_DanielSinclair/status/1121252893586276352/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 60008,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1121252825995067392/pu/pl/Dj6LyDJhzC6p218T.m3u8?tag=8"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1121252825995067392/pu/vid/320x400/fLbJafVfTHIzkuz5.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1121252825995067392/pu/vid/480x600/OQW9nMV6A64f5xfW.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1121252825995067392/pu/vid/360x450/71VamSXPMwFvd45_.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44274672,
+				"id_str": "44274672",
+				"name": "Daniel Sinclair",
+				"screen_name": "_DanielSinclair",
+				"location": "",
+				"description": "Building for young people. Not reading @danielsunread. Lurking behind likes and thinking about social media, communication, & China.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3067,
+				"friends_count": 4997,
+				"listed_count": 113,
+				"created_at": "Wed Jun 03 02:46:31 +0000 2009",
+				"favourites_count": 52170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17731,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872301148514000898/iJ6LMB2-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872301148514000898/iJ6LMB2-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44274672/1504083766",
+				"profile_link_color": "63CCCC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27835,
+			"favorite_count": 74894,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27835,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 22 17:54:54 +0000 2019",
 		"id": 1120385501737967600,
 		"id_str": "1120385501737967616",
@@ -31,7 +515,7 @@ Grailbird.data.tweets_2019_04 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
