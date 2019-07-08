@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 22:19:38 +0000 2019",
+		"id": 1147993605124108300,
+		"id_str": "1147993605124108288",
+		"text": "RT @Cute_N_Squish: Oh... you're home early. https://t.co/nZSFgcCuQJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cute_N_Squish",
+					"name": "Cute N Squishy",
+					"id": 384843276,
+					"id_str": "384843276",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147572766113239000,
+					"id_str": "1147572766113239041",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147572766113239041/pu/img/0NZTXFmd8ltSipbr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147572766113239041/pu/img/0NZTXFmd8ltSipbr.jpg",
+					"url": "https://t.co/nZSFgcCuQJ",
+					"display_url": "pic.twitter.com/nZSFgcCuQJ",
+					"expanded_url": "https://twitter.com/Cute_N_Squish/status/1147572823407386625/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1147572823407386600,
+					"source_status_id_str": "1147572823407386625",
+					"source_user_id": 384843276,
+					"source_user_id_str": "384843276"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147572766113239000,
+					"id_str": "1147572766113239041",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147572766113239041/pu/img/0NZTXFmd8ltSipbr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147572766113239041/pu/img/0NZTXFmd8ltSipbr.jpg",
+					"url": "https://t.co/nZSFgcCuQJ",
+					"display_url": "pic.twitter.com/nZSFgcCuQJ",
+					"expanded_url": "https://twitter.com/Cute_N_Squish/status/1147572823407386625/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1147572823407386600,
+					"source_status_id_str": "1147572823407386625",
+					"source_user_id": 384843276,
+					"source_user_id_str": "384843276",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 24667,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1147572766113239041/pu/pl/FFpW1NH3r1_dTIqE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1147572766113239041/pu/vid/480x600/5o_I01YWNBPxVAIL.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1147572766113239041/pu/vid/320x400/BcssQdNtTjZ9gNBb.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1147572766113239041/pu/vid/360x450/c71n8zvO9NyALrQo.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 384843276,
+							"id_str": "384843276",
+							"name": "Cute N Squishy",
+							"screen_name": "Cute_N_Squish",
+							"location": "London",
+							"description": "Stuff that makes me smile",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 53495,
+							"friends_count": 2479,
+							"listed_count": 204,
+							"created_at": "Tue Oct 04 12:38:11 +0000 2011",
+							"favourites_count": 2409,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1696,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1106942404500824064/shILSoSK_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106942404500824064/shILSoSK_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/384843276/1552750285",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 285,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 06 18:27:36 +0000 2019",
+			"id": 1147572823407386600,
+			"id_str": "1147572823407386625",
+			"text": "Oh... you're home early. https://t.co/nZSFgcCuQJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1147572766113239000,
+						"id_str": "1147572766113239041",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147572766113239041/pu/img/0NZTXFmd8ltSipbr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147572766113239041/pu/img/0NZTXFmd8ltSipbr.jpg",
+						"url": "https://t.co/nZSFgcCuQJ",
+						"display_url": "pic.twitter.com/nZSFgcCuQJ",
+						"expanded_url": "https://twitter.com/Cute_N_Squish/status/1147572823407386625/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1147572766113239000,
+						"id_str": "1147572766113239041",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147572766113239041/pu/img/0NZTXFmd8ltSipbr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147572766113239041/pu/img/0NZTXFmd8ltSipbr.jpg",
+						"url": "https://t.co/nZSFgcCuQJ",
+						"display_url": "pic.twitter.com/nZSFgcCuQJ",
+						"expanded_url": "https://twitter.com/Cute_N_Squish/status/1147572823407386625/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 24667,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1147572766113239041/pu/pl/FFpW1NH3r1_dTIqE.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1147572766113239041/pu/vid/480x600/5o_I01YWNBPxVAIL.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1147572766113239041/pu/vid/320x400/BcssQdNtTjZ9gNBb.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1147572766113239041/pu/vid/360x450/c71n8zvO9NyALrQo.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 384843276,
+				"id_str": "384843276",
+				"name": "Cute N Squishy",
+				"screen_name": "Cute_N_Squish",
+				"location": "London",
+				"description": "Stuff that makes me smile",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53495,
+				"friends_count": 2479,
+				"listed_count": 204,
+				"created_at": "Tue Oct 04 12:38:11 +0000 2011",
+				"favourites_count": 2409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1696,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1106942404500824064/shILSoSK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106942404500824064/shILSoSK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/384843276/1552750285",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9519,
+			"favorite_count": 42003,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9519,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 07 21:08:06 +0000 2019",
+		"id": 1147975601833304000,
+		"id_str": "1147975601833304064",
+		"text": "@coljohnson Yeah. I saw that. Bloody ridiculous!!! 🤬",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coljohnson",
+					"name": "Colin Johnson :",
+					"id": 6499742,
+					"id_str": "6499742",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1147901066668888000,
+		"in_reply_to_status_id_str": "1147901066668888065",
+		"in_reply_to_user_id": 6499742,
+		"in_reply_to_user_id_str": "6499742",
+		"in_reply_to_screen_name": "coljohnson",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 285,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 06 21:15:41 +0000 2019",
 		"id": 1147615121444937700,
 		"id_str": "1147615121444937728",
@@ -31,7 +606,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
@@ -141,7 +716,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
@@ -320,7 +895,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
@@ -432,7 +1007,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
@@ -643,7 +1218,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
