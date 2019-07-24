@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 23 14:25:21 +0000 2019",
+		"id": 1153672450414174200,
+		"id_str": "1153672450414174208",
+		"text": "TIL: I'm not allowed to sleep for 8hrs and 10mins a night on @trainingpeaks 9.7.1 (and earlier) on iOS. 8:09? Fine.… https://t.co/4dBVFt84xS",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TrainingPeaks",
+					"name": "TrainingPeaks",
+					"id": 19348412,
+					"id_str": "19348412",
+					"indices": [
+						61,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4dBVFt84xS",
+					"expanded_url": "https://twitter.com/i/web/status/1153672450414174208",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 285,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 1000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 23 13:06:50 +0000 2019",
+		"id": 1153652693791072300,
+		"id_str": "1153652693791072256",
+		"text": "Got me a new toy today 🤩 #run #garmin #garminforerunner945 https://t.co/4MogQ9dSzt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "run",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "garmin",
+					"indices": [
+						30,
+						37
+					]
+				},
+				{
+					"text": "garminforerunner945",
+					"indices": [
+						38,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1153652692709007400,
+					"id_str": "1153652692709007360",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EAKZAv8X4AAN2w_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAKZAv8X4AAN2w_.jpg",
+					"url": "https://t.co/4MogQ9dSzt",
+					"display_url": "pic.twitter.com/4MogQ9dSzt",
+					"expanded_url": "https://twitter.com/lildude/status/1153652693791072256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153652692709007400,
+					"id_str": "1153652692709007360",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EAKZAv8X4AAN2w_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAKZAv8X4AAN2w_.jpg",
+					"url": "https://t.co/4MogQ9dSzt",
+					"display_url": "pic.twitter.com/4MogQ9dSzt",
+					"expanded_url": "https://twitter.com/lildude/status/1153652693791072256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 285,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 1000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 20 07:26:35 +0000 2019",
 		"id": 1152479902110801900,
 		"id_str": "1152479902110801920",
@@ -32,7 +355,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
@@ -138,7 +461,7 @@ Grailbird.data.tweets_2019_07 =
 				"name": "Stephen Fry",
 				"screen_name": "stephenfry",
 				"location": "Los Angeles, CA/ London UK",
-				"description": "How can I tell you what I think until I’ve heard what I’m going to say? 🏳️‍🌈 (Never read DMs I’m afraid)",
+				"description": "How can I tell you what I think until I’ve heard what I’m going to say? 🏳️🌈 (Never read DMs I’m afraid)",
 				"url": null,
 				"entities": {
 					"description": {
