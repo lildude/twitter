@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 20 17:47:17 +0000 2019",
+		"id": 1163870129823932400,
+		"id_str": "1163870129823932422",
+		"text": "RT @no_itsHueina: to everyone singing the lion king at this picture: the words are “nants ingonayama, bagithi Baba” and it means “here come…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "no_itsHueina",
+					"name": "Wayna who?",
+					"id": 2151840007,
+					"id_str": "2151840007",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 526,
+			"friends_count": 285,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 1008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 18 18:36:20 +0000 2019",
+			"id": 1163157698088583200,
+			"id_str": "1163157698088583168",
+			"text": "to everyone singing the lion king at this picture: the words are “nants ingonayama, bagithi Baba” and it means “her… https://t.co/TFN6DgX0yT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TFN6DgX0yT",
+						"expanded_url": "https://twitter.com/i/web/status/1163157698088583168",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2151840007,
+				"id_str": "2151840007",
+				"name": "Wayna who?",
+				"screen_name": "no_itsHueina",
+				"location": "The Bad Place",
+				"description": "don’t hate. educate ||🇦🇸🇹🇴🇯🇵🌺🌸🍥 || kū kia’i mauna ||",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 827,
+				"friends_count": 324,
+				"listed_count": 1,
+				"created_at": "Wed Oct 23 23:21:32 +0000 2013",
+				"favourites_count": 12342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4826,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1126674015118958592/a62IXx7X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126674015118958592/a62IXx7X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2151840007/1565152824",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1161037928665104400,
+			"quoted_status_id_str": "1161037928665104384",
+			"quoted_status": {
+				"created_at": "Mon Aug 12 22:13:07 +0000 2019",
+				"id": 1161037928665104400,
+				"id_str": "1161037928665104384",
+				"text": "Kenya 🇰🇪 https://t.co/OUNEOPfdJ6",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1161037917629898800,
+							"id_str": "1161037917629898753",
+							"indices": [
+								9,
+								32
+							],
+							"media_url": "http://pbs.twimg.com/media/EBzV1asW4AEcM-6.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/EBzV1asW4AEcM-6.jpg",
+							"url": "https://t.co/OUNEOPfdJ6",
+							"display_url": "pic.twitter.com/OUNEOPfdJ6",
+							"expanded_url": "https://twitter.com/EarthDiscovers/status/1161037928665104384/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 546,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 822,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 822,
+									"h": 1024,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1161037917629898800,
+							"id_str": "1161037917629898753",
+							"indices": [
+								9,
+								32
+							],
+							"media_url": "http://pbs.twimg.com/media/EBzV1asW4AEcM-6.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/EBzV1asW4AEcM-6.jpg",
+							"url": "https://t.co/OUNEOPfdJ6",
+							"display_url": "pic.twitter.com/OUNEOPfdJ6",
+							"expanded_url": "https://twitter.com/EarthDiscovers/status/1161037928665104384/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 546,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 822,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 822,
+									"h": 1024,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 1161037922327572500,
+							"id_str": "1161037922327572482",
+							"indices": [
+								9,
+								32
+							],
+							"media_url": "http://pbs.twimg.com/media/EBzV1sMXsAIEPPs.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/EBzV1sMXsAIEPPs.jpg",
+							"url": "https://t.co/OUNEOPfdJ6",
+							"display_url": "pic.twitter.com/OUNEOPfdJ6",
+							"expanded_url": "https://twitter.com/EarthDiscovers/status/1161037928665104384/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 828,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 828,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 550,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 827585192328044500,
+					"id_str": "827585192328044546",
+					"name": "Earth",
+					"screen_name": "EarthDiscovers",
+					"location": "dm for credit / removal",
+					"description": "Content is not ours, credit to the owners.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 41649,
+					"friends_count": 3995,
+					"listed_count": 18,
+					"created_at": "Fri Feb 03 18:31:00 +0000 2017",
+					"favourites_count": 31,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 530,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1162101134732996629/-Zy15QFJ_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162101134732996629/-Zy15QFJ_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/827585192328044546/1565901503",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6922,
+				"favorite_count": 23551,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": true,
+				"lang": "in"
+			},
+			"retweet_count": 88141,
+			"favorite_count": 289350,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1161037928665104400,
+		"quoted_status_id_str": "1161037928665104384",
+		"retweet_count": 88141,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 18 21:19:15 +0000 2019",
 		"id": 1163198697792053200,
 		"id_str": "1163198697792053250",
@@ -107,7 +502,7 @@ Grailbird.data.tweets_2019_08 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
@@ -286,7 +681,7 @@ Grailbird.data.tweets_2019_08 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
