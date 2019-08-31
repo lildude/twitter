@@ -1,6 +1,680 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 22:25:50 +0000 2019",
+		"id": 1167564107052134400,
+		"id_str": "1167564107052134402",
+		"text": "Those peeps in the background are queuing for this, but I got the last one 🤣 Nom nom nom 😋 #meatopia #dessert… https://t.co/zZgNmpUrEu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "meatopia",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "dessert",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZgNmpUrEu",
+					"expanded_url": "https://twitter.com/i/web/status/1167564107052134402",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 527,
+			"friends_count": 285,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 1010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 30 18:53:37 +0000 2019",
+		"id": 1167510701868507100,
+		"id_str": "1167510701868507136",
+		"text": "I've found my happy place, and they have a great selection of craft beers to help all this meat go down 😋😋😋😋… https://t.co/a515nKDAuQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a515nKDAuQ",
+					"expanded_url": "https://twitter.com/i/web/status/1167510701868507136",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 527,
+			"friends_count": 285,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 1010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 30 17:28:40 +0000 2019",
+		"id": 1167489325560451000,
+		"id_str": "1167489325560451075",
+		"text": "RT @ClaireLSeymour: Look at his happy little face😊 @MeatopiaUK #XmasInAugust https://t.co/W31ZFRvHQn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "XmasInAugust",
+					"indices": [
+						63,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClaireLSeymour",
+					"name": "Claire Seymour",
+					"id": 794529843023056900,
+					"id_str": "794529843023056896",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "MeatopiaUK",
+					"name": "MeatopiaUK",
+					"id": 1381456454,
+					"id_str": "1381456454",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167474899717435400,
+					"id_str": "1167474899717435394",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EDO0PFnXsAIkTlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDO0PFnXsAIkTlB.jpg",
+					"url": "https://t.co/W31ZFRvHQn",
+					"display_url": "pic.twitter.com/W31ZFRvHQn",
+					"expanded_url": "https://twitter.com/ClaireLSeymour/status/1167474931728297989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1167474931728298000,
+					"source_status_id_str": "1167474931728297989",
+					"source_user_id": 794529843023056900,
+					"source_user_id_str": "794529843023056896"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167474899717435400,
+					"id_str": "1167474899717435394",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EDO0PFnXsAIkTlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDO0PFnXsAIkTlB.jpg",
+					"url": "https://t.co/W31ZFRvHQn",
+					"display_url": "pic.twitter.com/W31ZFRvHQn",
+					"expanded_url": "https://twitter.com/ClaireLSeymour/status/1167474931728297989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1167474931728298000,
+					"source_status_id_str": "1167474931728297989",
+					"source_user_id": 794529843023056900,
+					"source_user_id_str": "794529843023056896"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 527,
+			"friends_count": 285,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 1010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 30 16:31:29 +0000 2019",
+			"id": 1167474931728298000,
+			"id_str": "1167474931728297989",
+			"text": "Look at his happy little face😊 @MeatopiaUK #XmasInAugust https://t.co/W31ZFRvHQn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "XmasInAugust",
+						"indices": [
+							43,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MeatopiaUK",
+						"name": "MeatopiaUK",
+						"id": 1381456454,
+						"id_str": "1381456454",
+						"indices": [
+							31,
+							42
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1167474899717435400,
+						"id_str": "1167474899717435394",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/EDO0PFnXsAIkTlB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDO0PFnXsAIkTlB.jpg",
+						"url": "https://t.co/W31ZFRvHQn",
+						"display_url": "pic.twitter.com/W31ZFRvHQn",
+						"expanded_url": "https://twitter.com/ClaireLSeymour/status/1167474931728297989/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1167474899717435400,
+						"id_str": "1167474899717435394",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/EDO0PFnXsAIkTlB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDO0PFnXsAIkTlB.jpg",
+						"url": "https://t.co/W31ZFRvHQn",
+						"display_url": "pic.twitter.com/W31ZFRvHQn",
+						"expanded_url": "https://twitter.com/ClaireLSeymour/status/1167474931728297989/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 794529843023056900,
+				"id_str": "794529843023056896",
+				"name": "Claire Seymour",
+				"screen_name": "ClaireLSeymour",
+				"location": "South East, England",
+				"description": "",
+				"url": "https://t.co/MfgIbvt5DX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MfgIbvt5DX",
+								"expanded_url": "http://cluckcorner.com",
+								"display_url": "cluckcorner.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16,
+				"friends_count": 38,
+				"listed_count": 0,
+				"created_at": "Fri Nov 04 13:20:51 +0000 2016",
+				"favourites_count": 777,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861612986024292352/807buxlG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861612986024292352/807buxlG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/794529843023056896/1501241179",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "08be9e4ebe3d037d",
+				"url": "https://api.twitter.com/1.1/geo/id/08be9e4ebe3d037d.json",
+				"place_type": "city",
+				"name": "Poplar",
+				"full_name": "Poplar, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.080028,
+								51.48432
+							],
+							[
+								0.009989,
+								51.48432
+							],
+							[
+								0.009989,
+								51.545341
+							],
+							[
+								-0.080028,
+								51.545341
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 28 18:59:31 +0000 2019",
 		"id": 1166787412942606300,
 		"id_str": "1166787412942606342",
@@ -32,7 +706,7 @@ Grailbird.data.tweets_2019_08 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🤘at 🏃‍♂️",
+			"name": "Lildude Esquire 🤘at 🏃♂️",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
