@@ -1,10 +1,343 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 23 20:03:17 +0000 2019",
+		"id": 1198331202517815300,
+		"id_str": "1198331202517815297",
+		"text": "RT @lynnandtonic: Got proper nerdsniped today. Here it is, dorks.\n\n🚚 Single div CSS Tesla Cybertruck https://t.co/shGZRHA0lb https://t.co/5…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lynnandtonic",
+					"name": "Lynn Fisher",
+					"id": 27965538,
+					"id_str": "27965538",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/shGZRHA0lb",
+					"expanded_url": "https://codepen.io/lynnandtonic/full/NWWmzjr",
+					"display_url": "codepen.io/lynnandtonic/f…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🔥🍑 on Nashville hot 🍗",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 538,
+			"friends_count": 271,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 1038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 22 21:27:07 +0000 2019",
+			"id": 1197989912970068000,
+			"id_str": "1197989912970067969",
+			"text": "Got proper nerdsniped today. Here it is, dorks.\n\n🚚 Single div CSS Tesla Cybertruck https://t.co/shGZRHA0lb https://t.co/5jN81ngVKk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/shGZRHA0lb",
+						"expanded_url": "https://codepen.io/lynnandtonic/full/NWWmzjr",
+						"display_url": "codepen.io/lynnandtonic/f…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1197989908180127700,
+						"id_str": "1197989908180127744",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/EKAdeWmUUAAh2RU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKAdeWmUUAAh2RU.jpg",
+						"url": "https://t.co/5jN81ngVKk",
+						"display_url": "pic.twitter.com/5jN81ngVKk",
+						"expanded_url": "https://twitter.com/lynnandtonic/status/1197989912970067969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1015,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 595,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1197989908180127700,
+						"id_str": "1197989908180127744",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/EKAdeWmUUAAh2RU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKAdeWmUUAAh2RU.jpg",
+						"url": "https://t.co/5jN81ngVKk",
+						"display_url": "pic.twitter.com/5jN81ngVKk",
+						"expanded_url": "https://twitter.com/lynnandtonic/status/1197989912970067969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1015,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 595,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27965538,
+				"id_str": "27965538",
+				"name": "Lynn Fisher",
+				"screen_name": "lynnandtonic",
+				"location": "Phoenix, AZ",
+				"description": "CCO at @andyet. Living each day like it’s Pizza Day. she/her",
+				"url": "https://t.co/eEiMX2HnfP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eEiMX2HnfP",
+								"expanded_url": "https://lynnandtonic.com",
+								"display_url": "lynnandtonic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7968,
+				"friends_count": 485,
+				"listed_count": 171,
+				"created_at": "Tue Mar 31 21:19:06 +0000 2009",
+				"favourites_count": 5608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7613,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "242424",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/477556215401025537/zH_q0-_s_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/477556215401025537/zH_q0-_s_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27965538/1380170906",
+				"profile_link_color": "219E9E",
+				"profile_sidebar_border_color": "BABABA",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "424242",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1452,
+			"favorite_count": 5695,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1452,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 21 12:50:47 +0000 2019",
 		"id": 1197497585822503000,
 		"id_str": "1197497585822502913",
-		"text": "@tabamatu @i96jms 🤦‍♂️ I knew that!",
+		"text": "@tabamatu @i96jms 🤦♂️ I knew that!",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
