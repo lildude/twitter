@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 14:27:55 +0000 2019",
+		"id": 1203320235388014600,
+		"id_str": "1203320235388014592",
+		"text": "@Homeys Please please make men’s in that design. 🙏",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Homeys",
+					"name": "Homeys Slippers",
+					"id": 20764060,
+					"id_str": "20764060",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1201586833907433500,
+		"in_reply_to_status_id_str": "1201586833907433472",
+		"in_reply_to_user_id": 20764060,
+		"in_reply_to_user_id_str": "20764060",
+		"in_reply_to_screen_name": "Homeys",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire 🏃‍♂️ in VLC 🇪🇸",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 538,
+			"friends_count": 272,
+			"listed_count": 17,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 1038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 01 08:22:26 +0000 2019",
 		"id": 1201053931608117200,
 		"id_str": "1201053931608117249",
@@ -149,7 +262,7 @@ Grailbird.data.tweets_2019_12 =
 		"user": {
 			"id": 8812362,
 			"id_str": "8812362",
-			"name": "Lildude Esquire 🏃‍♂️ in VLC 🇪🇸",
+			"name": "Lildude Esquire 🏃♂️ in VLC 🇪🇸",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
 			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
