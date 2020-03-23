@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 09:08:38 +0000 2020",
+		"id": 1241653000550088700,
+		"id_str": "1241653000550088704",
+		"text": "RT @Blayofficial: When working from home goes wrong 😂😂😂😂😂😂😂 https://t.co/Yd3mPdkf6Y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Blayofficial",
+					"name": "Baby Goat🐐 #NoDaysOff🇬🇭🇬🇭🇬🇭",
+					"id": 467547816,
+					"id_str": "467547816",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241477236412293000,
+					"id_str": "1241477236412293120",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241477236412293120/pu/img/K9jlBWOWjIhFYK3Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241477236412293120/pu/img/K9jlBWOWjIhFYK3Y.jpg",
+					"url": "https://t.co/Yd3mPdkf6Y",
+					"display_url": "pic.twitter.com/Yd3mPdkf6Y",
+					"expanded_url": "https://twitter.com/Blayofficial/status/1241477350950404115/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1241477350950404000,
+					"source_status_id_str": "1241477350950404115",
+					"source_user_id": 467547816,
+					"source_user_id_str": "467547816"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241477236412293000,
+					"id_str": "1241477236412293120",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241477236412293120/pu/img/K9jlBWOWjIhFYK3Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241477236412293120/pu/img/K9jlBWOWjIhFYK3Y.jpg",
+					"url": "https://t.co/Yd3mPdkf6Y",
+					"display_url": "pic.twitter.com/Yd3mPdkf6Y",
+					"expanded_url": "https://twitter.com/Blayofficial/status/1241477350950404115/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1241477350950404000,
+					"source_status_id_str": "1241477350950404115",
+					"source_user_id": 467547816,
+					"source_user_id_str": "467547816",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 39753,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241477236412293120/pu/vid/360x640/oXBPOOV-1uFrR9Ng.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241477236412293120/pu/vid/720x1280/bqYcvb10aZ4zoLJz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1241477236412293120/pu/pl/pAuQlVw2C6F0usR2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241477236412293120/pu/vid/320x568/DsAKzInHxTCtoPaL.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 467547816,
+							"id_str": "467547816",
+							"name": "Baby Goat🐐 #NoDaysOff🇬🇭🇬🇭🇬🇭",
+							"screen_name": "Blayofficial",
+							"location": "London, England",
+							"description": "Content Creator | Artist | IG: Blayofficial | Blaypromo@gmail.com",
+							"url": "https://t.co/1KBNQ2eJvG",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/1KBNQ2eJvG",
+											"expanded_url": "https://curiouscat.me/Blayofficial",
+											"display_url": "curiouscat.me/Blayofficial",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 22945,
+							"friends_count": 8993,
+							"listed_count": 277,
+							"created_at": "Wed Jan 18 15:52:24 +0000 2012",
+							"favourites_count": 53841,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 101082,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1202042685940477954/EwQz1AsU_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202042685940477954/EwQz1AsU_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/467547816/1579133896",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 535,
+			"friends_count": 271,
+			"listed_count": 16,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 1027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 21 21:30:40 +0000 2020",
+			"id": 1241477350950404000,
+			"id_str": "1241477350950404115",
+			"text": "When working from home goes wrong 😂😂😂😂😂😂😂 https://t.co/Yd3mPdkf6Y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1241477236412293000,
+						"id_str": "1241477236412293120",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241477236412293120/pu/img/K9jlBWOWjIhFYK3Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241477236412293120/pu/img/K9jlBWOWjIhFYK3Y.jpg",
+						"url": "https://t.co/Yd3mPdkf6Y",
+						"display_url": "pic.twitter.com/Yd3mPdkf6Y",
+						"expanded_url": "https://twitter.com/Blayofficial/status/1241477350950404115/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1241477236412293000,
+						"id_str": "1241477236412293120",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241477236412293120/pu/img/K9jlBWOWjIhFYK3Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241477236412293120/pu/img/K9jlBWOWjIhFYK3Y.jpg",
+						"url": "https://t.co/Yd3mPdkf6Y",
+						"display_url": "pic.twitter.com/Yd3mPdkf6Y",
+						"expanded_url": "https://twitter.com/Blayofficial/status/1241477350950404115/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 39753,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1241477236412293120/pu/vid/360x640/oXBPOOV-1uFrR9Ng.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1241477236412293120/pu/vid/720x1280/bqYcvb10aZ4zoLJz.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1241477236412293120/pu/pl/pAuQlVw2C6F0usR2.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1241477236412293120/pu/vid/320x568/DsAKzInHxTCtoPaL.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 467547816,
+				"id_str": "467547816",
+				"name": "Baby Goat🐐 #NoDaysOff🇬🇭🇬🇭🇬🇭",
+				"screen_name": "Blayofficial",
+				"location": "London, England",
+				"description": "Content Creator | Artist | IG: Blayofficial | Blaypromo@gmail.com",
+				"url": "https://t.co/1KBNQ2eJvG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1KBNQ2eJvG",
+								"expanded_url": "https://curiouscat.me/Blayofficial",
+								"display_url": "curiouscat.me/Blayofficial",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22945,
+				"friends_count": 8993,
+				"listed_count": 277,
+				"created_at": "Wed Jan 18 15:52:24 +0000 2012",
+				"favourites_count": 53841,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 101082,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202042685940477954/EwQz1AsU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202042685940477954/EwQz1AsU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/467547816/1579133896",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 79447,
+			"favorite_count": 260979,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 79447,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 18 22:28:59 +0000 2020",
 		"id": 1240404863374307300,
 		"id_str": "1240404863374307330",
