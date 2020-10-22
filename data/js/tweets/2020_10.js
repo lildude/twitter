@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 21 17:21:42 +0000 2020",
+		"id": 1318965698694185000,
+		"id_str": "1318965698694184963",
+		"text": "@bamb00zzle @keeran @bamb00zzle My context for @keeran’s tweet: https://t.co/N3BEiLkxIX you can see it, but you mig… https://t.co/BrF6JBumkW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bamb00zzle",
+					"name": "Bamboo",
+					"id": 15241761,
+					"id_str": "15241761",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "keeran",
+					"name": "keeran",
+					"id": 10075872,
+					"id_str": "10075872",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"screen_name": "bamb00zzle",
+					"name": "Bamboo",
+					"id": 15241761,
+					"id_str": "15241761",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "keeran",
+					"name": "keeran",
+					"id": 10075872,
+					"id_str": "10075872",
+					"indices": [
+						47,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N3BEiLkxIX",
+					"expanded_url": "https://www.theverge.com/21524092/twitter-temporarily-changing-retweet-quote-tweet-election",
+					"display_url": "theverge.com/21524092/twitt…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/BrF6JBumkW",
+					"expanded_url": "https://twitter.com/i/web/status/1318965698694184963",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1318905328671641600,
+		"in_reply_to_status_id_str": "1318905328671641600",
+		"in_reply_to_user_id": 15241761,
+		"in_reply_to_user_id_str": "15241761",
+		"in_reply_to_screen_name": "bamb00zzle",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire ʕʘ̅͜ʘ̅ʔ",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 279,
+			"listed_count": 15,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 21 17:13:27 +0000 2020",
+		"id": 1318963621976789000,
+		"id_str": "1318963621976788994",
+		"text": "@bamb00zzle @keeran I don’t use the official client and I can blindly retweet my 🥜 off 😂🤣",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bamb00zzle",
+					"name": "Bamboo",
+					"id": 15241761,
+					"id_str": "15241761",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "keeran",
+					"name": "keeran",
+					"id": 10075872,
+					"id_str": "10075872",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1318905328671641600,
+		"in_reply_to_status_id_str": "1318905328671641600",
+		"in_reply_to_user_id": 15241761,
+		"in_reply_to_user_id_str": "15241761",
+		"in_reply_to_screen_name": "bamb00zzle",
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire ʕʘ̅͜ʘ̅ʔ",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 279,
+			"listed_count": 15,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 21 17:09:54 +0000 2020",
+		"id": 1318962730238419000,
+		"id_str": "1318962730238418945",
+		"text": "RT @NickClement: Magnificent https://t.co/v5qVk7b023",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NickClement",
+					"name": "Nick",
+					"id": 490673,
+					"id_str": "490673",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1318823078080745500,
+					"id_str": "1318823078080745472",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek1mmiKXEAAbwSQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek1mmiKXEAAbwSQ.jpg",
+					"url": "https://t.co/v5qVk7b023",
+					"display_url": "pic.twitter.com/v5qVk7b023",
+					"expanded_url": "https://twitter.com/NickClement/status/1318823082962931713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 951,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 951,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1318823082962931700,
+					"source_status_id_str": "1318823082962931713",
+					"source_user_id": 490673,
+					"source_user_id_str": "490673"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318823078080745500,
+					"id_str": "1318823078080745472",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek1mmiKXEAAbwSQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek1mmiKXEAAbwSQ.jpg",
+					"url": "https://t.co/v5qVk7b023",
+					"display_url": "pic.twitter.com/v5qVk7b023",
+					"expanded_url": "https://twitter.com/NickClement/status/1318823082962931713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 951,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 951,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1318823082962931700,
+					"source_status_id_str": "1318823082962931713",
+					"source_user_id": 490673,
+					"source_user_id_str": "490673"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire ʕʘ̅͜ʘ̅ʔ",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub developing, beer drinking, running fundi and stay-at-home astronaut. Run stuffs at https://t.co/OlEtj7TstY",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 279,
+			"listed_count": 15,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964993178230288384/vi8iEvhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 21 07:55:00 +0000 2020",
+			"id": 1318823082962931700,
+			"id_str": "1318823082962931713",
+			"text": "Magnificent https://t.co/v5qVk7b023",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1318823078080745500,
+						"id_str": "1318823078080745472",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek1mmiKXEAAbwSQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek1mmiKXEAAbwSQ.jpg",
+						"url": "https://t.co/v5qVk7b023",
+						"display_url": "pic.twitter.com/v5qVk7b023",
+						"expanded_url": "https://twitter.com/NickClement/status/1318823082962931713/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 539,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 951,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 951,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1318823078080745500,
+						"id_str": "1318823078080745472",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek1mmiKXEAAbwSQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek1mmiKXEAAbwSQ.jpg",
+						"url": "https://t.co/v5qVk7b023",
+						"display_url": "pic.twitter.com/v5qVk7b023",
+						"expanded_url": "https://twitter.com/NickClement/status/1318823082962931713/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 539,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 951,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 951,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 490673,
+				"id_str": "490673",
+				"name": "Nick",
+				"screen_name": "NickClement",
+				"location": "London via 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+				"description": "Designer | Founder of @glug + @blkbkhq",
+				"url": "https://t.co/yUaQQN9c1A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yUaQQN9c1A",
+								"expanded_url": "http://madestudio.design",
+								"display_url": "madestudio.design",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6777,
+				"friends_count": 2431,
+				"listed_count": 240,
+				"created_at": "Wed Jan 03 12:49:01 +0000 2007",
+				"favourites_count": 17799,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1296899261540569089/soFh_0t4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296899261540569089/soFh_0t4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/490673/1593283640",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "333333",
+				"profile_text_color": "999999",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 215,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Sun Oct 11 16:15:54 +0000 2020",
 		"id": 1315325259663511600,
 		"id_str": "1315325259663511553",
