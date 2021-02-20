@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 20:53:43 +0000 2021",
+		"id": 1362867986944700400,
+		"id_str": "1362867986944700418",
+		"text": "Looks like an average day in the Karoo 🇿🇦 without the lofi soundtrack 🤣 https://t.co/fYxB3eUhNJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fYxB3eUhNJ",
+					"expanded_url": "https://twitter.com/James7Holland/status/1362814591940648960",
+					"display_url": "twitter.com/James7Holland/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub dev, beer drinker, runner & stay-at-home 🧑‍🚀 | Pronoun: Colin/One | https://t.co/OlEtj7TstY | https://t.co/UKMLKK1MEB",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								75,
+								98
+							]
+						},
+						{
+							"url": "https://t.co/UKMLKK1MEB",
+							"expanded_url": "http://colinseymour.co.uk",
+							"display_url": "colinseymour.co.uk",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 526,
+			"friends_count": 265,
+			"listed_count": 15,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345283359912689665/Rs4N2mwF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345283359912689665/Rs4N2mwF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1362814591940649000,
+		"quoted_status_id_str": "1362814591940648960",
+		"quoted_status": {
+			"created_at": "Fri Feb 19 17:21:33 +0000 2021",
+			"id": 1362814591940649000,
+			"id_str": "1362814591940648960",
+			"text": "Stop everything for 26 seconds and watch this.\n\nFootage, with sound (!) from the surface of another planet.\n\nJust i… https://t.co/TyaITCIwve",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TyaITCIwve",
+						"expanded_url": "https://twitter.com/i/web/status/1362814591940648960",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 144830278,
+				"id_str": "144830278",
+				"name": "James Holland",
+				"screen_name": "James7Holland",
+				"location": "Brussels",
+				"description": "Writer and digital content specialist. Interested in European Politics, Free Markets, Foreign Policy, Democracy, Social Psychology and Digital. Views my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13980,
+				"friends_count": 647,
+				"listed_count": 179,
+				"created_at": "Mon May 17 12:16:12 +0000 2010",
+				"favourites_count": 1648,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14743,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1336087601208549376/aEwNdouj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336087601208549376/aEwNdouj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/144830278/1607383196",
+				"profile_link_color": "28719D",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51981,
+			"favorite_count": 172604,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 13 20:43:30 +0000 2021",
 		"id": 1360691086671437800,
 		"id_str": "1360691086671437830",
@@ -35,7 +245,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "Lildude Esquire",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
-			"description": "GitHub dev, beer drinker, runner & stay-at-home 🧑‍🚀 | Pronoun: Colin/One | https://t.co/OlEtj7TstY | https://t.co/UKMLKK1MEB",
+			"description": "GitHub dev, beer drinker, runner & stay-at-home 🧑🚀 | Pronoun: Colin/One | https://t.co/OlEtj7TstY | https://t.co/UKMLKK1MEB",
 			"url": "https://t.co/3MoMsEOqye",
 			"entities": {
 				"url": {
@@ -255,7 +465,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "Lildude Esquire",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
-			"description": "GitHub dev, beer drinker, runner & stay-at-home 🧑‍🚀 | Pronoun: Colin/One | https://t.co/OlEtj7TstY | https://t.co/UKMLKK1MEB",
+			"description": "GitHub dev, beer drinker, runner & stay-at-home 🧑🚀 | Pronoun: Colin/One | https://t.co/OlEtj7TstY | https://t.co/UKMLKK1MEB",
 			"url": "https://t.co/3MoMsEOqye",
 			"entities": {
 				"url": {
