@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 20 19:23:42 +0000 2021",
+		"id": 1363207718878732300,
+		"id_str": "1363207718878732289",
+		"text": "And I’ve just discovered I was picking up from @ElusiveBrew when the ‘hood was mapped 😂🤣 https://t.co/5GzdB1Iv4x https://t.co/bKVkm1HnnV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElusiveBrew",
+					"name": "Elusive Brewing",
+					"id": 410605445,
+					"id_str": "410605445",
+					"indices": [
+						47,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5GzdB1Iv4x",
+					"expanded_url": "https://twitter.com/SirenCraftBrew/status/1363093444286173186",
+					"display_url": "twitter.com/SirenCraftBrew…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1363207703108202500,
+					"id_str": "1363207703108202496",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EusWLvLXMAAThry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EusWLvLXMAAThry.jpg",
+					"url": "https://t.co/bKVkm1HnnV",
+					"display_url": "pic.twitter.com/bKVkm1HnnV",
+					"expanded_url": "https://twitter.com/lildude/status/1363207718878732289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363207703108202500,
+					"id_str": "1363207703108202496",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EusWLvLXMAAThry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EusWLvLXMAAThry.jpg",
+					"url": "https://t.co/bKVkm1HnnV",
+					"display_url": "pic.twitter.com/bKVkm1HnnV",
+					"expanded_url": "https://twitter.com/lildude/status/1363207718878732289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8812362,
+			"id_str": "8812362",
+			"name": "Lildude Esquire",
+			"screen_name": "lildude",
+			"location": "Everywhere. Wha ha ha ha haaa!",
+			"description": "GitHub dev, beer drinker, runner & stay-at-home 🧑‍🚀 | Pronoun: Colin/One | https://t.co/OlEtj7TstY | https://t.co/UKMLKK1MEB",
+			"url": "https://t.co/3MoMsEOqye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MoMsEOqye",
+							"expanded_url": "https://lildude.co.uk",
+							"display_url": "lildude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OlEtj7TstY",
+							"expanded_url": "http://gonefora.run",
+							"display_url": "gonefora.run",
+							"indices": [
+								75,
+								98
+							]
+						},
+						{
+							"url": "https://t.co/UKMLKK1MEB",
+							"expanded_url": "http://colinseymour.co.uk",
+							"display_url": "colinseymour.co.uk",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 525,
+			"friends_count": 265,
+			"listed_count": 15,
+			"created_at": "Tue Sep 11 15:19:08 +0000 2007",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345283359912689665/Rs4N2mwF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345283359912689665/Rs4N2mwF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8812362/1558126627",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363093444286173200,
+		"quoted_status_id_str": "1363093444286173186",
+		"quoted_status": {
+			"created_at": "Sat Feb 20 11:49:36 +0000 2021",
+			"id": 1363093444286173200,
+			"id_str": "1363093444286173186",
+			"text": "With added Dolly 😍 https://t.co/UgpWriR4Cl https://t.co/cKlBWKalkE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UgpWriR4Cl",
+						"expanded_url": "https://twitter.com/danmayer77/status/1363079460787003397",
+						"display_url": "twitter.com/danmayer77/sta…",
+						"indices": [
+							19,
+							42
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1363093357082390500,
+						"id_str": "1363093357082390534",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/EuquL7CXMAY7RVG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuquL7CXMAY7RVG.jpg",
+						"url": "https://t.co/cKlBWKalkE",
+						"display_url": "pic.twitter.com/cKlBWKalkE",
+						"expanded_url": "https://twitter.com/SirenCraftBrew/status/1363093444286173186/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363093357082390500,
+						"id_str": "1363093357082390534",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/EuquL7CXMAY7RVG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuquL7CXMAY7RVG.jpg",
+						"url": "https://t.co/cKlBWKalkE",
+						"display_url": "pic.twitter.com/cKlBWKalkE",
+						"expanded_url": "https://twitter.com/SirenCraftBrew/status/1363093444286173186/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 945733406,
+				"id_str": "945733406",
+				"name": "Siren Craft Brew",
+				"screen_name": "SirenCraftBrew",
+				"location": "#Finchampstead, Berkshire",
+				"description": "Check out our LOCKDOWN CALENDAR! \n\n10% Off your first order: https://t.co/znahWc7XDY",
+				"url": "https://t.co/ybcnMIytHD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ybcnMIytHD",
+								"expanded_url": "https://linktr.ee/sirencraftbrew",
+								"display_url": "linktr.ee/sirencraftbrew",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/znahWc7XDY",
+								"expanded_url": "http://linktr.ee/sirencraftbrew",
+								"display_url": "linktr.ee/sirencraftbrew",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 31391,
+				"friends_count": 1944,
+				"listed_count": 406,
+				"created_at": "Tue Nov 13 12:47:18 +0000 2012",
+				"favourites_count": 37795,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21789,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1346085253715271681/Q43vPaw4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346085253715271681/Q43vPaw4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/945733406/1611847834",
+				"profile_link_color": "BD7E46",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1363079460787003400,
+			"quoted_status_id_str": "1363079460787003397",
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 19 20:53:43 +0000 2021",
 		"id": 1362867986944700400,
 		"id_str": "1362867986944700418",
@@ -34,7 +436,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "Lildude Esquire",
 			"screen_name": "lildude",
 			"location": "Everywhere. Wha ha ha ha haaa!",
-			"description": "GitHub dev, beer drinker, runner & stay-at-home 🧑‍🚀 | Pronoun: Colin/One | https://t.co/OlEtj7TstY | https://t.co/UKMLKK1MEB",
+			"description": "GitHub dev, beer drinker, runner & stay-at-home 🧑🚀 | Pronoun: Colin/One | https://t.co/OlEtj7TstY | https://t.co/UKMLKK1MEB",
 			"url": "https://t.co/3MoMsEOqye",
 			"entities": {
 				"url": {
